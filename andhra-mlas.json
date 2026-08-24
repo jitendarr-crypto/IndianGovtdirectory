@@ -1,0 +1,1759 @@
+{
+  "level": "mlas",
+  "state": "Andhra Pradesh",
+  "assembly": "16th Andhra Pradesh Legislative Assembly (2024–2029)",
+  "role_title": "MLA",
+  "source_url": "https://en.wikipedia.org/wiki/16th_Andhra_Pradesh_Assembly",
+  "items": [
+    {
+      "no": 1,
+      "constituency": "Ichchapuram",
+      "reservation": null,
+      "name": "Ashok Bendalam",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 2,
+      "constituency": "Palasa",
+      "reservation": null,
+      "name": "Gouthu Sireesha",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 3,
+      "constituency": "Tekkali",
+      "reservation": null,
+      "name": "Kinjarapu Atchannaidu",
+      "party": "TDP",
+      "note": "Minister of Agriculture, Co-operation, Marketing, Animal Husbandry, Dairy & Fisheries",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 4,
+      "constituency": "Pathapatnam",
+      "reservation": null,
+      "name": "Mamidi Govinda Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 5,
+      "constituency": "Srikakulam",
+      "reservation": null,
+      "name": "Gondu Shankar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 6,
+      "constituency": "Amadalavalasa",
+      "reservation": null,
+      "name": "Koona Ravi Kumar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 7,
+      "constituency": "Etcherla",
+      "reservation": null,
+      "name": "Nadukuditi Eswara Rao",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 8,
+      "constituency": "Narasannapeta",
+      "reservation": null,
+      "name": "Baggu Ramanamurthy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 9,
+      "constituency": "Rajam",
+      "reservation": "SC",
+      "name": "Kondru Murali Mohan",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 10,
+      "constituency": "Palakonda",
+      "reservation": "ST",
+      "name": "Nimmaka Jaya Krishna",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 11,
+      "constituency": "Kurupam",
+      "reservation": "ST",
+      "name": "Jagadeeswari Thoyaka",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 12,
+      "constituency": "Parvathipuram",
+      "reservation": "SC",
+      "name": "Bonela Vijaya Chandra",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 13,
+      "constituency": "Salur",
+      "reservation": "ST",
+      "name": "Gummadi Sandhya Rani",
+      "party": "TDP",
+      "note": "Minister of Women & Child Welfare, Tribal Welfare",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 14,
+      "constituency": "Bobbili",
+      "reservation": null,
+      "name": "R. V. S. K. K. Ranga Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 15,
+      "constituency": "Cheepurupalli",
+      "reservation": null,
+      "name": "Kimidi Kalavenkata Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 16,
+      "constituency": "Gajapathinagaram",
+      "reservation": null,
+      "name": "Kondapalli Srinivas",
+      "party": "TDP",
+      "note": "Minister of MSME, SERP, NRI Empowerment and Relations",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 17,
+      "constituency": "Nellimarla",
+      "reservation": null,
+      "name": "Lokam Naga Madhavi",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 18,
+      "constituency": "Vizianagaram",
+      "reservation": null,
+      "name": "Pusapati Aditi Vijayalakshmi",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 19,
+      "constituency": "Srungavarapukota",
+      "reservation": null,
+      "name": "Kolla Lalitha Kumari",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 20,
+      "constituency": "Bhimili",
+      "reservation": null,
+      "name": "Ganta Srinivasa Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 21,
+      "constituency": "Visakhapatnam East",
+      "reservation": null,
+      "name": "Velagapudi Ramakrishna Babu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 22,
+      "constituency": "Visakhapatnam South",
+      "reservation": null,
+      "name": "Vamsi Krishna Srinivasa Yadav",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 23,
+      "constituency": "Visakhapatnam North",
+      "reservation": null,
+      "name": "Penmetsa Vishnu Kumar Raju",
+      "party": "BJP",
+      "note": "BJP Floor Leader",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 24,
+      "constituency": "Visakhapatnam West",
+      "reservation": null,
+      "name": "P. G. V. R. Naidu",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 25,
+      "constituency": "Gajuwaka",
+      "reservation": null,
+      "name": "Palla Srinivasa Rao",
+      "party": "TDP",
+      "note": "President of Telugu Desam Party",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 26,
+      "constituency": "Chodavaram",
+      "reservation": null,
+      "name": "Kalidindi Suryana Naga Sanyasi Raju",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 27,
+      "constituency": "Madugula",
+      "reservation": null,
+      "name": "Bandaru Satyanarayana Murthy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 28,
+      "constituency": "Araku Valley",
+      "reservation": "ST",
+      "name": "Regam Matyalingam",
+      "party": "YSRCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 29,
+      "constituency": "Paderu",
+      "reservation": "ST",
+      "name": "Matsyarasa Visweswara Raju",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 30,
+      "constituency": "Anakapalli",
+      "reservation": null,
+      "name": "Konathala Ramakrishna",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 31,
+      "constituency": "Pendurthi",
+      "reservation": null,
+      "name": "Panchakarla Ramesh Babu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 32,
+      "constituency": "Yelamanchili",
+      "reservation": null,
+      "name": "Sundarapu Vijay Kumar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 33,
+      "constituency": "Payakaraopet",
+      "reservation": "SC",
+      "name": "Vangalapudi Anitha",
+      "party": "TDP",
+      "note": "Minister of Home & Disaster Management",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 34,
+      "constituency": "Narsipatnam",
+      "reservation": null,
+      "name": "Chintakayala Ayyanna Patrudu",
+      "party": "TDP",
+      "note": "Speaker of the AP Legislative Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 35,
+      "constituency": "Tuni",
+      "reservation": null,
+      "name": "Yanamala Divya",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 36,
+      "constituency": "Prathipadu (Kakinada)",
+      "reservation": null,
+      "name": "Varapula Sathyaprabha",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 37,
+      "constituency": "Pithapuram",
+      "reservation": null,
+      "name": "Konidela Pawan Kalyan",
+      "party": "JSP",
+      "note": "Deputy Chief Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 38,
+      "constituency": "Kakinada Rural",
+      "reservation": null,
+      "name": "Pantham Venkateswara Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 39,
+      "constituency": "Peddapuram",
+      "reservation": null,
+      "name": "Nimmakayala Chinarajappa",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 40,
+      "constituency": "Anaparthy",
+      "reservation": null,
+      "name": "Ramakrishna Reddy Nallamilli",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 41,
+      "constituency": "Kakinada City",
+      "reservation": null,
+      "name": "Vanamadi Venkateswara Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 42,
+      "constituency": "Ramachandrapuram",
+      "reservation": null,
+      "name": "Vasamsetti Subhash",
+      "party": "TDP",
+      "note": "Minister of Labour, Factories, Boilers & Insurance Medical Services",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 43,
+      "constituency": "Mummidivaram",
+      "reservation": null,
+      "name": "Datla Subbaraju",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 44,
+      "constituency": "Amalapuram",
+      "reservation": "SC",
+      "name": "Aithabathula Anandarao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 45,
+      "constituency": "Razole",
+      "reservation": "SC",
+      "name": "Deva Varaprasad",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 46,
+      "constituency": "Gannavaram (Konaseema)",
+      "reservation": "SC",
+      "name": "Giddi Satyanarayana",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 47,
+      "constituency": "Kothapeta",
+      "reservation": null,
+      "name": "Bandaru Satyananda Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 48,
+      "constituency": "Mandapeta",
+      "reservation": null,
+      "name": "V. Jogeswara Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 49,
+      "constituency": "Rajanagaram",
+      "reservation": null,
+      "name": "Bathula Balaramakrishna",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 50,
+      "constituency": "Rajahmundry City",
+      "reservation": null,
+      "name": "Adireddy Srinivas",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 51,
+      "constituency": "Rajahmundry Rural",
+      "reservation": null,
+      "name": "Gorantla Butchaiah Chowdary",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 52,
+      "constituency": "Jaggampeta",
+      "reservation": null,
+      "name": "Jyothula Nehru",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 53,
+      "constituency": "Rampachodavaram",
+      "reservation": "ST",
+      "name": "Miriyala Sirisha Devi",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 54,
+      "constituency": "Kovvur",
+      "reservation": "SC",
+      "name": "Muppidi Venkateswara Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 55,
+      "constituency": "Nidadavole",
+      "reservation": null,
+      "name": "Kandula Durgesh",
+      "party": "JSP",
+      "note": "Minister of Tourism & Culture, Cinematography",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 56,
+      "constituency": "Achanta",
+      "reservation": null,
+      "name": "Satyanarayana Pithani",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 57,
+      "constituency": "Palakollu",
+      "reservation": null,
+      "name": "Nimmala Rama Naidu",
+      "party": "TDP",
+      "note": "Minister of Water Resources Development",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 58,
+      "constituency": "Narasapuram",
+      "reservation": null,
+      "name": "Bommidi Narayana Nayakar",
+      "party": "JSP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 59,
+      "constituency": "Bhimavaram",
+      "reservation": null,
+      "name": "Pulaparthi Ramanjaneyulu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 60,
+      "constituency": "Undi",
+      "reservation": null,
+      "name": "Raghu Rama Krishna Raju",
+      "party": "TDP",
+      "note": "Deputy Speaker",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 61,
+      "constituency": "Tanuku",
+      "reservation": null,
+      "name": "Arimilli Radha Krishna",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 62,
+      "constituency": "Tadepalligudem",
+      "reservation": null,
+      "name": "Bolisetti Srinivas",
+      "party": "JSP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 63,
+      "constituency": "Unguturu",
+      "reservation": null,
+      "name": "Dharmaraju Patsamatla",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 64,
+      "constituency": "Denduluru",
+      "reservation": null,
+      "name": "Chintamaneni Prabhakar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 65,
+      "constituency": "Eluru",
+      "reservation": null,
+      "name": "Radha Krishnayya Badeti",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 66,
+      "constituency": "Gopalapuram",
+      "reservation": "SC",
+      "name": "Maddipati Venkata Raju",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 67,
+      "constituency": "Polavaram",
+      "reservation": "ST",
+      "name": "Chirri Balaraju",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 68,
+      "constituency": "Chintalapudi",
+      "reservation": "SC",
+      "name": "Roshan Kumar Songa",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 69,
+      "constituency": "Tiruvuru",
+      "reservation": "SC",
+      "name": "Kolikapudi Srinivasa Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 70,
+      "constituency": "Nuzvid",
+      "reservation": null,
+      "name": "Kolusu Parthasarathy",
+      "party": "TDP",
+      "note": "Minister of Housing, Information & Public Relations",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 71,
+      "constituency": "Gannavaram (Krishna)",
+      "reservation": null,
+      "name": "Yarlagadda Venkata Rao",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 72,
+      "constituency": "Gudivada",
+      "reservation": null,
+      "name": "Venigandla Ramu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 73,
+      "constituency": "Kaikalur",
+      "reservation": null,
+      "name": "Kamineni Srinivas",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 74,
+      "constituency": "Pedana",
+      "reservation": null,
+      "name": "Kagitha Krishna Prasad",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 75,
+      "constituency": "Machilipatnam",
+      "reservation": null,
+      "name": "Kollu Ravindra",
+      "party": "TDP",
+      "note": "Minister of Mines & Geology, Excise",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 76,
+      "constituency": "Avanigadda",
+      "reservation": null,
+      "name": "Mandali Buddha Prasad",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 77,
+      "constituency": "Pamarru",
+      "reservation": "SC",
+      "name": "Varla Kumar Raja",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 78,
+      "constituency": "Penamaluru",
+      "reservation": null,
+      "name": "Bode Prasad",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 79,
+      "constituency": "Vijayawada West",
+      "reservation": null,
+      "name": "Sujana Chowdary",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 80,
+      "constituency": "Vijayawada Central",
+      "reservation": null,
+      "name": "Bonda Umamaheswara Rao",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 81,
+      "constituency": "Vijayawada East",
+      "reservation": null,
+      "name": "Gadde Ramamohan",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 82,
+      "constituency": "Mylavaram",
+      "reservation": null,
+      "name": "Vasantha Venkata Krishna Prasad",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 83,
+      "constituency": "Nandigama",
+      "reservation": "SC",
+      "name": "Tangirala Sowmya",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 84,
+      "constituency": "Jaggayyapeta",
+      "reservation": null,
+      "name": "Rajagopal Sreeram",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 85,
+      "constituency": "Pedakurapadu",
+      "reservation": null,
+      "name": "Bhashyam Praveen",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 86,
+      "constituency": "Tadikonda",
+      "reservation": "SC",
+      "name": "Tenali Sravan Kumar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 87,
+      "constituency": "Mangalagiri",
+      "reservation": null,
+      "name": "Nara Lokesh",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 88,
+      "constituency": "Ponnuru",
+      "reservation": null,
+      "name": "Dhulipalla Narendra Kumar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 89,
+      "constituency": "Vemuru",
+      "reservation": "SC",
+      "name": "Nakka Ananda Babu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 90,
+      "constituency": "Repalle",
+      "reservation": null,
+      "name": "Anagani Satya Prasad",
+      "party": "TDP",
+      "note": "Minister of Revenue, Registration & Stamps",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 91,
+      "constituency": "Tenali",
+      "reservation": null,
+      "name": "Nadendla Manohar",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 92,
+      "constituency": "Bapatla",
+      "reservation": null,
+      "name": "Vegesana Narendra Varma Raju",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 93,
+      "constituency": "Prathipadu (Guntur)",
+      "reservation": "SC",
+      "name": "Burla Ramanjaneyulu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 94,
+      "constituency": "Guntur West",
+      "reservation": null,
+      "name": "Galla Madhavi",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 95,
+      "constituency": "Guntur East",
+      "reservation": null,
+      "name": "Mohammed Naseer Ahmed",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 96,
+      "constituency": "Chilakaluripet",
+      "reservation": null,
+      "name": "Prathipati Pulla Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 97,
+      "constituency": "Narasaraopet",
+      "reservation": null,
+      "name": "Chadalavada Aravinda Babu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 98,
+      "constituency": "Sattenapalle",
+      "reservation": null,
+      "name": "Kanna Lakshminarayana",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 99,
+      "constituency": "Vinukonda",
+      "reservation": null,
+      "name": "G. V. Anjaneyulu",
+      "party": "TDP",
+      "note": "Chief Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 100,
+      "constituency": "Gurazala",
+      "reservation": null,
+      "name": "Yarapathineni Srinivasa Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 101,
+      "constituency": "Macherla",
+      "reservation": null,
+      "name": "Julakanti Brahmananda Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 102,
+      "constituency": "Yerragondapalem",
+      "reservation": "SC",
+      "name": "Tatiparthi Chandrasekhar",
+      "party": "YSRCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 103,
+      "constituency": "Darsi",
+      "reservation": null,
+      "name": "Buchepalli Siva Prasad Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 104,
+      "constituency": "Parchur",
+      "reservation": null,
+      "name": "Yeluri Sambasiva Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 105,
+      "constituency": "Addanki",
+      "reservation": null,
+      "name": "Gottipati Ravi Kumar",
+      "party": "TDP",
+      "note": "Minister of Energy",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 106,
+      "constituency": "Chirala",
+      "reservation": null,
+      "name": "Madduluri Malakondaiah Yadav",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 107,
+      "constituency": "Santhanuthalapadu",
+      "reservation": "SC",
+      "name": "B. N. Vijay Kumar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 108,
+      "constituency": "Ongole",
+      "reservation": null,
+      "name": "Damacharla Janardhana Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 109,
+      "constituency": "Kandukur",
+      "reservation": null,
+      "name": "Inturi Nageswara Rao",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 110,
+      "constituency": "Kondapi",
+      "reservation": "SC",
+      "name": "Dola Sree Bala Veeranjaneya Swamy",
+      "party": "TDP",
+      "note": "Minister of Social Welfare, Disabled & Senior Citizen Welfare, Sachivalayam Affairs",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 111,
+      "constituency": "Markapuram",
+      "reservation": null,
+      "name": "Kandula Narayana Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 112,
+      "constituency": "Giddalur",
+      "reservation": null,
+      "name": "Muthumula Ashok Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 113,
+      "constituency": "Kanigiri",
+      "reservation": null,
+      "name": "Mukku Ugra Narasimha Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 114,
+      "constituency": "Kavali",
+      "reservation": null,
+      "name": "Dagumati Venkata Krishna Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 115,
+      "constituency": "Atmakur",
+      "reservation": null,
+      "name": "Anam Ramanarayana Reddy",
+      "party": "TDP",
+      "note": "Minister of Endowments",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 116,
+      "constituency": "Kovur",
+      "reservation": null,
+      "name": "Vemireddy Prashanti Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 117,
+      "constituency": "Nellore City",
+      "reservation": null,
+      "name": "Ponguru Narayana",
+      "party": "TDP",
+      "note": "Minister of Municipal Administration & Urban Development",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 118,
+      "constituency": "Nellore Rural",
+      "reservation": null,
+      "name": "Kotamreddy Sridhar Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 119,
+      "constituency": "Sarvepalli",
+      "reservation": null,
+      "name": "Somireddy Chandra Mohan Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 120,
+      "constituency": "Gudur",
+      "reservation": "SC",
+      "name": "Pasam Sunil Kumar",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 121,
+      "constituency": "Sullurpeta",
+      "reservation": "SC",
+      "name": "Nelavala Vijayasree",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 122,
+      "constituency": "Venkatagiri",
+      "reservation": null,
+      "name": "Kurugondla Ramakrishna",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 123,
+      "constituency": "Udayagiri",
+      "reservation": null,
+      "name": "Kakarla Suresh",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 124,
+      "constituency": "Badvel",
+      "reservation": "SC",
+      "name": "Dasari Sudha",
+      "party": "YSRCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 125,
+      "constituency": "Rajampet",
+      "reservation": null,
+      "name": "Akepati Amarnath Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 126,
+      "constituency": "Kadapa",
+      "reservation": null,
+      "name": "Reddeppagari Madhavi",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 127,
+      "constituency": "Kodur",
+      "reservation": "SC",
+      "name": "Arava Sreedhar",
+      "party": "JSP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 128,
+      "constituency": "Rayachoti",
+      "reservation": null,
+      "name": "Mandipalli Ramprasad Reddy",
+      "party": "TDP",
+      "note": "Minister of Transport, Youth & Sports",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 129,
+      "constituency": "Pulivendula",
+      "reservation": null,
+      "name": "Y. S. Jagan Mohan Reddy",
+      "party": "YSRCP",
+      "note": "President of YSR Congress Party, YSRCP Floor Leader",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 130,
+      "constituency": "Kamalapuram",
+      "reservation": null,
+      "name": "Putha Krishna Chaitanya Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 131,
+      "constituency": "Jammalamadugu",
+      "reservation": null,
+      "name": "Ch. Adinarayana Reddy",
+      "party": "BJP",
+      "note": "BJP Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 132,
+      "constituency": "Proddatur",
+      "reservation": null,
+      "name": "Nandyala Varada Rajulu Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 133,
+      "constituency": "Mydukur",
+      "reservation": null,
+      "name": "Putta Sudhakar Yadav",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 134,
+      "constituency": "Allagadda",
+      "reservation": null,
+      "name": "Bhuma Akhila Priya",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 135,
+      "constituency": "Srisailam",
+      "reservation": null,
+      "name": "Budda Rajasekhar Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 136,
+      "constituency": "Nandikotkur",
+      "reservation": "SC",
+      "name": "Githa Jayasurya",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 137,
+      "constituency": "Kurnool",
+      "reservation": null,
+      "name": "T. G. Bharath",
+      "party": "TDP",
+      "note": "Minister of Industries & Commerce, Food Processing",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 138,
+      "constituency": "Panyam",
+      "reservation": null,
+      "name": "Gowru Charitha Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 139,
+      "constituency": "Nandyal",
+      "reservation": null,
+      "name": "N. M. D. Farooq",
+      "party": "TDP",
+      "note": "Minister of Minority Welfare, Law & Justice",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 140,
+      "constituency": "Banaganapalle",
+      "reservation": null,
+      "name": "B. C. Janardhan Reddy",
+      "party": "TDP",
+      "note": "Minister of Roads & Buildings, Infrastructure & Investments",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 141,
+      "constituency": "Dhone",
+      "reservation": null,
+      "name": "Kotla Jayasurya Prakasha Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 142,
+      "constituency": "Pattikonda",
+      "reservation": null,
+      "name": "K. E. Shyam Babu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 143,
+      "constituency": "Kodumur",
+      "reservation": "SC",
+      "name": "Boggula Dastagiri",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 144,
+      "constituency": "Yemmiganur",
+      "reservation": null,
+      "name": "Jaya Nageswara Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 145,
+      "constituency": "Mantralayam",
+      "reservation": null,
+      "name": "Y. Balanagi Reddy",
+      "party": "YSRCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 146,
+      "constituency": "Adoni",
+      "reservation": null,
+      "name": "P. V. Parthasarathi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 147,
+      "constituency": "Alur",
+      "reservation": null,
+      "name": "Busine Virupakshi",
+      "party": "YSRCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 148,
+      "constituency": "Rayadurg",
+      "reservation": null,
+      "name": "Kalava Srinivasulu",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 149,
+      "constituency": "Uravakonda",
+      "reservation": null,
+      "name": "Payyavula Keshav",
+      "party": "TDP",
+      "note": "Minister of Finance, Planning, Commercial Taxes & Legislative Affairs",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 150,
+      "constituency": "Guntakal",
+      "reservation": null,
+      "name": "Gummanur Jayaram",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 151,
+      "constituency": "Tadipatri",
+      "reservation": null,
+      "name": "J. C. Ashmit Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 152,
+      "constituency": "Singanamala",
+      "reservation": "SC",
+      "name": "Bandaru Sravani Sree",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 153,
+      "constituency": "Anantapur Urban",
+      "reservation": null,
+      "name": "Daggupati Venkateswara Prasad",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 154,
+      "constituency": "Kalyandurg",
+      "reservation": null,
+      "name": "Amilineni Surendra Babu",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 155,
+      "constituency": "Raptadu",
+      "reservation": null,
+      "name": "Paritala Sunitha",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 156,
+      "constituency": "Madakasira",
+      "reservation": "SC",
+      "name": "M. S. Raju",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 157,
+      "constituency": "Hindupur",
+      "reservation": null,
+      "name": "Nandamuri Balakrishna",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 158,
+      "constituency": "Penukonda",
+      "reservation": null,
+      "name": "S. Savitha",
+      "party": "TDP",
+      "note": "Minister of BC Welfare, EWS Welfare, Handlooms & Textiles",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 159,
+      "constituency": "Puttaparthi",
+      "reservation": null,
+      "name": "Palle Sindhura Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 160,
+      "constituency": "Dharmavaram",
+      "reservation": null,
+      "name": "Satya Kumar Yadav",
+      "party": "BJP",
+      "note": "Minister of Health & Family Welfare, Medical Education",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 161,
+      "constituency": "Kadiri",
+      "reservation": null,
+      "name": "Kandikunta Venkata Prasad",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 162,
+      "constituency": "Thamballapalle",
+      "reservation": null,
+      "name": "Peddireddy Dwarakanatha Reddy",
+      "party": "YSRCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 163,
+      "constituency": "Pileru",
+      "reservation": null,
+      "name": "Nallari Kishore Kumar Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 164,
+      "constituency": "Madanapalle",
+      "reservation": null,
+      "name": "Shahjahan Basha",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 165,
+      "constituency": "Punganur",
+      "reservation": null,
+      "name": "Peddireddy Ramachandra Reddy",
+      "party": "YSRCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 166,
+      "constituency": "Chandragiri",
+      "reservation": null,
+      "name": "Pulivarthi Venkata Mani Prasad",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 167,
+      "constituency": "Tirupati",
+      "reservation": null,
+      "name": "Arani Srinivasulu",
+      "party": "JSP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 168,
+      "constituency": "Srikalahasti",
+      "reservation": null,
+      "name": "Bojjala Venkata Sudhir Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 169,
+      "constituency": "Satyavedu",
+      "reservation": "SC",
+      "name": "Koneti Adimulam",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 170,
+      "constituency": "Nagari",
+      "reservation": null,
+      "name": "Gali Bhanu Prakash",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 171,
+      "constituency": "Gangadhara Nellore",
+      "reservation": "SC",
+      "name": "V. M. Thomas",
+      "party": "TDP",
+      "note": "Whip",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 172,
+      "constituency": "Chittoor",
+      "reservation": null,
+      "name": "Gurajala Jagan Mohan",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 173,
+      "constituency": "Puthalapattu",
+      "reservation": "SC",
+      "name": "Kalikiri Murali Mohan",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 174,
+      "constituency": "Palamaner",
+      "reservation": null,
+      "name": "N. Amarnath Reddy",
+      "party": "TDP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 175,
+      "constituency": "Kuppam",
+      "reservation": null,
+      "name": "N. Chandrababu Naidu",
+      "party": "TDP",
+      "note": "Chief Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "level": "state",
+  "state": "Tamil Nadu",
+  "chief": {
+    "role": "Chief Minister of Tamil Nadu",
+    "name": "C. Joseph Vijay",
+    "note": "Tamilaga Vettri Kazhagam (TVK); Perambur constituency; first Chief Minister outside the DMK-AIADMK duopoly in 59 years, sworn in 10 May 2026 after a hung assembly; TVK is the largest party (108 of 234 seats) governing with INC, IUML, CPI, VCK, CPIM and defector support; won floor test 144-22 on 13 May 2026",
+    "source_url": "https://tnmla.in/",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "N. Marie Wilson",
+      "portfolio": "Finance, Planning & Development",
+      "seat": "Dr. Radhakrishnan Nagar",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "K. A. Sengottaiyan",
+      "portfolio": "Leader of the House; Revenue & Disaster Management",
+      "seat": "Gobichettipalayam",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "N. Anand",
+      "portfolio": "Rural Development & Water Resources",
+      "seat": "Thiyagaraya Nagar",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Dr. K. G. Arunraj",
+      "portfolio": "Health & Family Welfare",
+      "seat": "Tiruchengodu",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "D. Sarathkumar",
+      "portfolio": "HR Management",
+      "seat": "Tambaram",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "K. Jegadeshwari",
+      "portfolio": "Social Welfare",
+      "seat": "Rajapalayam",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "A. M. Shahjahan",
+      "portfolio": "Minorities Welfare & Wakf",
+      "seat": "Papanasam",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Vanni Arasu",
+      "portfolio": "Social Justice, Adi Dravidar & Hill Tribes Welfare",
+      "seat": "Tindivanam",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "R. Nirmalkumar",
+      "portfolio": "Energy & Law",
+      "seat": "Thiruparankundram",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Vinoth",
+      "portfolio": "Agriculture",
+      "seat": "Kumbakonam",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "B. Rajkumar",
+      "portfolio": "Housing & Urban Development",
+      "seat": "Cuddalore",
+      "source_url": "https://tnmla.in/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "level": "state",
+  "state": "Maharashtra",
+  "chief": {
+    "role": "Chief Minister of Maharashtra",
+    "name": "Devendra Fadnavis",
+    "note": "Bharatiya Janata Party; Nagpur South West constituency; Leader of the House; holds Home, General Administration, and other unallocated portfolios. Deputy CMs: Eknath Shinde (Shiv Sena) and Sunetra Pawar (NCP, since 2026, following Ajit Pawar's death in a plane crash 28 Jan 2026)",
+    "source_url": "https://en.wikipedia.org/wiki/15th_Maharashtra_Assembly",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Eknath Shinde",
+      "portfolio": "Deputy Chief Minister",
+      "seat": "Kopri-Pachpakhadi",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Sunetra Pawar",
+      "portfolio": "Deputy Chief Minister (NCP); took over after Ajit Pawar's death Jan 2026",
+      "seat": "MLC",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Chandrashekhar Bawankule",
+      "portfolio": "Revenue",
+      "seat": "Kamthi",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Girish Mahajan",
+      "portfolio": "Rural Development",
+      "seat": "Jamner",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Radhakrishna Vikhe Patil",
+      "portfolio": "Water Resources",
+      "seat": "Shirdi",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Uday Samant",
+      "portfolio": "Industries",
+      "seat": "Ratnagiri",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Sudhir Mungantiwar",
+      "portfolio": "Forest, Cultural Affairs & Fisheries",
+      "seat": "Ballarpur",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Dhananjay Munde",
+      "portfolio": "Cabinet Minister",
+      "seat": "Parli",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Deepak Kesarkar",
+      "portfolio": "School Education",
+      "seat": "Sawantwadi",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Mangal Prabhat Lodha",
+      "portfolio": "Skill Development & Tourism",
+      "seat": "Malabar Hill",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Nitesh Rane",
+      "portfolio": "Fisheries & Ports",
+      "seat": "Kankavli",
+      "source_url": "https://www.myneta.info/Maharashtra2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

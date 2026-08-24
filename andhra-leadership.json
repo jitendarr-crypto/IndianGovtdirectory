@@ -1,0 +1,110 @@
+{
+  "level": "state",
+  "state": "Andhra Pradesh",
+  "chief": {
+    "role": "Chief Minister of Andhra Pradesh",
+    "name": "Nara Chandrababu Naidu",
+    "note": "Telugu Desam Party; Kuppam constituency; holds General Administration, Investment & Infrastructure, and all unallocated portfolios. Deputy CM: Konidala Pawan Kalyan (Jana Sena Party)",
+    "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Konidala Pawan Kalyan",
+      "portfolio": "Deputy CM; Panchayat Raj & Rural Development; Environment, Forest, Science & Technology",
+      "seat": "Pithapuram",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Nara Lokesh",
+      "portfolio": "Human Resources Development; IT, Electronics & Communication",
+      "seat": "Mangalagiri",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Anitha Vangalapudi",
+      "portfolio": "Home Affairs & Disaster Management",
+      "seat": "Payakaraopeta",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Payyavula Keshav",
+      "portfolio": "Finance, Planning & Commercial Taxes",
+      "seat": "Sattenapalle",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Kinjarapu Atchannaidu",
+      "portfolio": "Agriculture, Co-operation, Animal Husbandry, Dairy & Fisheries",
+      "seat": "Tekkali",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Satya Kumar Yadav",
+      "portfolio": "Health, Family Welfare & Medical Education",
+      "seat": "MLC",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Ponguru Narayana",
+      "portfolio": "Municipal Administration & Urban Development",
+      "seat": "Nellore City",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Anagani Satya Prasad",
+      "portfolio": "Revenue, Registration & Stamps",
+      "seat": "Kandukur",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "B. C. Janardhan Reddy",
+      "portfolio": "Roads & Buildings; Infrastructure & Investment",
+      "seat": "Banaganapalle",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "T. G. Bharath",
+      "portfolio": "Industries & Commerce; Food Processing",
+      "seat": "Kurnool",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Gottipati Ravi Kumar",
+      "portfolio": "Energy",
+      "seat": "Palakollu",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Mandipalli Ramprasad Reddy",
+      "portfolio": "Transport; Youth & Sports",
+      "seat": "Kovur",
+      "source_url": "https://www.sarkaritel.com/andhra-pradesh-government-council-of-ministers/",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

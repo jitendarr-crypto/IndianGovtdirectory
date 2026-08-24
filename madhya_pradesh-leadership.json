@@ -1,0 +1,86 @@
+{
+  "level": "state",
+  "state": "Madhya Pradesh",
+  "chief": {
+    "role": "Chief Minister of Madhya Pradesh",
+    "name": "Mohan Yadav",
+    "note": "Bharatiya Janata Party; Ujjain South constituency; sworn in December 2023",
+    "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Jagdish Devda",
+      "portfolio": "Deputy Chief Minister",
+      "seat": "Malhargarh",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Rajendra Shukla",
+      "portfolio": "Deputy Chief Minister",
+      "seat": "Rewa",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Kailash Vijayvargiya",
+      "portfolio": "Urban Development & Housing",
+      "seat": "Indore-1",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Vishvas Sarang",
+      "portfolio": "Health & Family Welfare",
+      "seat": "Narela",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Tulsi Silawat",
+      "portfolio": "Cabinet Minister",
+      "seat": "Sanwer",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Prahlad Singh Patel",
+      "portfolio": "Panchayat & Rural Development",
+      "seat": "Narsingpur",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Govind Singh Rajput",
+      "portfolio": "Cabinet Minister",
+      "seat": "Surkhi",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Rameshwar Sharma",
+      "portfolio": "Cabinet Minister",
+      "seat": "Huzur",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Bhupendra Singh",
+      "portfolio": "Cabinet Minister",
+      "seat": "Khurai",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    }
+  ]
+}

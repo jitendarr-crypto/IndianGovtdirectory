@@ -1,0 +1,177 @@
+{
+  "level": "mps-pending",
+  "note": "States/UTs not yet added to the MP directory. seats = Lok Sabha seats. suggested_source is the page pattern that worked for UP/Maharashtra, but verify it renders a full results table before trusting it -- it failed for West Bengal.",
+  "items": [
+    {
+      "state": "West Bengal",
+      "seats": 42,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_West_Bengal",
+      "note": "table did not extract cleanly on first attempt -- retry or use per-constituency pages"
+    },
+    {
+      "state": "Bihar",
+      "seats": 40,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Bihar"
+    },
+    {
+      "state": "Tamil Nadu",
+      "seats": 39,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Tamil_Nadu"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "seats": 29,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Madhya_Pradesh"
+    },
+    {
+      "state": "Karnataka",
+      "seats": 28,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Karnataka"
+    },
+    {
+      "state": "Gujarat",
+      "seats": 26,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Gujarat"
+    },
+    {
+      "state": "Rajasthan",
+      "seats": 25,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Rajasthan"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "seats": 25,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Andhra_Pradesh"
+    },
+    {
+      "state": "Odisha",
+      "seats": 21,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Odisha"
+    },
+    {
+      "state": "Kerala",
+      "seats": 20,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Kerala"
+    },
+    {
+      "state": "Telangana",
+      "seats": 17,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Telangana"
+    },
+    {
+      "state": "Assam",
+      "seats": 14,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Assam"
+    },
+    {
+      "state": "Jharkhand",
+      "seats": 14,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Jharkhand"
+    },
+    {
+      "state": "Punjab",
+      "seats": 13,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Punjab"
+    },
+    {
+      "state": "Chhattisgarh",
+      "seats": 11,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Chhattisgarh"
+    },
+    {
+      "state": "Haryana",
+      "seats": 10,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Haryana"
+    },
+    {
+      "state": "Delhi",
+      "seats": 7,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Delhi"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "seats": 5,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Jammu_and_Kashmir"
+    },
+    {
+      "state": "Uttarakhand",
+      "seats": 5,
+      "suggested_source": "https://en.wikipedia.org/wiki/List_of_Lok_Sabha_members_from_Uttarakhand"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "seats": 4,
+      "suggested_source": "https://en.wikipedia.org/wiki/List_of_Lok_Sabha_members_from_Himachal_Pradesh"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "seats": 2,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Arunachal_Pradesh"
+    },
+    {
+      "state": "Goa",
+      "seats": 2,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Goa"
+    },
+    {
+      "state": "Tripura",
+      "seats": 2,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Tripura"
+    },
+    {
+      "state": "Meghalaya",
+      "seats": 2,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Meghalaya"
+    },
+    {
+      "state": "Manipur",
+      "seats": 2,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Manipur"
+    },
+    {
+      "state": "Nagaland",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Nagaland"
+    },
+    {
+      "state": "Mizoram",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Mizoram"
+    },
+    {
+      "state": "Sikkim",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Sikkim"
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Andaman_and_Nicobar_Islands"
+    },
+    {
+      "state": "Chandigarh",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Chandigarh"
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "seats": 2,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Dadra_and_Nagar_Haveli_and_Daman_and_Diu"
+    },
+    {
+      "state": "Ladakh",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Ladakh"
+    },
+    {
+      "state": "Lakshadweep",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Lakshadweep"
+    },
+    {
+      "state": "Puducherry",
+      "seats": 1,
+      "suggested_source": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Puducherry"
+    }
+  ]
+}

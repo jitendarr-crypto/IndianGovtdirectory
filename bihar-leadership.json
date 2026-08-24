@@ -1,0 +1,78 @@
+{
+  "level": "state",
+  "state": "Bihar",
+  "chief": {
+    "role": "Chief Minister of Bihar",
+    "name": "Samrat Choudhary",
+    "note": "Bharatiya Janata Party; Tarapur constituency; 24th CM, first from BJP in Bihar's history; sworn in 15 Apr 2026 succeeding Nitish Kumar, who resigned after election to the Rajya Sabha; holds Home, Vigilance, Health, Industries and other unallocated portfolios",
+    "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Vijay Kumar Chaudhary",
+      "portfolio": "Deputy CM; Education, Transport, Water Resources",
+      "seat": "Sarairanjan",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Bijendra Prasad Yadav",
+      "portfolio": "Deputy CM; Finance, Energy, Commercial Taxes",
+      "seat": "Supaul",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Vijay Kumar Sinha",
+      "portfolio": "Agriculture",
+      "seat": "Lakhisarai",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Shrawan Kumar",
+      "portfolio": "Rural Development; Information & Public Relations",
+      "seat": "Nalanda",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Leshi Singh",
+      "portfolio": "Building Construction",
+      "seat": "Dhamdaha",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Dilip Kumar Jaiswal",
+      "portfolio": "Revenue & Land Reforms",
+      "seat": "MLC (Legislative Council)",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Ashok Choudhary",
+      "portfolio": "Food & Consumer Protection",
+      "seat": "MLC (Legislative Council)",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Santosh Kumar Suman",
+      "portfolio": "Minor Water Resources",
+      "seat": "MLC (Legislative Council)",
+      "source_url": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

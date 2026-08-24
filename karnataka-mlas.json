@@ -1,0 +1,2249 @@
+{
+  "level": "mlas",
+  "state": "Karnataka",
+  "assembly": "16th Karnataka Legislative Assembly (2023–2028)",
+  "role_title": "MLA",
+  "source_url": "https://en.wikipedia.org/wiki/16th_Karnataka_Assembly",
+  "items": [
+    {
+      "no": 1,
+      "constituency": "Nippani",
+      "reservation": null,
+      "name": "Shashikala Jolle",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 2,
+      "constituency": "Chikkodi-Sadalga",
+      "reservation": null,
+      "name": "Ganesh Hukkeri",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 3,
+      "constituency": "Athani",
+      "reservation": null,
+      "name": "Laxman Savadi",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 4,
+      "constituency": "Kagwad",
+      "reservation": null,
+      "name": "Raju Kage",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 5,
+      "constituency": "Kudachi",
+      "reservation": "SC",
+      "name": "Mahendra Kallappa Tammannavar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 6,
+      "constituency": "Raibag",
+      "reservation": "SC",
+      "name": "Duryodhan Aihole",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 7,
+      "constituency": "Hukkeri",
+      "reservation": null,
+      "name": "Nikhil Katti",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 8,
+      "constituency": "Arabhavi",
+      "reservation": null,
+      "name": "Balachandra Jarkiholi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 9,
+      "constituency": "Gokak",
+      "reservation": null,
+      "name": "Ramesh Jarkiholi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 10,
+      "constituency": "Yemkanmardi",
+      "reservation": "ST",
+      "name": "Satish Jarkiholi",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 11,
+      "constituency": "Belgaum Uttar",
+      "reservation": null,
+      "name": "Asif Sait",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 12,
+      "constituency": "Belgaum Dakshin",
+      "reservation": null,
+      "name": "Abhay Patil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 13,
+      "constituency": "Belgaum Rural",
+      "reservation": null,
+      "name": "Lakshmi Hebbalkar",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 14,
+      "constituency": "Khanapur",
+      "reservation": null,
+      "name": "Vithal Halagekar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 15,
+      "constituency": "Kittur",
+      "reservation": null,
+      "name": "Babasaheb Devanagouda Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 16,
+      "constituency": "Bailhongal",
+      "reservation": null,
+      "name": "Mahantesh Koujalagi",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 17,
+      "constituency": "Saundatti Yellamma",
+      "reservation": null,
+      "name": "Vishwas Vasant Vaidya",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 18,
+      "constituency": "Ramdurg",
+      "reservation": null,
+      "name": "Ashok Pattan",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 19,
+      "constituency": "Mudhol",
+      "reservation": "SC",
+      "name": "R. B. Timmapur",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 20,
+      "constituency": "Terdal",
+      "reservation": null,
+      "name": "Siddu Savadi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 21,
+      "constituency": "Jamkhandi",
+      "reservation": null,
+      "name": "Jagadish Gudagunti",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 22,
+      "constituency": "Bilgi",
+      "reservation": null,
+      "name": "J. T. Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 23,
+      "constituency": "Badami",
+      "reservation": null,
+      "name": "Bhimsen Chimmanakatti",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 24,
+      "constituency": "Bagalkot",
+      "reservation": null,
+      "name": "U.H. Meti",
+      "party": "INC",
+      "note": "Elected in bypoll; prev. H. Y. Meti (INC) died Nov 2025",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 25,
+      "constituency": "Hungund",
+      "reservation": null,
+      "name": "Vijayanand Kashappanavar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 26,
+      "constituency": "Muddebihal",
+      "reservation": null,
+      "name": "C. S. Nadagouda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 27,
+      "constituency": "Devar Hippargi",
+      "reservation": null,
+      "name": "Rajugouda Patil",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 28,
+      "constituency": "Basavana Bagevadi",
+      "reservation": null,
+      "name": "Shivanand Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 29,
+      "constituency": "Babaleshwar",
+      "reservation": null,
+      "name": "M. B. Patil",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 30,
+      "constituency": "Bijapur City",
+      "reservation": null,
+      "name": "Basangouda Patil Yatnal",
+      "party": "Independent",
+      "note": "Expelled from BJP 2025",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 31,
+      "constituency": "Nagathan",
+      "reservation": "SC",
+      "name": "Katakadond Vittal Dondiba",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 32,
+      "constituency": "Indi",
+      "reservation": null,
+      "name": "Yashavant Rayagoud Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 33,
+      "constituency": "Sindagi",
+      "reservation": null,
+      "name": "Ashok M. Managuli",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 34,
+      "constituency": "Afzalpur",
+      "reservation": null,
+      "name": "M. Y. Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 35,
+      "constituency": "Jevargi",
+      "reservation": null,
+      "name": "Ajay Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 36,
+      "constituency": "Shorapur",
+      "reservation": "ST",
+      "name": "Raja Venugopal Naik",
+      "party": "INC",
+      "note": "Elected 4 Jun 2024; prev. Raja Venkatappa Naik (INC) died Feb 2024",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 37,
+      "constituency": "Shahapur",
+      "reservation": null,
+      "name": "Sharanabasappa Darshanapur",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 38,
+      "constituency": "Yadgir",
+      "reservation": null,
+      "name": "Channareddy Patil Tunnur",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 39,
+      "constituency": "Gurmitkal",
+      "reservation": null,
+      "name": "Sharanagouda Kandakur",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 40,
+      "constituency": "Chittapur",
+      "reservation": "SC",
+      "name": "Priyank Kharge",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 41,
+      "constituency": "Sedam",
+      "reservation": null,
+      "name": "Sharan Prakash Patil",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 42,
+      "constituency": "Chincholi",
+      "reservation": "SC",
+      "name": "Avinash Jadhav",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 43,
+      "constituency": "Gulbarga Rural",
+      "reservation": "SC",
+      "name": "Basawaraj Mattimud",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 44,
+      "constituency": "Gulbarga Dakshin",
+      "reservation": null,
+      "name": "Allamprabhu Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 45,
+      "constituency": "Gulbarga Uttar",
+      "reservation": null,
+      "name": "Kaneez Fathima",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 46,
+      "constituency": "Aland",
+      "reservation": null,
+      "name": "B. R. Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 47,
+      "constituency": "Basavakalyan",
+      "reservation": null,
+      "name": "Sharanu Salagar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 48,
+      "constituency": "Humnabad",
+      "reservation": null,
+      "name": "Siddu Patil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 49,
+      "constituency": "Bidar South",
+      "reservation": null,
+      "name": "Shailendra Bedale",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 50,
+      "constituency": "Bidar",
+      "reservation": null,
+      "name": "Rahim Khan",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 51,
+      "constituency": "Bhalki",
+      "reservation": null,
+      "name": "Eshwara Khandre",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 52,
+      "constituency": "Aurad",
+      "reservation": "SC",
+      "name": "Prabhu Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 53,
+      "constituency": "Raichur Rural",
+      "reservation": "ST",
+      "name": "Basanagouda Daddal",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 54,
+      "constituency": "Raichur",
+      "reservation": null,
+      "name": "Shivaraj Patil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 55,
+      "constituency": "Manvi",
+      "reservation": "ST",
+      "name": "G. Hampayya Nayak",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 56,
+      "constituency": "Devadurga",
+      "reservation": "ST",
+      "name": "Karemma",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 57,
+      "constituency": "Lingsugur",
+      "reservation": "SC",
+      "name": "Manappa D. Vajjal",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 58,
+      "constituency": "Sindhanur",
+      "reservation": null,
+      "name": "Hampanagouda Badarli",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 59,
+      "constituency": "Maski",
+      "reservation": "ST",
+      "name": "Basanagouda Turvihal",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 60,
+      "constituency": "Kushtagi",
+      "reservation": null,
+      "name": "Doddanagouda Hanamagouda Patil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 61,
+      "constituency": "Kanakagiri",
+      "reservation": "SC",
+      "name": "Tangadagi Shivaraj Sangappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 62,
+      "constituency": "Gangawati",
+      "reservation": null,
+      "name": "G. Janardhana Reddy",
+      "party": "BJP",
+      "note": "KRPP merged with BJP",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 63,
+      "constituency": "Yelburga",
+      "reservation": null,
+      "name": "Basavaraj Rayareddy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 64,
+      "constituency": "Koppal",
+      "reservation": null,
+      "name": "K. Raghavendra Hitnal",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 65,
+      "constituency": "Shirahatti",
+      "reservation": "SC",
+      "name": "Chandru Lamani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 66,
+      "constituency": "Gadag",
+      "reservation": null,
+      "name": "H. K. Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 67,
+      "constituency": "Ron",
+      "reservation": null,
+      "name": "Gurupadagouda Sanganagouda Patil",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 68,
+      "constituency": "Nargund",
+      "reservation": null,
+      "name": "C. C. Patil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 69,
+      "constituency": "Navalgund",
+      "reservation": null,
+      "name": "Ningaraddi Hanamaraddi Konaraddi",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 70,
+      "constituency": "Kundgol",
+      "reservation": null,
+      "name": "M. R. Patil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 71,
+      "constituency": "Dharwad",
+      "reservation": null,
+      "name": "Vinay Kulkarni",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 72,
+      "constituency": "Hubli-Dharwad East",
+      "reservation": "SC",
+      "name": "Abbayya Prasad",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 73,
+      "constituency": "Hubli-Dharwad Central",
+      "reservation": null,
+      "name": "Mahesh Tenginakai",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 74,
+      "constituency": "Hubli-Dharwad West",
+      "reservation": null,
+      "name": "Arvind Bellad",
+      "party": "BJP",
+      "note": "Deputy Leader of the Opposition",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 75,
+      "constituency": "Kalghatgi",
+      "reservation": null,
+      "name": "Santosh Lad",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 76,
+      "constituency": "Haliyal",
+      "reservation": null,
+      "name": "R. V. Deshpande",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 77,
+      "constituency": "Karwar",
+      "reservation": null,
+      "name": "Satish Krishna Sail",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 78,
+      "constituency": "Kumta",
+      "reservation": null,
+      "name": "Dinakar Keshav Shetty",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 79,
+      "constituency": "Bhatkal",
+      "reservation": null,
+      "name": "Mankala Vaidya",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 80,
+      "constituency": "Sirsi",
+      "reservation": null,
+      "name": "Bhimanna T. Naik",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 81,
+      "constituency": "Yellapur",
+      "reservation": null,
+      "name": "Arbail Hebbar Shivaram",
+      "party": "Independent",
+      "note": "Expelled from BJP",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 82,
+      "constituency": "Hangal",
+      "reservation": null,
+      "name": "Srinivas Mane",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 83,
+      "constituency": "Shiggaon",
+      "reservation": null,
+      "name": "Pathan Yasir Ahmed Khan",
+      "party": "INC",
+      "note": "Elected 23 Nov 2024; prev. Basavaraj Bommai (BJP) elected to Lok Sabha Jun 2024",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 84,
+      "constituency": "Haveri",
+      "reservation": "SC",
+      "name": "Rudrappa Manappa Lamani",
+      "party": "INC",
+      "note": "Deputy Speaker",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 85,
+      "constituency": "Byadgi",
+      "reservation": null,
+      "name": "Basavaraj Neelappa Shivannanavar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 86,
+      "constituency": "Hirekerur",
+      "reservation": null,
+      "name": "U. B. Banakar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 87,
+      "constituency": "Ranebennur",
+      "reservation": null,
+      "name": "Prakash Koliwad",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 88,
+      "constituency": "Hoovina Hadagali",
+      "reservation": "SC",
+      "name": "Krishna Nayaka",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 89,
+      "constituency": "Hagaribommanahalli",
+      "reservation": "SC",
+      "name": "K. Nemaraja Naik",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 90,
+      "constituency": "Vijayanagara",
+      "reservation": null,
+      "name": "H. R. Gaviyappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 91,
+      "constituency": "Kampli",
+      "reservation": "ST",
+      "name": "J. N. Ganesh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 92,
+      "constituency": "Siruguppa",
+      "reservation": "ST",
+      "name": "B. M. Nagaraja",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 93,
+      "constituency": "Bellary",
+      "reservation": "ST",
+      "name": "B Nagendra",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 94,
+      "constituency": "Bellary City",
+      "reservation": null,
+      "name": "Nara Bharath Reddy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 95,
+      "constituency": "Sandur",
+      "reservation": "ST",
+      "name": "E. Annapoorna",
+      "party": "INC",
+      "note": "Elected 23 Nov 2024; prev. E. Tukaram (INC) elected to Lok Sabha Jun 2024",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 96,
+      "constituency": "Kudligi",
+      "reservation": "ST",
+      "name": "N. T. Srinivas",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 97,
+      "constituency": "Molakalmuru",
+      "reservation": "ST",
+      "name": "N. Y. Gopalakrishna",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 98,
+      "constituency": "Challakere",
+      "reservation": "ST",
+      "name": "T. Raghumurthy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 99,
+      "constituency": "Chitradurga",
+      "reservation": null,
+      "name": "K. C. Veerendra Puppy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 100,
+      "constituency": "Hiriyur",
+      "reservation": null,
+      "name": "Vacant",
+      "party": null,
+      "note": "Prev. D. Sudhakar (INC) died 10 May 2026; seat vacant",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 101,
+      "constituency": "Hosadurga",
+      "reservation": null,
+      "name": "B. G. Govindappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 102,
+      "constituency": "Holalkere",
+      "reservation": "SC",
+      "name": "M. Chandrappa",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 103,
+      "constituency": "Jagalur",
+      "reservation": "ST",
+      "name": "B. Devendrappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 104,
+      "constituency": "Harapanahalli",
+      "reservation": null,
+      "name": "Latha Mallikarjun",
+      "party": "Independent",
+      "note": "Joined Congress",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 105,
+      "constituency": "Harihar",
+      "reservation": null,
+      "name": "B. P. Harish",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 106,
+      "constituency": "Davanagere North",
+      "reservation": null,
+      "name": "S. S. Mallikarjun",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 107,
+      "constituency": "Davanagere South",
+      "reservation": null,
+      "name": "Samarth Shamanur Mallikarjun",
+      "party": "INC",
+      "note": "Elected in bypoll; prev. Shamanur Shivashankarappa (INC) died Dec 2025",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 108,
+      "constituency": "Mayakonda",
+      "reservation": "SC",
+      "name": "K. S. Basavanthappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 109,
+      "constituency": "Channagiri",
+      "reservation": null,
+      "name": "Basavaraju V. Shivaganga",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 110,
+      "constituency": "Honnali",
+      "reservation": null,
+      "name": "A. D. G. Shanthana Gowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 111,
+      "constituency": "Shimoga Rural",
+      "reservation": "SC",
+      "name": "Sharada Puryanaik",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 112,
+      "constituency": "Bhadravati",
+      "reservation": null,
+      "name": "B. K. Sangameshwara",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 113,
+      "constituency": "Shimoga",
+      "reservation": null,
+      "name": "Channabasappa",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 114,
+      "constituency": "Tirthahalli",
+      "reservation": null,
+      "name": "Araga Jnanendra",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 115,
+      "constituency": "Shikaripura",
+      "reservation": null,
+      "name": "B. Y. Vijayendra",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 116,
+      "constituency": "Sorab",
+      "reservation": null,
+      "name": "Madhu Bangarappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 117,
+      "constituency": "Sagar",
+      "reservation": null,
+      "name": "Gopala Krishna Beluru",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 118,
+      "constituency": "Byndoor",
+      "reservation": null,
+      "name": "Gururaj Shetty Gantihole",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 119,
+      "constituency": "Kundapura",
+      "reservation": null,
+      "name": "A. Kiran Kumar Kodgi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 120,
+      "constituency": "Udupi",
+      "reservation": null,
+      "name": "Yashpal A. Suvarna",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 121,
+      "constituency": "Kapu",
+      "reservation": null,
+      "name": "Gurme Suresh Shetty",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 122,
+      "constituency": "Karkala",
+      "reservation": null,
+      "name": "V. Sunil Kumar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 123,
+      "constituency": "Sringeri",
+      "reservation": null,
+      "name": "T. D. Rajegowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 124,
+      "constituency": "Mudigere",
+      "reservation": "SC",
+      "name": "Nayana Motamma",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 125,
+      "constituency": "Chikmagalur",
+      "reservation": null,
+      "name": "H. D. Thammaiah",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 126,
+      "constituency": "Tarikere",
+      "reservation": null,
+      "name": "G. H. Srinivasa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 127,
+      "constituency": "Kadur",
+      "reservation": null,
+      "name": "K. S. Anand",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 128,
+      "constituency": "Chiknayakanhalli",
+      "reservation": null,
+      "name": "C. B. Suresh Babu",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 129,
+      "constituency": "Tiptur",
+      "reservation": null,
+      "name": "K. Shadakshari",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 130,
+      "constituency": "Turuvekere",
+      "reservation": null,
+      "name": "M. T. Krishnappa",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 131,
+      "constituency": "Kunigal",
+      "reservation": null,
+      "name": "H. D. Ranganath",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 132,
+      "constituency": "Tumkur City",
+      "reservation": null,
+      "name": "G. B. Jyothi Ganesh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 133,
+      "constituency": "Tumkur Rural",
+      "reservation": null,
+      "name": "B. Suresh Gowda",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 134,
+      "constituency": "Koratagere",
+      "reservation": "SC",
+      "name": "G. Parameshwara",
+      "party": "INC",
+      "note": "Deputy Chief Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 135,
+      "constituency": "Gubbi",
+      "reservation": null,
+      "name": "S. R. Srinivas",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 136,
+      "constituency": "Sira",
+      "reservation": null,
+      "name": "T. B. Jayachandra",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 137,
+      "constituency": "Pavagada",
+      "reservation": "SC",
+      "name": "H. V. Venkatesh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 138,
+      "constituency": "Madhugiri",
+      "reservation": null,
+      "name": "K. N. Rajanna",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 139,
+      "constituency": "Gauribidanur",
+      "reservation": null,
+      "name": "K. Puttaswamy Gowda",
+      "party": "Independent",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 140,
+      "constituency": "Bagepalli",
+      "reservation": null,
+      "name": "S. N. Subbareddy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 141,
+      "constituency": "Chikkaballapur",
+      "reservation": null,
+      "name": "Pradeep Eshwar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 142,
+      "constituency": "Sidlaghatta",
+      "reservation": null,
+      "name": "B. N. Ravi Kumar",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 143,
+      "constituency": "Chintamani",
+      "reservation": null,
+      "name": "M. C. Sudhakar",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 144,
+      "constituency": "Srinivaspur",
+      "reservation": null,
+      "name": "G. K. Venkatashiva Reddy",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 145,
+      "constituency": "Mulbagal",
+      "reservation": "SC",
+      "name": "Samruddhi V. Manjunath",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 146,
+      "constituency": "Kolar Gold Field",
+      "reservation": "SC",
+      "name": "M. Roopakala",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 147,
+      "constituency": "Bangarapet",
+      "reservation": "SC",
+      "name": "S. N. Narayanaswamy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 148,
+      "constituency": "Kolar",
+      "reservation": null,
+      "name": "Kothur G. Manjunath",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 149,
+      "constituency": "Malur",
+      "reservation": null,
+      "name": "K. Y. Nanjegowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 150,
+      "constituency": "Yelahanka",
+      "reservation": null,
+      "name": "S. R. Vishwanath",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 151,
+      "constituency": "Krishnarajapuram",
+      "reservation": null,
+      "name": "B.A. Basavaraja",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 152,
+      "constituency": "Byatarayanapura",
+      "reservation": null,
+      "name": "Krishna Byregowda",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 153,
+      "constituency": "Yeshwantpur",
+      "reservation": null,
+      "name": "S.T. Somashekar",
+      "party": "Independent",
+      "note": "Expelled from BJP",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 154,
+      "constituency": "Rajarajeshwarinagar",
+      "reservation": null,
+      "name": "Munirathna",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 155,
+      "constituency": "Dasarahalli",
+      "reservation": null,
+      "name": "S. Muniraju",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 156,
+      "constituency": "Mahalakshmi Layout",
+      "reservation": null,
+      "name": "K. Gopalaiah",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 157,
+      "constituency": "Malleshwaram",
+      "reservation": null,
+      "name": "C.N. Ashwath Narayan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 158,
+      "constituency": "Hebbal",
+      "reservation": null,
+      "name": "Suresha B.S. (Byrathi Suresh)",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 159,
+      "constituency": "Pulakeshinagar",
+      "reservation": "SC",
+      "name": "A.C. Srinivasa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 160,
+      "constituency": "Sarvagnanagar",
+      "reservation": null,
+      "name": "K.J. George",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 161,
+      "constituency": "C. V. Raman Nagar",
+      "reservation": "SC",
+      "name": "S. Raghu",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 162,
+      "constituency": "Shivajinagar",
+      "reservation": null,
+      "name": "Rizwan Arshad",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 163,
+      "constituency": "Shanti Nagar",
+      "reservation": null,
+      "name": "N.A. Haris",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 164,
+      "constituency": "Gandhi Nagar",
+      "reservation": null,
+      "name": "Dinesh Gundu Rao",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 165,
+      "constituency": "Rajaji Nagar",
+      "reservation": null,
+      "name": "S. Suresh Kumar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 166,
+      "constituency": "Govindraj Nagar",
+      "reservation": null,
+      "name": "Priya Krishna",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 167,
+      "constituency": "Vijay Nagar",
+      "reservation": null,
+      "name": "M. Krishnappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 168,
+      "constituency": "Chamrajpet",
+      "reservation": null,
+      "name": "B.Z. Zameer Ahmed Khan",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 169,
+      "constituency": "Chickpet",
+      "reservation": null,
+      "name": "Uday B. Garudachar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 170,
+      "constituency": "Basavanagudi",
+      "reservation": null,
+      "name": "Ravi Subramanya L.A.",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 171,
+      "constituency": "Padmanabhanagar",
+      "reservation": null,
+      "name": "R. Ashoka",
+      "party": "BJP",
+      "note": "Leader of the Opposition",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 172,
+      "constituency": "B.T.M. Layout",
+      "reservation": null,
+      "name": "Ramalinga Reddy",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 173,
+      "constituency": "Jayanagar",
+      "reservation": null,
+      "name": "C. K. Ramamurthy",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 174,
+      "constituency": "Mahadevapura",
+      "reservation": "SC",
+      "name": "Manjula S.",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 175,
+      "constituency": "Bommanahalli",
+      "reservation": null,
+      "name": "Satish Reddy M.",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 176,
+      "constituency": "Bangalore South",
+      "reservation": null,
+      "name": "M. Krishnappa",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 177,
+      "constituency": "Anekal",
+      "reservation": "SC",
+      "name": "B. Shivanna",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 178,
+      "constituency": "Hoskote",
+      "reservation": null,
+      "name": "Sharath Kumar Bache Gowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 179,
+      "constituency": "Devanahalli",
+      "reservation": "SC",
+      "name": "K. H. Muniyappa",
+      "party": "INC",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 180,
+      "constituency": "Doddaballapur",
+      "reservation": null,
+      "name": "Dheeraj Muniraj",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 181,
+      "constituency": "Nelamangala",
+      "reservation": "SC",
+      "name": "N. Shreenivasaiah",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 182,
+      "constituency": "Magadi",
+      "reservation": null,
+      "name": "H. C. Balakrishna",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 183,
+      "constituency": "Ramanagara",
+      "reservation": null,
+      "name": "H. A. Iqbal Hussain",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 184,
+      "constituency": "Kanakapura",
+      "reservation": null,
+      "name": "D.K. Shivakumar",
+      "party": "INC",
+      "note": "Chief Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 185,
+      "constituency": "Channapatna",
+      "reservation": null,
+      "name": "C. P. Yogeshwar",
+      "party": "INC",
+      "note": "Elected 23 Nov 2024; prev. H. D. Kumaraswamy (JD(S)) elected to Lok Sabha Jun 2024",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 186,
+      "constituency": "Malavalli",
+      "reservation": "SC",
+      "name": "P. M. Narendraswamy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 187,
+      "constituency": "Maddur",
+      "reservation": null,
+      "name": "K. M. Udaya",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 188,
+      "constituency": "Melukote",
+      "reservation": null,
+      "name": "Darshan Puttannaiah",
+      "party": "SKP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 189,
+      "constituency": "Mandya",
+      "reservation": null,
+      "name": "Ravikumar Gowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 190,
+      "constituency": "Shrirangapattana",
+      "reservation": null,
+      "name": "A. B. Ramesha Bandisiddegowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 191,
+      "constituency": "Nagamangala",
+      "reservation": null,
+      "name": "N. Chaluvaraya Swamy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 192,
+      "constituency": "Krishnarajapet",
+      "reservation": null,
+      "name": "H. T. Manju",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 193,
+      "constituency": "Shravanabelagola",
+      "reservation": null,
+      "name": "C. N. Balakrishna",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 194,
+      "constituency": "Arsikere",
+      "reservation": null,
+      "name": "K. M. Shivalinge Gowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 195,
+      "constituency": "Belur",
+      "reservation": null,
+      "name": "H. K. Suresh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 196,
+      "constituency": "Hassan",
+      "reservation": null,
+      "name": "Swaroop Prakash",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 197,
+      "constituency": "Holenarasipur",
+      "reservation": null,
+      "name": "H. D. Revanna",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 198,
+      "constituency": "Arkalgud",
+      "reservation": null,
+      "name": "A. Manju",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 199,
+      "constituency": "Sakleshpur",
+      "reservation": "SC",
+      "name": "Cement Manju",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 200,
+      "constituency": "Belthangady",
+      "reservation": null,
+      "name": "Harish Poonja",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 201,
+      "constituency": "Moodabidri",
+      "reservation": null,
+      "name": "Umanatha Kotian",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 202,
+      "constituency": "Mangalore City North",
+      "reservation": null,
+      "name": "Y. Bharath Shetty",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 203,
+      "constituency": "Mangalore City South",
+      "reservation": null,
+      "name": "D. Vedavyasa Kamath",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 204,
+      "constituency": "Mangalore",
+      "reservation": null,
+      "name": "U. T. Khader",
+      "party": "INC",
+      "note": "Former Speaker; Cabinet Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 205,
+      "constituency": "Bantval",
+      "reservation": null,
+      "name": "U. Rajesh Naik",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 206,
+      "constituency": "Puttur",
+      "reservation": null,
+      "name": "Ashok Kumar Rai",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 207,
+      "constituency": "Sullia",
+      "reservation": "SC",
+      "name": "Bhagirathi Murulya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 208,
+      "constituency": "Madikeri",
+      "reservation": null,
+      "name": "Mantar Gowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 209,
+      "constituency": "Virajpet",
+      "reservation": null,
+      "name": "A. S. Ponnanna",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 210,
+      "constituency": "Periyapatna",
+      "reservation": null,
+      "name": "K. Venkatesh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 211,
+      "constituency": "Krishnarajanagara",
+      "reservation": null,
+      "name": "D. Ravishankar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 212,
+      "constituency": "Hunsur",
+      "reservation": null,
+      "name": "G. D. Harish Gowda",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 213,
+      "constituency": "Heggadadevankote",
+      "reservation": "ST",
+      "name": "Anil Chikkamadhu",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 214,
+      "constituency": "Nanjangud",
+      "reservation": "SC",
+      "name": "Darshan Dhruvanarayana",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 215,
+      "constituency": "Chamundeshwari",
+      "reservation": null,
+      "name": "G. T. Devegowda",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 216,
+      "constituency": "Krishnaraja",
+      "reservation": null,
+      "name": "T. S. Srivatsa",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 217,
+      "constituency": "Chamaraja",
+      "reservation": null,
+      "name": "K. Harish Gowda",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 218,
+      "constituency": "Narasimharaja",
+      "reservation": null,
+      "name": "Tanveer Sait",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 219,
+      "constituency": "Varuna",
+      "reservation": null,
+      "name": "Siddaramaiah",
+      "party": "INC",
+      "note": "Former Chief Minister (2023-2026)",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 220,
+      "constituency": "T. Narasipur",
+      "reservation": "SC",
+      "name": "H. C. Mahadevappa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 221,
+      "constituency": "Hanur",
+      "reservation": null,
+      "name": "M. R. Manjunath",
+      "party": "JD(S)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 222,
+      "constituency": "Kollegal",
+      "reservation": "SC",
+      "name": "A. R. Krishnamurthy",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 223,
+      "constituency": "Chamarajanagar",
+      "reservation": null,
+      "name": "C. Puttarangashetty",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 224,
+      "constituency": "Gundlupet",
+      "reservation": null,
+      "name": "H M Ganesh Prasad",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}
