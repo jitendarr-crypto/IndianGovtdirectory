@@ -1,0 +1,87 @@
+{
+  "level": "state",
+  "state": "Karnataka",
+  "chief": {
+    "role": "Chief Minister of Karnataka",
+    "name": "D. K. Shivakumar",
+    "note": "Indian National Congress; Kanakapura constituency; holds Finance, Cabinet Affairs, Personnel & Administrative Reforms, Intelligence, and all unallocated portfolios. Sworn in 3 Jun 2026 under an internal Congress power-sharing arrangement, succeeding Siddaramaiah. Deputy CM: G. Parameshwara",
+    "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "G. Parameshwara",
+      "portfolio": "Deputy CM; Revenue; Sports",
+      "seat": "Koratagere",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Priyank Kharge",
+      "portfolio": "Home Affairs (excl. Intelligence); IT, BT & e-Governance",
+      "seat": "Chittapur",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Krishna Byre Gowda",
+      "portfolio": "Bengaluru Urban Development; BWSSB; BMRCL",
+      "seat": "MLC",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Ramalinga Reddy",
+      "portfolio": "Forest, Ecology & Environment",
+      "seat": "BTM Layout",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "medium",
+      "note": "Reassigned from Water Resources in the 12 Aug 2026 portfolio allocation"
+    },
+    {
+      "name": "Byrathi Suresh",
+      "portfolio": "Transport",
+      "seat": "Hebbal",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "U. T. Khader",
+      "portfolio": "Health & Family Welfare",
+      "seat": "Mangalore",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Eshwar Khandre",
+      "portfolio": "Rural Development & Panchayat Raj",
+      "seat": "Bhalki",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Yathindra Siddaramaiah",
+      "portfolio": "Urban Development",
+      "seat": "MLC",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Sharan Prakash Patil",
+      "portfolio": "Medical Education & Skill Development",
+      "seat": "Sedam",
+      "source_url": "https://en.wikipedia.org/wiki/Shivakumar_ministry",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

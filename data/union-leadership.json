@@ -1,0 +1,25 @@
+{
+  "level": "union",
+  "chief": {
+    "role": "Prime Minister of India",
+    "name": "Narendra Modi",
+    "note": "Also holds Personnel, Public Grievances & Pensions; Department of Atomic Energy; Department of Space",
+    "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {"name": "Rajnath Singh", "portfolio": "Defence", "seat": "Lucknow", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Amit Shah", "portfolio": "Home Affairs; Cooperation", "seat": "Gandhinagar", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Nirmala Sitharaman", "portfolio": "Finance; Corporate Affairs", "seat": "Rajya Sabha, Karnataka", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "S. Jaishankar", "portfolio": "External Affairs", "seat": "Rajya Sabha, Gujarat", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Nitin Gadkari", "portfolio": "Road Transport & Highways", "seat": "Nagpur", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "J. P. Nadda", "portfolio": "Health & Family Welfare; Chemicals & Fertilizers", "seat": "Rajya Sabha, Himachal Pradesh", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Shivraj Singh Chouhan", "portfolio": "Agriculture & Farmers Welfare; Rural Development", "seat": "Vidisha", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Ashwini Vaishnaw", "portfolio": "Railways; Information & Broadcasting; Electronics & IT", "seat": "Rajya Sabha, Odisha", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Pralhad Joshi", "portfolio": "Education; Consumer Affairs, Food & Public Distribution; New & Renewable Energy", "seat": "Dharwad", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high", "note": "Took over Education from Dharmendra Pradhan on 25 Jul 2026"},
+    {"name": "Piyush Goyal", "portfolio": "Commerce & Industry", "seat": "Rajya Sabha, Maharashtra", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Manohar Lal Khattar", "portfolio": "Housing & Urban Affairs; Power", "seat": "Karnal", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "H. D. Kumaraswamy", "portfolio": "Heavy Industries; Steel", "seat": "Mandya", "source_url": "https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/", "last_checked": "2026-08-23", "confidence": "high"}
+  ]
+}

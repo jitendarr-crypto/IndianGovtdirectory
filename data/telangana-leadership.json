@@ -1,0 +1,25 @@
+{
+  "level": "state",
+  "state": "Telangana",
+  "chief": {
+    "role": "Chief Minister of Telangana",
+    "name": "Anumula Revanth Reddy",
+    "note": "Indian National Congress; Kodangal constituency; holds Municipal Administration & Urban Development, General Administration, Law & Order, and all unallocated portfolios",
+    "source_url": "https://www.telangana.gov.in/government/council-of-ministers/",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {"name": "Bhatti Vikramarka Mallu", "portfolio": "Deputy CM; Finance & Planning; Energy", "seat": "Madhira (SC)", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Nalamada Uttam Kumar Reddy", "portfolio": "Irrigation & CAD; Food & Civil Supplies", "seat": "Huzurnagar", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Damodar Rajanarasimha", "portfolio": "Health, Medical & Family Welfare; Science & Technology", "seat": "Andole (SC)", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Komatireddy Venkat Reddy", "portfolio": "Roads & Buildings; Cinematography", "seat": "Nalgonda", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Duddilla Sridhar Babu", "portfolio": "IT, Electronics & Communications; Industries & Commerce; Legislative Affairs", "seat": "Manthani", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Ponguleti Srinivas Reddy", "portfolio": "Revenue & Housing; Information & Public Relations", "seat": "Palair", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Ponnam Prabhakar", "portfolio": "Transport; BC Welfare", "seat": "Husnabad", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Konda Surekha", "portfolio": "Environment & Forests; Endowments", "seat": "Warangal East", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "D. Anasuya (Seethakka)", "portfolio": "Panchayat Raj & Rural Development; Women & Child Welfare", "seat": "Mulug (ST)", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Tummala Nageswara Rao", "portfolio": "Agriculture, Marketing & Co-operation; Handlooms & Textiles", "seat": "Khammam", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"},
+    {"name": "Jupally Krishna Rao", "portfolio": "Prohibition & Excise; Tourism, Culture & Archaeology", "seat": "Kollapur", "source_url": "https://www.telangana.gov.in/government/council-of-ministers/", "last_checked": "2026-08-23", "confidence": "high"}
+  ]
+}

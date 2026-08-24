@@ -1,0 +1,2309 @@
+{
+  "level": "mlas",
+  "state": "Madhya Pradesh",
+  "assembly": "16th Madhya Pradesh Legislative Assembly (2023–2028)",
+  "role_title": "MLA",
+  "source_url": "https://en.wikipedia.org/wiki/16th_Madhya_Pradesh_Assembly",
+  "items": [
+    {
+      "no": 1,
+      "constituency": "Sheopur",
+      "reservation": null,
+      "name": "Babu Jandel",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 2,
+      "constituency": "Vijaypur",
+      "reservation": null,
+      "name": "Mukesh Malhotra",
+      "party": "BJP",
+      "note": "Won bypoll 23 Nov 2024; prev. Ramnivas Rawat (INC) resigned 8 Jul 2024, defected to BJP",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 3,
+      "constituency": "Sabalgarh",
+      "reservation": null,
+      "name": "Sarla Vijendra Rawat",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 4,
+      "constituency": "Joura",
+      "reservation": null,
+      "name": "Pankaj Upadhyay",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 5,
+      "constituency": "Sumawali",
+      "reservation": null,
+      "name": "Adal Singh Kansana",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 6,
+      "constituency": "Morena",
+      "reservation": null,
+      "name": "Dinesh Gurjar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 7,
+      "constituency": "Dimani",
+      "reservation": null,
+      "name": "Narendra Singh Tomar",
+      "party": "BJP",
+      "note": "Speaker of the Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 8,
+      "constituency": "Ambah",
+      "reservation": "SC",
+      "name": "Devendra Sakhwar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 9,
+      "constituency": "Ater",
+      "reservation": null,
+      "name": "Hemant Katare",
+      "party": "INC",
+      "note": "Deputy Leader of Opposition",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 10,
+      "constituency": "Bhind",
+      "reservation": null,
+      "name": "Narendra Singh Kushwah",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 11,
+      "constituency": "Lahar",
+      "reservation": null,
+      "name": "Ambrish Sharma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 12,
+      "constituency": "Mehgaon",
+      "reservation": null,
+      "name": "Rakesh Shukla",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 13,
+      "constituency": "Gohad",
+      "reservation": "SC",
+      "name": "Keshav Desai",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 14,
+      "constituency": "Gwalior Rural",
+      "reservation": null,
+      "name": "Sahab Singh Gurjar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 15,
+      "constituency": "Gwalior",
+      "reservation": null,
+      "name": "Pradhuman Singh Tomar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 16,
+      "constituency": "Gwalior East",
+      "reservation": null,
+      "name": "Satish Sikarwar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 17,
+      "constituency": "Gwalior South",
+      "reservation": null,
+      "name": "Narayan Singh Kushwah",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 18,
+      "constituency": "Bhitarwar",
+      "reservation": null,
+      "name": "Mohan Singh Rathore",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 19,
+      "constituency": "Dabra",
+      "reservation": "SC",
+      "name": "Suresh Raje",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 20,
+      "constituency": "Sewda",
+      "reservation": null,
+      "name": "Pradeep Agrawal",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 21,
+      "constituency": "Bhander",
+      "reservation": "SC",
+      "name": "Phool Singh Baraiya",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 22,
+      "constituency": "Datia",
+      "reservation": null,
+      "name": "Rajendra Bharti",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 23,
+      "constituency": "Karera",
+      "reservation": "SC",
+      "name": "Ramesh Prasad Khatik",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 24,
+      "constituency": "Pohari",
+      "reservation": null,
+      "name": "Kailash Kushwah",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 25,
+      "constituency": "Shivpuri",
+      "reservation": null,
+      "name": "Devendra Kumar Jain",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 26,
+      "constituency": "Pichhore",
+      "reservation": null,
+      "name": "Preetam Lodhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 27,
+      "constituency": "Kolaras",
+      "reservation": null,
+      "name": "Mahendra Singh Yadav",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 28,
+      "constituency": "Bamori",
+      "reservation": null,
+      "name": "Rishi Agarwal",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 29,
+      "constituency": "Guna",
+      "reservation": "SC",
+      "name": "Panna Lal Shakya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 30,
+      "constituency": "Chachoura",
+      "reservation": null,
+      "name": "Priyanka Penchi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 31,
+      "constituency": "Raghogarh",
+      "reservation": null,
+      "name": "Jaivardhan Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 32,
+      "constituency": "Ashok Nagar",
+      "reservation": "SC",
+      "name": "Haribaboo Rai",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 33,
+      "constituency": "Chanderi",
+      "reservation": null,
+      "name": "Jagannath Singh Raghuwanshi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 34,
+      "constituency": "Mungaoli",
+      "reservation": null,
+      "name": "Brajendra Singh Yadav",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 35,
+      "constituency": "Bina",
+      "reservation": "SC",
+      "name": "Nirmla Sapre",
+      "party": "BJP",
+      "note": "Elected as INC, defected to BJP May 2024",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 36,
+      "constituency": "Khurai",
+      "reservation": null,
+      "name": "Bhupendra Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 37,
+      "constituency": "Surkhi",
+      "reservation": null,
+      "name": "Govind Singh Rajput",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 38,
+      "constituency": "Deori",
+      "reservation": null,
+      "name": "Brijbihari Pateriya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 39,
+      "constituency": "Rehli",
+      "reservation": null,
+      "name": "Gopal Bhargava",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 40,
+      "constituency": "Naryoli",
+      "reservation": null,
+      "name": "Pradeep Lariya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 41,
+      "constituency": "Sagar",
+      "reservation": null,
+      "name": "Shailendra Kumar Jain",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 42,
+      "constituency": "Banda",
+      "reservation": null,
+      "name": "Veerendra Singh Lodhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 43,
+      "constituency": "Tikamgarh",
+      "reservation": null,
+      "name": "Yadvendra Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 44,
+      "constituency": "Jatara",
+      "reservation": "SC",
+      "name": "Harishankar Khatik",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 45,
+      "constituency": "Prithvipur",
+      "reservation": null,
+      "name": "Nitendra Singh Rathore",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 46,
+      "constituency": "Niwari",
+      "reservation": null,
+      "name": "Anil Jain",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 47,
+      "constituency": "Khargapur",
+      "reservation": null,
+      "name": "Chanda Singh Gaur",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 48,
+      "constituency": "Maharajpur",
+      "reservation": null,
+      "name": "Kamakhya Pratap Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 49,
+      "constituency": "Chandla",
+      "reservation": "SC",
+      "name": "Dileep Ahirwar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 50,
+      "constituency": "Rajnagar",
+      "reservation": null,
+      "name": "Arvind Pateriya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 51,
+      "constituency": "Chhatarpur",
+      "reservation": null,
+      "name": "Lalita Yadav",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 52,
+      "constituency": "Bijawar",
+      "reservation": null,
+      "name": "Rajesh Kumar Shukla",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 53,
+      "constituency": "Malhara",
+      "reservation": null,
+      "name": "Ramsiya Bharti",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 54,
+      "constituency": "Pathariya",
+      "reservation": null,
+      "name": "Lakhan Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 55,
+      "constituency": "Damoh",
+      "reservation": null,
+      "name": "Jayant Malaiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 56,
+      "constituency": "Jabera",
+      "reservation": null,
+      "name": "Dharmendra Bhav Singh Lodhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 57,
+      "constituency": "Hatta",
+      "reservation": "SC",
+      "name": "Uma Devi Khatik",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 58,
+      "constituency": "Pawai",
+      "reservation": null,
+      "name": "Prahlad Lodhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 59,
+      "constituency": "Gunnaor",
+      "reservation": "SC",
+      "name": "Rajesh Kumar Verma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 60,
+      "constituency": "Panna",
+      "reservation": null,
+      "name": "Brijendra Pratap Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 61,
+      "constituency": "Chitrakoot",
+      "reservation": null,
+      "name": "Surendra Singh Gaharwar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 62,
+      "constituency": "Raigaon",
+      "reservation": "SC",
+      "name": "Pratima Bagri",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 63,
+      "constituency": "Satna",
+      "reservation": null,
+      "name": "Dabbu Siddharth Sukhlal Kushwah",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 64,
+      "constituency": "Nagod",
+      "reservation": null,
+      "name": "Nagendra Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 65,
+      "constituency": "Maihar",
+      "reservation": null,
+      "name": "Shrikant Chaturvedi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 66,
+      "constituency": "Amarpatan",
+      "reservation": null,
+      "name": "Rajendra Kumar Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 67,
+      "constituency": "Rampur-Baghelan",
+      "reservation": null,
+      "name": "Vikram Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 68,
+      "constituency": "Sirmour",
+      "reservation": null,
+      "name": "Divyaraj Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 69,
+      "constituency": "Semariya",
+      "reservation": null,
+      "name": "Abhay Mishra",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 70,
+      "constituency": "Teonthar",
+      "reservation": null,
+      "name": "Siddharth Tiwari",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 71,
+      "constituency": "Mauganj",
+      "reservation": null,
+      "name": "Pradeep Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 72,
+      "constituency": "Deotalab",
+      "reservation": null,
+      "name": "Girish Gautam",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 73,
+      "constituency": "Mangawan",
+      "reservation": "SC",
+      "name": "Narendra Prajapati",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 74,
+      "constituency": "Rewa",
+      "reservation": null,
+      "name": "Rajendra Shukla",
+      "party": "BJP",
+      "note": "Deputy Chief Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 75,
+      "constituency": "Gurh",
+      "reservation": null,
+      "name": "Nagendra Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 76,
+      "constituency": "Churhat",
+      "reservation": null,
+      "name": "Ajay Arjun Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 77,
+      "constituency": "Sidhi",
+      "reservation": null,
+      "name": "Riti Pathak",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 78,
+      "constituency": "Sihawal",
+      "reservation": null,
+      "name": "Vishwamitra Pathak",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 79,
+      "constituency": "Chitrangi",
+      "reservation": "ST",
+      "name": "Radha Ravindra Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 80,
+      "constituency": "Singrauli",
+      "reservation": null,
+      "name": "Ram Niwas Shah",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 81,
+      "constituency": "Devsar",
+      "reservation": "SC",
+      "name": "Rajendra Meshram",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 82,
+      "constituency": "Dhauhani",
+      "reservation": "ST",
+      "name": "Kunwar Singh Tekam",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 83,
+      "constituency": "Beohari",
+      "reservation": "ST",
+      "name": "Sharad Juglal Kol",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 84,
+      "constituency": "Jaisingnagar",
+      "reservation": "ST",
+      "name": "Manisha Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 85,
+      "constituency": "Jaitpur",
+      "reservation": "ST",
+      "name": "Jaisingh Maravi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 86,
+      "constituency": "Kotma",
+      "reservation": null,
+      "name": "Dilip Jaiswal",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 87,
+      "constituency": "Anuppur",
+      "reservation": "ST",
+      "name": "Bisahulal Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 88,
+      "constituency": "Pushprajgarh",
+      "reservation": "ST",
+      "name": "Phundelal Marko",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 89,
+      "constituency": "Bandhavgarh",
+      "reservation": "ST",
+      "name": "Shivnarayan Gyan Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 90,
+      "constituency": "Manpur",
+      "reservation": "ST",
+      "name": "Meena Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 91,
+      "constituency": "Barwara",
+      "reservation": "ST",
+      "name": "Dhirendra Bahadur Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 92,
+      "constituency": "Vijayraghavgarh",
+      "reservation": null,
+      "name": "Sanjay Pathak",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 93,
+      "constituency": "Murwara",
+      "reservation": null,
+      "name": "Sandeep Shriprasad Jaiswal",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 94,
+      "constituency": "Bahoriband",
+      "reservation": null,
+      "name": "Pranay Prabhat Pandey",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 95,
+      "constituency": "Patan",
+      "reservation": null,
+      "name": "Ajay Vishnoi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 96,
+      "constituency": "Bargi",
+      "reservation": null,
+      "name": "Neeraj Singh Lodhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 97,
+      "constituency": "Jabalpur East",
+      "reservation": "SC",
+      "name": "Lakhan Ghanghoria",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 98,
+      "constituency": "Jabalpur North",
+      "reservation": null,
+      "name": "Abhilash Pandey",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 99,
+      "constituency": "Jabalpur Cantonment",
+      "reservation": null,
+      "name": "Ashok Rohani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 100,
+      "constituency": "Jabalpur West",
+      "reservation": null,
+      "name": "Rakesh Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 101,
+      "constituency": "Panagar",
+      "reservation": null,
+      "name": "Sushil Kumar Tiwari",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 102,
+      "constituency": "Sihora",
+      "reservation": "ST",
+      "name": "Santosh Varkade",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 103,
+      "constituency": "Shahpura",
+      "reservation": "ST",
+      "name": "Om Prakash Dhurve",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 104,
+      "constituency": "Dindori",
+      "reservation": "SC",
+      "name": "Omkar Singh Markam",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 105,
+      "constituency": "Bichhiya",
+      "reservation": "ST",
+      "name": "Narayan Singh Patta",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 106,
+      "constituency": "Niwas",
+      "reservation": "ST",
+      "name": "Chainsingh Warkade",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 107,
+      "constituency": "Mandla",
+      "reservation": "ST",
+      "name": "Sampatiya Uikey",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 108,
+      "constituency": "Baihar",
+      "reservation": "ST",
+      "name": "Sanjay Uikey",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 109,
+      "constituency": "Lanji",
+      "reservation": null,
+      "name": "Rajkumar Karrahe",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 110,
+      "constituency": "Paraswada",
+      "reservation": null,
+      "name": "Madhu Bhau Bhagat",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 111,
+      "constituency": "Balaghat",
+      "reservation": null,
+      "name": "Anubha Munjare",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 112,
+      "constituency": "Waraseoni",
+      "reservation": null,
+      "name": "Vivek Vicky Patel",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 113,
+      "constituency": "Katangi",
+      "reservation": null,
+      "name": "Gaurav Singh Pardhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 114,
+      "constituency": "Barghat",
+      "reservation": "ST",
+      "name": "Kamal Marskole",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 115,
+      "constituency": "Seoni",
+      "reservation": null,
+      "name": "Dinesh Rai Munmun",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 116,
+      "constituency": "Keolari",
+      "reservation": null,
+      "name": "Rajneesh Harvansh Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 117,
+      "constituency": "Lakhnadon",
+      "reservation": "ST",
+      "name": "Yogendra Singh Baba",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 118,
+      "constituency": "Gotegaon",
+      "reservation": "SC",
+      "name": "Mahendra Nagesh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 119,
+      "constituency": "Narsingpur",
+      "reservation": null,
+      "name": "Prahlad Singh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 120,
+      "constituency": "Tendukheda",
+      "reservation": null,
+      "name": "Vishwanath Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 121,
+      "constituency": "Gadarwara",
+      "reservation": null,
+      "name": "Uday Pratap Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 122,
+      "constituency": "Junnardeo",
+      "reservation": "ST",
+      "name": "Sunil Uikey",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 123,
+      "constituency": "Amarwara",
+      "reservation": "ST",
+      "name": "Kamlesh Shah",
+      "party": "BJP",
+      "note": "Won bypoll 13 Jul 2024 as BJP; originally elected 2023 as INC, defected 29 Mar 2024",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 124,
+      "constituency": "Chourai",
+      "reservation": null,
+      "name": "Choudhary Sujeet Mersingh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 125,
+      "constituency": "Saunsar",
+      "reservation": null,
+      "name": "Vijay Revnath Chore",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 126,
+      "constituency": "Chhindwara",
+      "reservation": null,
+      "name": "Kamal Nath",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 127,
+      "constituency": "Parasia",
+      "reservation": "SC",
+      "name": "Sohanlal Balmik",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 128,
+      "constituency": "Pandhurna",
+      "reservation": "ST",
+      "name": "Neelesh Pusaram Uikey",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 129,
+      "constituency": "Multai",
+      "reservation": null,
+      "name": "Chandrashekhar Deshmukh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 130,
+      "constituency": "Amla",
+      "reservation": null,
+      "name": "Yogesh Pandagre",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 131,
+      "constituency": "Betul",
+      "reservation": null,
+      "name": "Hemant Khandelwal",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 132,
+      "constituency": "Ghoradongri",
+      "reservation": "ST",
+      "name": "Ganga Sajjan Singh Uikey",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 133,
+      "constituency": "Bhainsdehi",
+      "reservation": "ST",
+      "name": "Mahendra Singh Chouhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 134,
+      "constituency": "Timarni",
+      "reservation": "ST",
+      "name": "Abhijeet Shah",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 135,
+      "constituency": "Harda",
+      "reservation": null,
+      "name": "Ram Kishore Dogne",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 136,
+      "constituency": "Seoni-Malwa",
+      "reservation": null,
+      "name": "Prem Shankar Kunjilal Verma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 137,
+      "constituency": "Hoshangabad",
+      "reservation": null,
+      "name": "Sitasharan Sharma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 138,
+      "constituency": "Sohagpur",
+      "reservation": null,
+      "name": "Vijaypal Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 139,
+      "constituency": "Pipariya",
+      "reservation": "SC",
+      "name": "Thakurdas Nagwanshi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 140,
+      "constituency": "Udaipura",
+      "reservation": null,
+      "name": "Narendra Shivaji Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 141,
+      "constituency": "Bhojpur",
+      "reservation": null,
+      "name": "Surendra Patwa",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 142,
+      "constituency": "Sanchi",
+      "reservation": "SC",
+      "name": "Prabhuram Choudhary",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 143,
+      "constituency": "Silwani",
+      "reservation": null,
+      "name": "Devendra Patel",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 144,
+      "constituency": "Vidisha",
+      "reservation": null,
+      "name": "Mukesh Tandan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 145,
+      "constituency": "Basoda",
+      "reservation": null,
+      "name": "Hari Singh Raghuwanshi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 146,
+      "constituency": "Kurwai",
+      "reservation": "SC",
+      "name": "Hari Singh Sapre",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 147,
+      "constituency": "Sironj",
+      "reservation": null,
+      "name": "Umakant Sharma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 148,
+      "constituency": "Shamshabad",
+      "reservation": null,
+      "name": "Surya Prakash Meena",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 149,
+      "constituency": "Berasia",
+      "reservation": "SC",
+      "name": "Vishnu Khatri",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 150,
+      "constituency": "Bhopal Uttar",
+      "reservation": null,
+      "name": "Atif Arif Aqueel",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 151,
+      "constituency": "Narela",
+      "reservation": null,
+      "name": "Vishvas Sarang",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 152,
+      "constituency": "Bhopal Dakshin-Paschim",
+      "reservation": null,
+      "name": "Bhagwandas Sabnani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 153,
+      "constituency": "Bhopal Madhya",
+      "reservation": null,
+      "name": "Arif Masood",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 154,
+      "constituency": "Govindpura",
+      "reservation": null,
+      "name": "Krishna Gaur",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 155,
+      "constituency": "Huzur",
+      "reservation": null,
+      "name": "Rameshwar Sharma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 156,
+      "constituency": "Budhni",
+      "reservation": null,
+      "name": "Ramakant Bhargava",
+      "party": "BJP",
+      "note": "Won bypoll 23 Nov 2024; prev. Shivraj Singh Chouhan (BJP) elected MP, Lok Sabha",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 157,
+      "constituency": "Ashta",
+      "reservation": "SC",
+      "name": "Gopal Singh Engineer",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 158,
+      "constituency": "Ichhawar",
+      "reservation": null,
+      "name": "Karan Singh Verma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 159,
+      "constituency": "Sehore",
+      "reservation": null,
+      "name": "Sudesh Rai",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 160,
+      "constituency": "Narsinghgarh",
+      "reservation": null,
+      "name": "Mohan Sharma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 161,
+      "constituency": "Biaora",
+      "reservation": null,
+      "name": "Narayan Singh Panwar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 162,
+      "constituency": "Rajgarh",
+      "reservation": null,
+      "name": "Amar Singh Yadav",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 163,
+      "constituency": "Khilchipur",
+      "reservation": null,
+      "name": "Hajari Lal Dangi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 164,
+      "constituency": "Sarangpur",
+      "reservation": "SC",
+      "name": "Gotam Tetwal",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 165,
+      "constituency": "Susner",
+      "reservation": null,
+      "name": "Bhairon Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 166,
+      "constituency": "Agar",
+      "reservation": "SC",
+      "name": "Madhav Singh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 167,
+      "constituency": "Shajapur",
+      "reservation": null,
+      "name": "Arun Bhimawad",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 168,
+      "constituency": "Shujalpur",
+      "reservation": null,
+      "name": "Inder Singh Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 169,
+      "constituency": "Kalapipal",
+      "reservation": null,
+      "name": "Ghanshyam Chandravanshi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 170,
+      "constituency": "Sonkatch",
+      "reservation": "SC",
+      "name": "Rajesh Sonkar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 171,
+      "constituency": "Dewas",
+      "reservation": null,
+      "name": "Gayatri Raje Pawar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 172,
+      "constituency": "Hatpipliya",
+      "reservation": null,
+      "name": "Manoj Choudhary",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 173,
+      "constituency": "Khategaon",
+      "reservation": null,
+      "name": "Aashish Govind Sharma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 174,
+      "constituency": "Bagli",
+      "reservation": "ST",
+      "name": "Murli Bhawara",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 175,
+      "constituency": "Mandhata",
+      "reservation": null,
+      "name": "Narayan Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 176,
+      "constituency": "Harsud",
+      "reservation": "ST",
+      "name": "Kunwar Vijay Shah",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 177,
+      "constituency": "Khandwa",
+      "reservation": "SC",
+      "name": "Kanchan Mukesh Tanve",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 178,
+      "constituency": "Pandhana",
+      "reservation": "ST",
+      "name": "Chaya More",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 179,
+      "constituency": "Nepanagar",
+      "reservation": null,
+      "name": "Manju Rajendra Dadu",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 180,
+      "constituency": "Burhanpur",
+      "reservation": null,
+      "name": "Archana Chitnis",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 181,
+      "constituency": "Bhikangaon",
+      "reservation": "ST",
+      "name": "Jhuma Solanki",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 182,
+      "constituency": "Barwah",
+      "reservation": null,
+      "name": "Sachin Birla",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 183,
+      "constituency": "Maheshwar",
+      "reservation": "SC",
+      "name": "Rajkumar Mev",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 184,
+      "constituency": "Kasrawad",
+      "reservation": null,
+      "name": "Sachin Yadav",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 185,
+      "constituency": "Khargone",
+      "reservation": null,
+      "name": "Balkrishan Patidar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 186,
+      "constituency": "Bhagwanpura",
+      "reservation": "ST",
+      "name": "Kedar Chidabhai Dawar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 187,
+      "constituency": "Sendhawa",
+      "reservation": "ST",
+      "name": "Montu Solanki",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 188,
+      "constituency": "Rajpur",
+      "reservation": "ST",
+      "name": "Bala Bachchan",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 189,
+      "constituency": "Pansemal",
+      "reservation": "ST",
+      "name": "Shyam Barde",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 190,
+      "constituency": "Barwani",
+      "reservation": "ST",
+      "name": "Rajan Mandloi",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 191,
+      "constituency": "Alirajpur",
+      "reservation": "ST",
+      "name": "Nagar Singh Chouhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 192,
+      "constituency": "Jobat",
+      "reservation": "ST",
+      "name": "Sena Mahesh Patel",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 193,
+      "constituency": "Jhabua",
+      "reservation": "ST",
+      "name": "Vikrant Bhuria",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 194,
+      "constituency": "Thandla",
+      "reservation": "ST",
+      "name": "Veer Singh Bhuriya",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 195,
+      "constituency": "Petlawad",
+      "reservation": "ST",
+      "name": "Nirmala Dileep Singh Bhuria",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 196,
+      "constituency": "Sardarpur",
+      "reservation": "ST",
+      "name": "Pratap Grewal",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 197,
+      "constituency": "Gandhwani",
+      "reservation": "ST",
+      "name": "Umang Singhar",
+      "party": "INC",
+      "note": "Leader of the Opposition",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 198,
+      "constituency": "Kukshi",
+      "reservation": "ST",
+      "name": "Surendra Singh Baghel",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 199,
+      "constituency": "Manawar",
+      "reservation": "ST",
+      "name": "Hiralal Alawa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 200,
+      "constituency": "Dharampuri",
+      "reservation": "ST",
+      "name": "Kalu Singh Thakur",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 201,
+      "constituency": "Dhar",
+      "reservation": null,
+      "name": "Neena Verma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 202,
+      "constituency": "Badnawar",
+      "reservation": null,
+      "name": "Bhanwar Singh Shekhawat",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 203,
+      "constituency": "Depalpur",
+      "reservation": null,
+      "name": "Manoj Nirbhay Singh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 204,
+      "constituency": "Indore-1",
+      "reservation": null,
+      "name": "Kailash Vijayvargiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 205,
+      "constituency": "Indore-2",
+      "reservation": null,
+      "name": "Ramesh Mendola",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 206,
+      "constituency": "Indore-3",
+      "reservation": null,
+      "name": "Golu Shukla",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 207,
+      "constituency": "Indore-4",
+      "reservation": null,
+      "name": "Malini Gaur",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 208,
+      "constituency": "Indore-5",
+      "reservation": null,
+      "name": "Mahendra Hardia",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 209,
+      "constituency": "Dr. Ambedkar Nagar-Mhow",
+      "reservation": null,
+      "name": "Usha Thakur",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 210,
+      "constituency": "Rau",
+      "reservation": null,
+      "name": "Madhu Verma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 211,
+      "constituency": "Sanwer",
+      "reservation": "SC",
+      "name": "Tulsi Silawat",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 212,
+      "constituency": "Nagda-Khachrod",
+      "reservation": null,
+      "name": "Tej Bahadur Singh Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 213,
+      "constituency": "Mahidpur",
+      "reservation": null,
+      "name": "Dinesh Jain",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 214,
+      "constituency": "Tarana",
+      "reservation": "SC",
+      "name": "Mahesh Parmar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 215,
+      "constituency": "Ghatiya",
+      "reservation": "SC",
+      "name": "Satish Malviya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 216,
+      "constituency": "Ujjain North",
+      "reservation": null,
+      "name": "Anil Jain Kaluheda",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 217,
+      "constituency": "Ujjain South",
+      "reservation": null,
+      "name": "Mohan Yadav",
+      "party": "BJP",
+      "note": "Chief Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 218,
+      "constituency": "Badnagar",
+      "reservation": null,
+      "name": "Jitendra Pandya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 219,
+      "constituency": "Ratlam Rural",
+      "reservation": "ST",
+      "name": "Mathuralal Damar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 220,
+      "constituency": "Ratlam City",
+      "reservation": null,
+      "name": "Chetanya Kashyap",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 221,
+      "constituency": "Sailana",
+      "reservation": "ST",
+      "name": "Kamleshwar Dodiyar",
+      "party": "BAP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 222,
+      "constituency": "Jaora",
+      "reservation": null,
+      "name": "Rajendra Pandey",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 223,
+      "constituency": "Alot",
+      "reservation": "SC",
+      "name": "Chintamani Malviya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 224,
+      "constituency": "Mandsaur",
+      "reservation": null,
+      "name": "Vipin Jain",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 225,
+      "constituency": "Malhargarh",
+      "reservation": "SC",
+      "name": "Jagdish Devda",
+      "party": "BJP",
+      "note": "Deputy Chief Minister",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 226,
+      "constituency": "Suwasra",
+      "reservation": null,
+      "name": "Hardeep Singh Dang",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 227,
+      "constituency": "Garoth",
+      "reservation": null,
+      "name": "Chandar Singh Sisodiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 228,
+      "constituency": "Manasa",
+      "reservation": null,
+      "name": "Aniruddha Maroo",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 229,
+      "constituency": "Neemuch",
+      "reservation": null,
+      "name": "Dilip Singh Parihar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 230,
+      "constituency": "Jawad",
+      "reservation": null,
+      "name": "Om Prakash Sakhlecha",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

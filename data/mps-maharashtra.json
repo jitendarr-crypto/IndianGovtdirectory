@@ -1,0 +1,488 @@
+{
+  "level": "mps",
+  "state": "Maharashtra",
+  "role_title": "MP (Lok Sabha)",
+  "source_url": "https://en.wikipedia.org/wiki/2024_Indian_general_election_in_Maharashtra",
+  "items": [
+    {
+      "no": 1,
+      "constituency": "Nandurbar",
+      "reservation": "ST",
+      "name": "Gowaal Kagada Padavi",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 2,
+      "constituency": "Dhule",
+      "reservation": null,
+      "name": "Bachhav Shobha Dinesh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 3,
+      "constituency": "Jalgaon",
+      "reservation": null,
+      "name": "Smita Wagh",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 4,
+      "constituency": "Raver",
+      "reservation": null,
+      "name": "Raksha Khadse",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 5,
+      "constituency": "Buldhana",
+      "reservation": null,
+      "name": "Prataprao Ganpatrao Jadhav",
+      "party": "SHS",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 6,
+      "constituency": "Akola",
+      "reservation": null,
+      "name": "Anup Dhotre",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 7,
+      "constituency": "Amravati",
+      "reservation": "SC",
+      "name": "Balwant Baswant Wankhede",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 8,
+      "constituency": "Wardha",
+      "reservation": null,
+      "name": "Amar Sharadrao Kale",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 9,
+      "constituency": "Ramtek",
+      "reservation": "SC",
+      "name": "Shyamkumar Barve",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 10,
+      "constituency": "Nagpur",
+      "reservation": null,
+      "name": "Nitin Gadkari",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 11,
+      "constituency": "Bhandara–Gondiya",
+      "reservation": null,
+      "name": "Prashant Yadaorao Padole",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 12,
+      "constituency": "Gadchiroli–Chimur",
+      "reservation": "ST",
+      "name": "Namdeo Kirsan",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 13,
+      "constituency": "Chandrapur",
+      "reservation": null,
+      "name": "Pratibha Suresh Dhanorkar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 14,
+      "constituency": "Yavatmal–Washim",
+      "reservation": null,
+      "name": "Sanjay Deshmukh",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 15,
+      "constituency": "Hingoli",
+      "reservation": null,
+      "name": "Nagesh Bapurao Patil Ashtikar",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 16,
+      "constituency": "Nanded",
+      "reservation": null,
+      "name": "Vasantrao Balwantrao Chavan",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 17,
+      "constituency": "Parbhani",
+      "reservation": null,
+      "name": "Sanjay Haribhau Jadhav",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 18,
+      "constituency": "Jalna",
+      "reservation": null,
+      "name": "Kalyan Kale",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 19,
+      "constituency": "Aurangabad",
+      "reservation": null,
+      "name": "Sandipanrao Bhumre",
+      "party": "SHS",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 20,
+      "constituency": "Dindori",
+      "reservation": "ST",
+      "name": "Bhaskar Bhagare",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 21,
+      "constituency": "Nashik",
+      "reservation": null,
+      "name": "Rajabhau Waje",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 22,
+      "constituency": "Palghar",
+      "reservation": "ST",
+      "name": "Hemant Savara",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 23,
+      "constituency": "Bhiwandi",
+      "reservation": null,
+      "name": "Suresh Mhatre",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 24,
+      "constituency": "Kalyan",
+      "reservation": null,
+      "name": "Shrikant Shinde",
+      "party": "SHS",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 25,
+      "constituency": "Thane",
+      "reservation": null,
+      "name": "Naresh Mhaske",
+      "party": "SHS",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 26,
+      "constituency": "Mumbai North",
+      "reservation": null,
+      "name": "Piyush Goyal",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 27,
+      "constituency": "Mumbai North West",
+      "reservation": null,
+      "name": "Ravindra Waikar",
+      "party": "SHS",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 28,
+      "constituency": "Mumbai North East",
+      "reservation": null,
+      "name": "Sanjay Dina Patil",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 29,
+      "constituency": "Mumbai North Central",
+      "reservation": null,
+      "name": "Varsha Gaikwad",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 30,
+      "constituency": "Mumbai South Central",
+      "reservation": null,
+      "name": "Anil Desai",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 31,
+      "constituency": "Mumbai South",
+      "reservation": null,
+      "name": "Arvind Sawant",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 32,
+      "constituency": "Raigad",
+      "reservation": null,
+      "name": "Sunil Tatkare",
+      "party": "NCP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 33,
+      "constituency": "Maval",
+      "reservation": null,
+      "name": "Shrirang Barne",
+      "party": "SHS",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 34,
+      "constituency": "Pune",
+      "reservation": null,
+      "name": "Murlidhar Mohol",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 35,
+      "constituency": "Baramati",
+      "reservation": null,
+      "name": "Supriya Sule",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 36,
+      "constituency": "Shirur",
+      "reservation": null,
+      "name": "Amol Kolhe",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 37,
+      "constituency": "Ahmednagar",
+      "reservation": null,
+      "name": "Nilesh Dnyandev Lanke",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 38,
+      "constituency": "Shirdi",
+      "reservation": "SC",
+      "name": "Bhausaheb Rajaram Wakchaure",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 39,
+      "constituency": "Beed",
+      "reservation": null,
+      "name": "Bajrang Manohar Sonwane",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 40,
+      "constituency": "Dharashiv",
+      "reservation": null,
+      "name": "Omprakash Rajenimbalkar",
+      "party": "SS(UBT)",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 41,
+      "constituency": "Latur",
+      "reservation": "SC",
+      "name": "Shivajirao Kalge",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 42,
+      "constituency": "Solapur",
+      "reservation": "SC",
+      "name": "Praniti Sushilkumar Shinde",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 43,
+      "constituency": "Madha",
+      "reservation": null,
+      "name": "Dhairyasheel Mohite Patil",
+      "party": "NCP-SP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 44,
+      "constituency": "Sangli",
+      "reservation": null,
+      "name": "Vishal Prakashbapu Patil",
+      "party": "Independent",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 45,
+      "constituency": "Satara",
+      "reservation": null,
+      "name": "Udayanraje Bhosale",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 46,
+      "constituency": "Ratnagiri–Sindhudurg",
+      "reservation": null,
+      "name": "Narayan Rane",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 47,
+      "constituency": "Kolhapur",
+      "reservation": null,
+      "name": "Shahu Chhatrapati Maharaj",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "no": 48,
+      "constituency": "Hatkanangle",
+      "reservation": null,
+      "name": "Dhairyasheel Sambhajirao Mane",
+      "party": "SHS",
+      "note": null,
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    }
+  ]
+}

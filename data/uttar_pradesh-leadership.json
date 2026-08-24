@@ -1,0 +1,102 @@
+{
+  "level": "state",
+  "state": "Uttar Pradesh",
+  "chief": {
+    "role": "Chief Minister of Uttar Pradesh",
+    "name": "Yogi Adityanath",
+    "note": "Bharatiya Janata Party; Gorakhpur Urban constituency; holds Home, Vigilance, Revenue, General Administration, Institutional Finance, Civil Aviation, Law & Legislative, and other unallocated portfolios",
+    "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+    "last_checked": "2026-08-23",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Keshav Prasad Maurya",
+      "portfolio": "Deputy CM; Rural Development, Rural Engineering Services, Food Processing",
+      "seat": "MLC (Legislative Council)",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Brajesh Pathak",
+      "portfolio": "Deputy CM; Medical Education, Medical & Health, Family Welfare",
+      "seat": "Lucknow Cantonment",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Suresh Kumar Khanna",
+      "portfolio": "Finance; Parliamentary Affairs",
+      "seat": "Shahjahanpur",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Surya Pratap Shahi",
+      "portfolio": "Agriculture; Agricultural Education & Research",
+      "seat": "Pathardeva",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Baby Rani Maurya",
+      "portfolio": "Women & Child Development",
+      "seat": "Agra Rural",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Chaudhary Laxmi Narayan Singh",
+      "portfolio": "Sugarcane Development & Sugar Mills",
+      "seat": "Chhata",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Jaiveer Singh",
+      "portfolio": "Tourism & Culture",
+      "seat": "Mainpuri",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Dharmpal Singh",
+      "portfolio": "Animal Husbandry & Dairy Development; Minority Welfare, Haj & Waqf",
+      "seat": "Aonla",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Nand Gopal Gupta 'Nandi'",
+      "portfolio": "Industrial Development, Export Promotion, NRI & Investment Promotion",
+      "seat": "Prayagraj South",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "high"
+    },
+    {
+      "name": "Rakesh Sachan",
+      "portfolio": "Cabinet Minister",
+      "seat": "Bhognipur",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    },
+    {
+      "name": "Anil Rajbhar",
+      "portfolio": "Cabinet Minister",
+      "seat": "Shivpur",
+      "source_url": "https://en.wikipedia.org/wiki/18th_Uttar_Pradesh_Assembly",
+      "last_checked": "2026-08-23",
+      "confidence": "medium"
+    }
+  ]
+}
