@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Constituency — The India Directory</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+  :root{
+    --paper:#EFEDE3;
+    --paper-raised:#F7F5EC;
+    --ink:#12192A;
+    --ink-soft:#4A5266;
+    --navy:#1C2B4A;
+    --navy-deep:#101827;
+    --gold:#A9852F;
+    --gold-soft:#C9A75C;
+    --rust:#8C3B22;
+    --green:#2F5D3A;
+    --line:#C9C4B2;
+    --line-soft:#DEDACB;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+
+  .masthead{
+    background:var(--navy-deep);
+    color:#EFEDE3;
+    padding:18px 24px;
+  }
+  .masthead-inner{
+    max-width:1100px;margin:0 auto;
+    display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;
+  }
+  .back-link{
+    font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.04em;
+    text-decoration:none;color:#C9A75C;border-bottom:1px solid rgba(201,167,92,.4);
+    padding-bottom:1px;
+  }
+  .back-link:hover{color:#EFEDE3;border-color:#EFEDE3;}
+  .masthead-title{
+    font-family:'Fraunces',serif;font-weight:600;font-size:18px;letter-spacing:.01em;
+  }
+
+  .wrap{max-width:1100px;margin:0 auto;padding:40px 24px 70px;}
+
+  .layout{
+    display:grid;
+    grid-template-columns:1.15fr 1fr;
+    gap:40px;
+    align-items:start;
+  }
+  @media (max-width:860px){
+    .layout{grid-template-columns:1fr;}
+  }
+
+  .map-panel{
+    background:var(--paper-raised);
+    border:1px solid var(--line);
+    padding:18px;
+  }
+  .map-panel svg{width:100%;height:auto;display:block;}
+  .map-caption{
+    font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--ink-soft);
+    text-align:center;margin-top:10px;letter-spacing:.03em;text-transform:uppercase;
+  }
+
+  .detail-eyebrow{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--rust);margin:0 0 8px;
+  }
+  .detail-title{
+    font-family:'Fraunces',serif;font-weight:600;font-size:clamp(28px,4vw,40px);
+    margin:0 0 6px;color:var(--navy-deep);line-height:1.05;
+  }
+  .detail-sub{
+    color:var(--ink-soft);font-size:14px;margin:0 0 28px;
+  }
+
+  .info-grid{
+    display:grid;grid-template-columns:1fr 1fr;gap:1px;
+    background:var(--line);border:1px solid var(--line);margin-bottom:24px;
+  }
+  .info-cell{
+    background:var(--paper-raised);padding:16px 18px;
+  }
+  .info-cell.full{grid-column:1 / -1;}
+  .info-label{
+    font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--ink-soft);margin-bottom:5px;
+  }
+  .info-value{
+    font-size:15px;color:var(--ink);font-weight:500;
+  }
+
+  .mla-card{
+    background:var(--navy-deep);color:#EFEDE3;
+    padding:22px 24px;margin-bottom:24px;position:relative;
+  }
+  .mla-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--gold);}
+  .mla-card .role{
+    font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--gold-soft);margin-bottom:4px;
+  }
+  .mla-card h2{
+    font-family:'Fraunces',serif;font-size:24px;font-weight:600;margin:0 0 6px;
+  }
+  .mla-card .party-line{font-size:13.5px;color:#B7BECF;}
+  .mla-card .note{
+    margin-top:10px;padding-top:10px;border-top:1px solid rgba(201,167,92,.25);
+    font-size:12.5px;color:#B7BECF;line-height:1.5;
+  }
+
+  .caveat{
+    border-left:3px solid var(--rust);background:var(--paper-raised);
+    padding:14px 18px;font-size:12.5px;color:var(--ink-soft);line-height:1.6;
+  }
+  .caveat a{color:var(--navy);border-bottom:1px solid var(--gold);text-decoration:none;}
+
+  .state-path{fill:#DEDACB;stroke:#F7F5EC;stroke-width:.6;}
+  .state-path.active{fill:var(--rust);stroke:var(--gold-soft);stroke-width:1.2;}
+  .pin{fill:var(--navy-deep);stroke:var(--gold-soft);stroke-width:1.5;}
+  .pin-pulse{fill:none;stroke:var(--rust);stroke-width:1.5;opacity:.6;}
+
+  .loading, .error-state{
+    font-family:'IBM Plex Mono',monospace;font-size:13px;color:var(--ink-soft);
+    padding:60px 24px;text-align:center;
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-title">The India Directory</div>
+    <a class="back-link" href="index.html">&larr; Back to full directory</a>
+  </div>
+</div>
+
+<div class="wrap" id="app">
+  <div class="loading" id="loading-msg">Loading constituency…</div>
+</div>
+
+<script>
+// ---------------- State name mapping (site slug -> GeoJSON ST_NM) ----------------
+const STATE_GEO_NAME = {
+  union: null, // no single state for the union tier
+  telangana: "Telangana",
+  andhra: "Andhra Pradesh",
+  andhra_pradesh: "Andhra Pradesh",
+  karnataka: "Karnataka",
+  uttar_pradesh: "Uttar Pradesh",
+  maharashtra: "Maharashtra",
+  bihar: "Bihar",
+  tamil_nadu: "Tamil Nadu",
+  madhya_pradesh: "Madhya Pradesh",
+};
+
+const STATE_LABEL = {
+  telangana: "Telangana", andhra: "Andhra Pradesh", andhra_pradesh: "Andhra Pradesh",
+  karnataka: "Karnataka", uttar_pradesh: "Uttar Pradesh", maharashtra: "Maharashtra",
+  bihar: "Bihar", tamil_nadu: "Tamil Nadu", madhya_pradesh: "Madhya Pradesh",
+};
+
+function qs(name){
+  return new URLSearchParams(window.location.search).get(name);
+}
+
+async function fetchJson(path){
+  const res = await fetch(`${path}?_=${Date.now()}`);
+  if(!res.ok) throw new Error(`Failed to load ${path}: ${res.status}`);
+  return res.json();
+}
+
+function renderMap(container, geojson, targetStateName){
+  const width = 640, height = 700;
+  const svg = d3.select(container).append("svg")
+    .attr("viewBox", `0 0 ${width} ${height}`)
+    .attr("preserveAspectRatio", "xMidYMid meet");
+
+  const projection = d3.geoMercator().fitSize([width, height], geojson);
+  const path = d3.geoPath().projection(projection);
+
+  const g = svg.append("g");
+
+  g.selectAll("path")
+    .data(geojson.features)
+    .enter()
+    .append("path")
+    .attr("d", path)
+    .attr("class", d => "state-path" + (d.properties.ST_NM === targetStateName ? " active" : ""));
+
+  // Find the (possibly multi-part) target state's features and mark a pin at
+  // the centroid of its largest part, so the pin lands inside the shape.
+  const parts = geojson.features.filter(f => f.properties.ST_NM === targetStateName);
+  if(parts.length){
+    let biggest = parts[0], biggestArea = -1;
+    parts.forEach(f => {
+      const a = Math.abs(path.area(f));
+      if(a > biggestArea){ biggestArea = a; biggest = f; }
+    });
+    const [cx, cy] = path.centroid(biggest);
+    const pinGroup = g.append("g").attr("transform", `translate(${cx},${cy})`);
+    pinGroup.append("circle").attr("class","pin-pulse").attr("r", 10);
+    pinGroup.append("circle").attr("class","pin").attr("r", 5);
+  }
+}
+
+async function boot(){
+  const type = qs("type") || "mla";       // 'mla' or 'mp'
+  const stateKey = qs("state");
+  const seatNo = qs("no");
+  const app = document.getElementById("app");
+
+  if(!stateKey || !seatNo){
+    app.innerHTML = `<div class="error-state">Missing constituency reference. Go back to the <a href="index.html">directory</a> and click a constituency link.</div>`;
+    return;
+  }
+
+  try {
+    const dataFile = type === "mp" ? `data/mps-${stateKey}.json` : `data/${stateKey}-mlas.json`;
+    const [geojson, stateData] = await Promise.all([
+      fetchJson("data/india-states.geojson"),
+      fetchJson(dataFile),
+    ]);
+
+    const item = stateData.items.find(x => String(x.no) === String(seatNo));
+    if(!item){
+      app.innerHTML = `<div class="error-state">Couldn't find that constituency. Go back to the <a href="index.html">directory</a>.</div>`;
+      return;
+    }
+
+    const stateLabel = STATE_LABEL[stateKey] || stateData.state || stateKey;
+    const geoName = STATE_GEO_NAME[stateKey] || stateData.state;
+    const roleTitle = type === "mp" ? "MP (Lok Sabha)" : "MLA";
+
+    app.innerHTML = `
+      <div class="layout">
+        <div>
+          <div class="map-panel" id="map-panel"></div>
+          <div class="map-caption">${stateLabel} highlighted · pin marks the state, not the precise constituency boundary</div>
+        </div>
+        <div>
+          <p class="detail-eyebrow">${stateLabel} · Constituency No. ${item.no}</p>
+          <h1 class="detail-title">${item.constituency}</h1>
+          <p class="detail-sub">${item.district ? item.district + " district · " : ""}${item.reservation ? "Reserved (" + item.reservation + ") · " : ""}${stateData.assembly || ""}</p>
+
+          <div class="mla-card">
+            <div class="role">Sitting ${roleTitle}</div>
+            <h2>${item.name}</h2>
+            <div class="party-line">${item.party || "Party not recorded"}</div>
+            ${item.note ? `<div class="note">${item.note}</div>` : ""}
+          </div>
+
+          <div class="info-grid">
+            <div class="info-cell">
+              <div class="info-label">State</div>
+              <div class="info-value">${stateLabel}</div>
+            </div>
+            <div class="info-cell">
+              <div class="info-label">Last checked</div>
+              <div class="info-value">${item.last_checked || "—"}</div>
+            </div>
+            <div class="info-cell full">
+              <div class="info-label">Confidence</div>
+              <div class="info-value" style="text-transform:capitalize;">${item.confidence || "—"}</div>
+            </div>
+          </div>
+
+          <div class="caveat">
+            Source: <a href="${item.source_url || stateData.source_url}" target="_blank" rel="noopener">${stateData.assembly || stateData.source_url}</a>. The map highlights ${stateLabel} as a whole and pins its approximate centroid — precise constituency-boundary shapes aren't part of this directory yet (that needs real GIS boundary data, a separate project from the name/party data here).
+          </div>
+        </div>
+      </div>
+    `;
+
+    renderMap(document.getElementById("map-panel"), geojson, geoName);
+
+  } catch(err){
+    console.error(err);
+    app.innerHTML = `<div class="error-state">Couldn't load this page's data. Make sure you're viewing this via a web server (not opening the file directly), then go back to the <a href="index.html">directory</a>.</div>`;
+  }
+}
+
+boot();
+</script>
+
+</body>
+</html>
