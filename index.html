@@ -649,9 +649,9 @@ function renderMps(allMpStates, filter=""){
   const body = document.getElementById(`mps-body`);
   const f = filter.trim().toLowerCase();
   const rows = [];
-  for (const stateData of allMpStates) {
-    for (const d of stateData.items) {
-      rows.push({state: stateData.state, ...d});
+  for (const {data, slug} of allMpStates) {
+    for (const d of data.items) {
+      rows.push({state: data.state, slug, ...d});
     }
   }
   const totalCollected = rows.length;
@@ -665,7 +665,7 @@ function renderMps(allMpStates, filter=""){
   body.innerHTML = filtered.map(d => `
     <tr>
       <td class="dhq">${d.state}</td>
-      <td class="dname">${d.constituency}${d.reservation ? ` <span class="collector-tag" style="color:var(--ink-soft);">(${d.reservation})</span>` : ""}</td>
+      <td class="dname"><a class="verify-link" href="constituency.html?type=mp&state=${d.slug}&no=${d.no}">${d.constituency}</a>${d.reservation ? ` <span class="collector-tag" style="color:var(--ink-soft);">(${d.reservation})</span>` : ""}</td>
       <td class="collector-known">${d.name}</td>
       <td class="dhq">${d.party || "—"}</td>
     </tr>`).join("");
@@ -678,7 +678,7 @@ function renderMlas(containerPrefix, stateData, filter=""){
   const rows = items.filter(d => d.constituency.toLowerCase().includes(f) || d.name.toLowerCase().includes(f) || (d.party||"").toLowerCase().includes(f));
   document.getElementById(`mla-count-${containerPrefix}`).textContent = `${rows.length} of ${items.length} constituencies`;
   body.innerHTML = rows.map((d)=>{
-    const cname = d.constituency + (d.reservation ? ` <span class="collector-tag" style="color:var(--ink-soft);">(${d.reservation})</span>` : "");
+    const cname = `<a class="verify-link" href="constituency.html?type=mla&state=${containerPrefix}&no=${d.no}">${d.constituency}</a>` + (d.reservation ? ` <span class="collector-tag" style="color:var(--ink-soft);">(${d.reservation})</span>` : "");
     return `
     <tr>
       <td class="dnum">${String(d.no).padStart(3,'0')}</td>
@@ -808,8 +808,8 @@ async function boot(){
     renderMlas("andhra", andhraMlas);
     renderMlas("karnataka", karnatakaMlas);
 
-    renderMps([mpsUP, mpsMH]);
-    document.getElementById("mp-search").addEventListener("input", (e)=> renderMps([mpsUP, mpsMH], e.target.value));
+    renderMps([{data: mpsUP, slug: "uttar_pradesh"}, {data: mpsMH, slug: "maharashtra"}]);
+    document.getElementById("mp-search").addEventListener("input", (e)=> renderMps([{data: mpsUP, slug: "uttar_pradesh"}, {data: mpsMH, slug: "maharashtra"}], e.target.value));
 
     renderChiefPhoto("pm-photo", union.chief.name, "https://www.pmindia.gov.in/wp-content/uploads/2025/12/02.jpg");
     renderChiefPhoto("cm-photo", telangana.chief.name, null);
