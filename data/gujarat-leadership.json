@@ -1,0 +1,78 @@
+{
+  "level": "state",
+  "state": "Gujarat",
+  "chief": {
+    "role": "Chief Minister of Gujarat",
+    "name": "Bhupendrabhai Patel",
+    "note": "Bharatiya Janata Party; Ghatlodia constituency; sworn in 13 September 2021, retained after the December 2022 election",
+    "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+    "last_checked": "2026-08-24",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Harsh Sanghavi",
+      "portfolio": "Deputy Chief Minister",
+      "seat": "Majura",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Rushikesh Patel",
+      "portfolio": "Cabinet Minister",
+      "seat": "Visnagar",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Balvantsinh Rajput",
+      "portfolio": "Cabinet Minister",
+      "seat": "Sidhpur",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Bhanuben Babariya",
+      "portfolio": "Cabinet Minister",
+      "seat": "Rajkot Rural",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Kunwarjibhai Bavaliya",
+      "portfolio": "Cabinet Minister",
+      "seat": "Jasdan",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Raghavji Patel",
+      "portfolio": "Cabinet Minister",
+      "seat": "Jamnagar Rural",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Kanubhai Desai",
+      "portfolio": "Cabinet Minister",
+      "seat": "Pardi",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Shankar Chaudhary",
+      "portfolio": "Speaker of the Assembly",
+      "seat": "Tharad",
+      "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    }
+  ]
+}

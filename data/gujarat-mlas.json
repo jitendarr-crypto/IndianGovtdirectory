@@ -1,0 +1,1829 @@
+{
+  "level": "mlas",
+  "state": "Gujarat",
+  "assembly": "15th Gujarat Legislative Assembly (2022–2027)",
+  "role_title": "MLA",
+  "source_url": "https://en.wikipedia.org/wiki/Gujarat_Legislative_Assembly",
+  "items": [
+    {
+      "no": 1,
+      "constituency": "Abdasa",
+      "reservation": null,
+      "name": "Pradhyumansinh Jadeja",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 2,
+      "constituency": "Mandvi (Kachchh)",
+      "reservation": null,
+      "name": "Aniruddha Dave",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 3,
+      "constituency": "Bhuj",
+      "reservation": null,
+      "name": "Keshubhai Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 4,
+      "constituency": "Anjar",
+      "reservation": null,
+      "name": "Trikam Chhanga",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 5,
+      "constituency": "Gandhidham",
+      "reservation": "SC",
+      "name": "Malti Maheshwari",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 6,
+      "constituency": "Rapar",
+      "reservation": null,
+      "name": "Virendrasinh Jadeja",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 7,
+      "constituency": "Vav",
+      "reservation": null,
+      "name": "Swarupji Thakor",
+      "party": "BJP",
+      "note": "Won bypoll 23 Nov 2024; prev. Geniben Thakor (INC) elected to 18th Lok Sabha",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 8,
+      "constituency": "Tharad",
+      "reservation": null,
+      "name": "Shankarbhai Chaudhary",
+      "party": "BJP",
+      "note": "Speaker of the Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 9,
+      "constituency": "Dhanera",
+      "reservation": null,
+      "name": "Mavjibhai Desai",
+      "party": "Independent",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 10,
+      "constituency": "Danta",
+      "reservation": "ST",
+      "name": "Kantibhai Kharadi",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 11,
+      "constituency": "Vadgam",
+      "reservation": "SC",
+      "name": "Jignesh Mevani",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 12,
+      "constituency": "Palanpur",
+      "reservation": null,
+      "name": "Aniket Thakar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 13,
+      "constituency": "Deesa",
+      "reservation": null,
+      "name": "Pravin Mali",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 14,
+      "constituency": "Deodar",
+      "reservation": null,
+      "name": "Keshaji Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 15,
+      "constituency": "Kankrej",
+      "reservation": null,
+      "name": "Amrutbhai Thakor",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 16,
+      "constituency": "Radhanpur",
+      "reservation": null,
+      "name": "Lavingji Thakor",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 17,
+      "constituency": "Chanasma",
+      "reservation": null,
+      "name": "Dinesh Thakor",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 18,
+      "constituency": "Patan",
+      "reservation": null,
+      "name": "Kiritkumar Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 19,
+      "constituency": "Sidhpur",
+      "reservation": null,
+      "name": "Balvantsinh Rajput",
+      "party": "BJP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 20,
+      "constituency": "Kheralu",
+      "reservation": null,
+      "name": "Sardarsinh Chaudhary",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 21,
+      "constituency": "Unjha",
+      "reservation": null,
+      "name": "K. K. Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 22,
+      "constituency": "Visnagar",
+      "reservation": null,
+      "name": "Rushikesh Patel",
+      "party": "BJP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 23,
+      "constituency": "Bechraji",
+      "reservation": null,
+      "name": "Sukhaji Thakor",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 24,
+      "constituency": "Kadi",
+      "reservation": "SC",
+      "name": "Rajendra Chavda",
+      "party": "BJP",
+      "note": "Won bypoll 23 Jun 2025; prev. Karshan Solanki (BJP) died 4 Feb 2025",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 25,
+      "constituency": "Mahesana",
+      "reservation": null,
+      "name": "Mukesh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 26,
+      "constituency": "Vijapur",
+      "reservation": null,
+      "name": "C. J. Chavda",
+      "party": "BJP",
+      "note": "Won bypoll 4 Jun 2024 on BJP ticket after defecting; prev. resigned as INC MLA 19 Jan 2024",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 27,
+      "constituency": "Himatnagar",
+      "reservation": null,
+      "name": "Vinendrasinh Zala",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 28,
+      "constituency": "Idar",
+      "reservation": "SC",
+      "name": "Ramanlal Vora",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 29,
+      "constituency": "Khedbrahma",
+      "reservation": "ST",
+      "name": "Tushar Chaudhary",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 30,
+      "constituency": "Bhiloda",
+      "reservation": "ST",
+      "name": "Punamchand Baranda",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 31,
+      "constituency": "Modasa",
+      "reservation": null,
+      "name": "Bhikhusinh Parmar",
+      "party": "BJP",
+      "note": "Minister of State",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 32,
+      "constituency": "Bayad",
+      "reservation": null,
+      "name": "Dhavalsinh Zala",
+      "party": "Independent",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 33,
+      "constituency": "Prantij",
+      "reservation": null,
+      "name": "Gajendrasinh Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 34,
+      "constituency": "Dahegam",
+      "reservation": null,
+      "name": "Balrajsinh Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 35,
+      "constituency": "Gandhinagar South",
+      "reservation": null,
+      "name": "Alpesh Thakor",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 36,
+      "constituency": "Gandhinagar North",
+      "reservation": null,
+      "name": "Ritaben Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 37,
+      "constituency": "Mansa",
+      "reservation": null,
+      "name": "Jayantibhai Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 38,
+      "constituency": "Kalol",
+      "reservation": null,
+      "name": "Laxmanji Thakor",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 39,
+      "constituency": "Viramgam",
+      "reservation": null,
+      "name": "Hardik Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 40,
+      "constituency": "Sanand",
+      "reservation": null,
+      "name": "Kanubhai Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 41,
+      "constituency": "Ghatlodia",
+      "reservation": null,
+      "name": "Bhupendrabhai Patel",
+      "party": "BJP",
+      "note": "Chief Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 42,
+      "constituency": "Vejalpur",
+      "reservation": null,
+      "name": "Amit Thaker",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 43,
+      "constituency": "Vatva",
+      "reservation": null,
+      "name": "Babusinh Jadav",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 44,
+      "constituency": "Ellisbridge",
+      "reservation": null,
+      "name": "Amit Shah",
+      "party": "BJP",
+      "note": "Also Union Home Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 45,
+      "constituency": "Naranpura",
+      "reservation": null,
+      "name": "Jitu Bhagat",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 46,
+      "constituency": "Nikol",
+      "reservation": null,
+      "name": "Jagdish Vishwakarma",
+      "party": "BJP",
+      "note": "Minister of State (Independent Charge)",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 47,
+      "constituency": "Naroda",
+      "reservation": null,
+      "name": "Payal Kukrani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 48,
+      "constituency": "Thakkarbapa Nagar",
+      "reservation": null,
+      "name": "Kanchanben Radadiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 49,
+      "constituency": "Bapunagar",
+      "reservation": null,
+      "name": "Dineshsinh Kushwaha",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 50,
+      "constituency": "Amraiwadi",
+      "reservation": null,
+      "name": "Hasmukh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 51,
+      "constituency": "Dariapur",
+      "reservation": null,
+      "name": "Kaushik Jain",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 52,
+      "constituency": "Jamalpur-Khadiya",
+      "reservation": null,
+      "name": "Imran Khedavala",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 53,
+      "constituency": "Maninagar",
+      "reservation": null,
+      "name": "Amul Bhatt",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 54,
+      "constituency": "Danilimda",
+      "reservation": "SC",
+      "name": "Shailesh Parmar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 55,
+      "constituency": "Sabarmati",
+      "reservation": null,
+      "name": "Harshad Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 56,
+      "constituency": "Asarwa",
+      "reservation": "SC",
+      "name": "Darshana Vaghela",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 57,
+      "constituency": "Daskroi",
+      "reservation": null,
+      "name": "Babubhai Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 58,
+      "constituency": "Dholka",
+      "reservation": null,
+      "name": "Kiritsinh Dabhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 59,
+      "constituency": "Dhandhuka",
+      "reservation": null,
+      "name": "Kalubhai Rupabhai Dabhi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 60,
+      "constituency": "Dasada",
+      "reservation": "SC",
+      "name": "P. K. Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 61,
+      "constituency": "Limdi",
+      "reservation": null,
+      "name": "Kiritsinh Rana",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 62,
+      "constituency": "Wadhwan",
+      "reservation": null,
+      "name": "Jagdish Makwana",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 63,
+      "constituency": "Chotila",
+      "reservation": null,
+      "name": "Shamji Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 64,
+      "constituency": "Dhangadhra",
+      "reservation": null,
+      "name": "Prakash Varmora",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 65,
+      "constituency": "Morbi",
+      "reservation": null,
+      "name": "Kantilal Amrutiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 66,
+      "constituency": "Tankara",
+      "reservation": null,
+      "name": "Durlabhji Dethariya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 67,
+      "constituency": "Wankaner",
+      "reservation": null,
+      "name": "Jitendra Somani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 68,
+      "constituency": "Rajkot East",
+      "reservation": null,
+      "name": "Uday Kangad",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 69,
+      "constituency": "Rajkot West",
+      "reservation": null,
+      "name": "Darshita Shah",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 70,
+      "constituency": "Rajkot South",
+      "reservation": null,
+      "name": "Ramesh Tilala",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 71,
+      "constituency": "Rajkot Rural",
+      "reservation": "SC",
+      "name": "Bhanuben Babariya",
+      "party": "BJP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 72,
+      "constituency": "Jasdan",
+      "reservation": null,
+      "name": "Kunwarjibhai Bavaliya",
+      "party": "BJP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 73,
+      "constituency": "Gondal",
+      "reservation": null,
+      "name": "Geetaba Jadeja",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 74,
+      "constituency": "Jetpur",
+      "reservation": null,
+      "name": "Jayesh Radadiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 75,
+      "constituency": "Dhoraji",
+      "reservation": null,
+      "name": "Mahendra Padalia",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 76,
+      "constituency": "Kalavad",
+      "reservation": "SC",
+      "name": "Meghji Chavda",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 77,
+      "constituency": "Jamnagar Rural",
+      "reservation": null,
+      "name": "Raghavji Patel",
+      "party": "BJP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 78,
+      "constituency": "Jamnagar North",
+      "reservation": null,
+      "name": "Rivaba Jadeja",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 79,
+      "constituency": "Jamnagar South",
+      "reservation": null,
+      "name": "Divyesh Akbari",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 80,
+      "constituency": "Jamjodhpur",
+      "reservation": null,
+      "name": "Hemant Khava",
+      "party": "AAP",
+      "note": "AAP Deputy Leader of Legislature Party",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 81,
+      "constituency": "Khambhaliya",
+      "reservation": null,
+      "name": "Mulu Ayar Bera",
+      "party": "BJP",
+      "note": "Minister of State",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 82,
+      "constituency": "Dwarka",
+      "reservation": null,
+      "name": "Pabubha Manek",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 83,
+      "constituency": "Porbandar",
+      "reservation": null,
+      "name": "Arjun Modhwadia",
+      "party": "BJP",
+      "note": "Won bypoll 4 Jun 2024 on BJP ticket after defecting; prev. resigned as INC MLA 4 Mar 2024",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 84,
+      "constituency": "Kutiyana",
+      "reservation": null,
+      "name": "Kandhal Jadeja",
+      "party": "SP",
+      "note": "SP Leader of Legislature Party",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 85,
+      "constituency": "Manavadar",
+      "reservation": null,
+      "name": "Arvindbhai Ladani",
+      "party": "BJP",
+      "note": "Won bypoll 4 Jun 2024 on BJP ticket after defecting; prev. resigned as INC MLA 6 Mar 2024",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 86,
+      "constituency": "Junagadh",
+      "reservation": null,
+      "name": "Sanjay Koradiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 87,
+      "constituency": "Visavadar",
+      "reservation": null,
+      "name": "Gopal Italia",
+      "party": "AAP",
+      "note": "Won bypoll 23 Jun 2025; prev. Bhupendra Bhayani (AAP) resigned 13 Dec 2023",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 88,
+      "constituency": "Keshod",
+      "reservation": null,
+      "name": "Devabhai Malam",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 89,
+      "constituency": "Mangrol",
+      "reservation": null,
+      "name": "Bhagvanjibhai Karagatiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 90,
+      "constituency": "Somnath",
+      "reservation": null,
+      "name": "Vimal Chudasama",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 91,
+      "constituency": "Talala",
+      "reservation": null,
+      "name": "Bhagabhai Barad",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 92,
+      "constituency": "Kodinar",
+      "reservation": "SC",
+      "name": "Pradyuman Vaja",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 93,
+      "constituency": "Una",
+      "reservation": null,
+      "name": "Kalubhai Rathod",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 94,
+      "constituency": "Dhari",
+      "reservation": null,
+      "name": "Jaysukhbhai Kakadiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 95,
+      "constituency": "Amreli",
+      "reservation": null,
+      "name": "Kaushik Vekariya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 96,
+      "constituency": "Lathi",
+      "reservation": null,
+      "name": "Janak Talaviya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 97,
+      "constituency": "Savarkundla",
+      "reservation": null,
+      "name": "Mahesh Kaswala",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 98,
+      "constituency": "Rajula",
+      "reservation": null,
+      "name": "Hirabhai Solanki",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 99,
+      "constituency": "Mahuva",
+      "reservation": null,
+      "name": "Shivabhai Gohil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 100,
+      "constituency": "Talaja",
+      "reservation": null,
+      "name": "Gautambhai Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 101,
+      "constituency": "Gariadhar",
+      "reservation": null,
+      "name": "Sudhir Vaghani",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 102,
+      "constituency": "Palitana",
+      "reservation": null,
+      "name": "Bhikhabhai Baraiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 103,
+      "constituency": "Bhavnagar Rural",
+      "reservation": null,
+      "name": "Parshottambhai Solanki",
+      "party": "BJP",
+      "note": "Minister of State",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 104,
+      "constituency": "Bhavnagar East",
+      "reservation": null,
+      "name": "Sejalben Pandya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 105,
+      "constituency": "Bhavnagar West",
+      "reservation": null,
+      "name": "Jitendra Vaghani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 106,
+      "constituency": "Gadhada",
+      "reservation": "SC",
+      "name": "Mahant Shambhunath Tundiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 107,
+      "constituency": "Botad",
+      "reservation": null,
+      "name": "Umeshbhai Makwana",
+      "party": "Independent",
+      "note": "Suspended from AAP",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 108,
+      "constituency": "Khambhat",
+      "reservation": null,
+      "name": "Chirag Patel",
+      "party": "BJP",
+      "note": "Won bypoll 4 Jun 2024 on BJP ticket after defecting; prev. resigned as INC MLA 19 Dec 2023",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 109,
+      "constituency": "Borsad",
+      "reservation": null,
+      "name": "Ramanbhai Solanki",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 110,
+      "constituency": "Anklav",
+      "reservation": null,
+      "name": "Amit Chavda",
+      "party": "INC",
+      "note": "INC Legislature Party Leader",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 111,
+      "constituency": "Umreth",
+      "reservation": null,
+      "name": "Govindbhai Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 112,
+      "constituency": "Anand",
+      "reservation": null,
+      "name": "Yogesh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 113,
+      "constituency": "Petlad",
+      "reservation": null,
+      "name": "Kamlesh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 114,
+      "constituency": "Sojitra",
+      "reservation": null,
+      "name": "Vipul Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 115,
+      "constituency": "Matar",
+      "reservation": null,
+      "name": "Kalpesh Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 116,
+      "constituency": "Nadiad",
+      "reservation": null,
+      "name": "Pankajbhai Desai",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 117,
+      "constituency": "Mehmedabad",
+      "reservation": null,
+      "name": "Arjunsinh Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 118,
+      "constituency": "Mahudha",
+      "reservation": null,
+      "name": "Sanjaysinh Mahida",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 119,
+      "constituency": "Thasra",
+      "reservation": null,
+      "name": "Yogendrasinh Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 120,
+      "constituency": "Kapadvanj",
+      "reservation": null,
+      "name": "Rajeshkumar Zala",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 121,
+      "constituency": "Balasinor",
+      "reservation": null,
+      "name": "Mansinh Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 122,
+      "constituency": "Lunawada",
+      "reservation": null,
+      "name": "Gulabsinh Chauhan",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 123,
+      "constituency": "Santrampur",
+      "reservation": "ST",
+      "name": "Kuber Dindor",
+      "party": "BJP",
+      "note": "Minister of State",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 124,
+      "constituency": "Shehra",
+      "reservation": null,
+      "name": "Jethabhai Ahir",
+      "party": "BJP",
+      "note": "Deputy Speaker of the Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 125,
+      "constituency": "Morva Hadaf",
+      "reservation": "ST",
+      "name": "Nimishaben Suthar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 126,
+      "constituency": "Godhra",
+      "reservation": null,
+      "name": "C. K. Raulji",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 127,
+      "constituency": "Kalol (Panchmahal)",
+      "reservation": null,
+      "name": "Fatehsinh Chauhan",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 128,
+      "constituency": "Halol",
+      "reservation": null,
+      "name": "Jaydrathsinh Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 129,
+      "constituency": "Fatepura",
+      "reservation": "ST",
+      "name": "Ramesh Katara",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 130,
+      "constituency": "Jhalod",
+      "reservation": "ST",
+      "name": "Mahesh Bhuriya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 131,
+      "constituency": "Limkheda",
+      "reservation": "ST",
+      "name": "Shailesh Bhabhor",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 132,
+      "constituency": "Dahod",
+      "reservation": "ST",
+      "name": "Kanaiyalal Kishori",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 133,
+      "constituency": "Garbada",
+      "reservation": "ST",
+      "name": "Mahendra Bhabhor",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 134,
+      "constituency": "Devgadhbariya",
+      "reservation": null,
+      "name": "Bachubhai Khabad",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 135,
+      "constituency": "Savli",
+      "reservation": null,
+      "name": "Ketan Inamdar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 136,
+      "constituency": "Vaghodiya",
+      "reservation": null,
+      "name": "Dharmendrasinh Vaghela",
+      "party": "BJP",
+      "note": "Won bypoll 4 Jun 2024 on BJP ticket after defecting; prev. resigned as Independent MLA 24 Jan 2024",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 137,
+      "constituency": "Chhota Udaipur",
+      "reservation": "ST",
+      "name": "Rajendrasinh Rathva",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 138,
+      "constituency": "Jetpur, Chhota Udaipur",
+      "reservation": "ST",
+      "name": "Jayantibhai Rathva",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 139,
+      "constituency": "Sankheda",
+      "reservation": "ST",
+      "name": "Abhesinh Tadvi",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 140,
+      "constituency": "Dabhoi",
+      "reservation": null,
+      "name": "Shailesh Sotta",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 141,
+      "constituency": "Vadodara City",
+      "reservation": "SC",
+      "name": "Manisha Vakil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 142,
+      "constituency": "Sayajigunj",
+      "reservation": null,
+      "name": "Keyur Rokadia",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 143,
+      "constituency": "Akota",
+      "reservation": null,
+      "name": "Chaitanya Desai",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 144,
+      "constituency": "Raopura",
+      "reservation": null,
+      "name": "Balkrushna Shukla",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 145,
+      "constituency": "Manjalpur",
+      "reservation": null,
+      "name": "Yogesh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 146,
+      "constituency": "Padra",
+      "reservation": null,
+      "name": "Chaitanyasinh Zala",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 147,
+      "constituency": "Karjan",
+      "reservation": null,
+      "name": "Akshay Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 148,
+      "constituency": "Nandod",
+      "reservation": "ST",
+      "name": "Darshana Vasava",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 149,
+      "constituency": "Dediapada",
+      "reservation": "ST",
+      "name": "Chaitar Vasava",
+      "party": "AAP",
+      "note": "AAP Leader of Legislature Party",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 150,
+      "constituency": "Jambusar",
+      "reservation": null,
+      "name": "Devkishordas Swami",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 151,
+      "constituency": "Vagra",
+      "reservation": null,
+      "name": "Arunsinh Rana",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 152,
+      "constituency": "Jhagadiya",
+      "reservation": "ST",
+      "name": "Ritesh Vasava",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 153,
+      "constituency": "Bharuch",
+      "reservation": null,
+      "name": "Ramesh Mistry",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 154,
+      "constituency": "Ankleshwar",
+      "reservation": null,
+      "name": "Ishwarsinh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 155,
+      "constituency": "Olpad",
+      "reservation": null,
+      "name": "Mukesh Patel",
+      "party": "BJP",
+      "note": "Minister of State",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 156,
+      "constituency": "Mangrol (Surat)",
+      "reservation": "ST",
+      "name": "Ganpat Vasava",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 157,
+      "constituency": "Mandvi (Surat)",
+      "reservation": "ST",
+      "name": "Kunvarji Halpati",
+      "party": "BJP",
+      "note": "Minister of State",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 158,
+      "constituency": "Kamrej",
+      "reservation": null,
+      "name": "Prafulbhai Pansheriya",
+      "party": "BJP",
+      "note": "Minister of State",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 159,
+      "constituency": "Surat East",
+      "reservation": null,
+      "name": "Arvind Rana",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 160,
+      "constituency": "Surat North",
+      "reservation": null,
+      "name": "Kanti Balar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 161,
+      "constituency": "Varachha Road",
+      "reservation": null,
+      "name": "Kishor Kanani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 162,
+      "constituency": "Karanj",
+      "reservation": null,
+      "name": "Pravin Ghoghari",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 163,
+      "constituency": "Limbayat",
+      "reservation": null,
+      "name": "Sangita Patil",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 164,
+      "constituency": "Udhana",
+      "reservation": null,
+      "name": "Manu Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 165,
+      "constituency": "Majura",
+      "reservation": null,
+      "name": "Harsh Sanghavi",
+      "party": "BJP",
+      "note": "Deputy Chief Minister; Minister of State (Independent Charge)",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 166,
+      "constituency": "Katargam",
+      "reservation": null,
+      "name": "Vinod Moradiya",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 167,
+      "constituency": "Surat West",
+      "reservation": null,
+      "name": "Purnesh Modi",
+      "party": "BJP",
+      "note": "Deputy Speaker of the Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 168,
+      "constituency": "Choryasi",
+      "reservation": null,
+      "name": "Sandip Desai",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 169,
+      "constituency": "Bardoli",
+      "reservation": "SC",
+      "name": "Ishwarbhai Parmar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 170,
+      "constituency": "Mahuva (Surat)",
+      "reservation": "ST",
+      "name": "Mohanbhai Dhodia",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 171,
+      "constituency": "Vyara",
+      "reservation": "ST",
+      "name": "Mohan Kokani",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 172,
+      "constituency": "Nizar",
+      "reservation": "ST",
+      "name": "Jayram Gamit",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 173,
+      "constituency": "Dangs",
+      "reservation": "ST",
+      "name": "Vijaybhai Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 174,
+      "constituency": "Jalalpore",
+      "reservation": null,
+      "name": "R. C. Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 175,
+      "constituency": "Navsari",
+      "reservation": null,
+      "name": "Rakesh Desai",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 176,
+      "constituency": "Gandevi",
+      "reservation": "ST",
+      "name": "Naresh Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 177,
+      "constituency": "Vansda",
+      "reservation": "ST",
+      "name": "Anant Patel",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 178,
+      "constituency": "Dharampur",
+      "reservation": "ST",
+      "name": "Arvind Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 179,
+      "constituency": "Valsad",
+      "reservation": null,
+      "name": "Bharat Patel",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 180,
+      "constituency": "Pardi",
+      "reservation": null,
+      "name": "Kanubhai Desai",
+      "party": "BJP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 181,
+      "constituency": "Kaprada",
+      "reservation": "ST",
+      "name": "Jitubhai Chaudhary",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "no": 182,
+      "constituency": "Umbergaon",
+      "reservation": "ST",
+      "name": "Ramanlal Patkar",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    }
+  ]
+}

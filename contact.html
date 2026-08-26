@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact — The India Directory</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EFEDE3;
+    --paper-raised:#F7F5EC;
+    --ink:#12192A;
+    --ink-soft:#4A5266;
+    --navy-deep:#101827;
+    --gold:#A9852F;
+    --gold-soft:#C9A75C;
+    --rust:#8C3B22;
+    --line:#C9C4B2;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+
+  .masthead{
+    background:var(--navy-deep);
+    color:#EFEDE3;
+    padding:18px 24px;
+  }
+  .masthead-inner{
+    max-width:640px;margin:0 auto;
+    display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;
+  }
+  .back-link{
+    font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.04em;
+    text-decoration:none;color:#C9A75C;border-bottom:1px solid rgba(201,167,92,.4);
+    padding-bottom:1px;
+  }
+  .back-link:hover{color:#EFEDE3;border-color:#EFEDE3;}
+  .masthead-title{
+    font-family:'Fraunces',serif;font-weight:600;font-size:18px;letter-spacing:.01em;
+  }
+
+  .wrap{max-width:640px;margin:0 auto;padding:48px 24px 80px;}
+
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--rust);margin:0 0 8px;
+  }
+  h1{
+    font-family:'Fraunces',serif;font-weight:600;font-size:clamp(28px,5vw,40px);
+    margin:0 0 12px;color:var(--navy-deep);line-height:1.05;
+  }
+  .intro{
+    color:var(--ink-soft);font-size:14.5px;line-height:1.6;margin:0 0 32px;max-width:52ch;
+  }
+
+  form{
+    background:var(--paper-raised);border:1px solid var(--line);padding:28px;
+  }
+  label{
+    display:block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em;
+    text-transform:uppercase;color:var(--ink-soft);margin-bottom:6px;
+  }
+  .field{margin-bottom:20px;}
+  input, textarea, select{
+    width:100%;
+    font-family:'IBM Plex Sans',sans-serif;font-size:14.5px;color:var(--ink);
+    background:var(--paper);border:1px solid var(--line);padding:11px 13px;
+    border-radius:1px;
+  }
+  input:focus, textarea:focus, select:focus{
+    outline:none;border-color:var(--gold);
+  }
+  textarea{resize:vertical;min-height:120px;font-family:'IBM Plex Sans',sans-serif;}
+
+  button{
+    font-family:'IBM Plex Mono',monospace;font-size:12.5px;letter-spacing:.05em;text-transform:uppercase;
+    background:var(--navy-deep);color:#EFEDE3;border:none;
+    padding:13px 26px;cursor:pointer;transition:background .15s ease;
+  }
+  button:hover{background:#1C2B4A;}
+  button:disabled{opacity:.6;cursor:default;}
+
+  .status{
+    margin-top:18px;padding:14px 16px;font-size:13px;line-height:1.5;display:none;
+  }
+  .status.success{display:block;background:#EAF3EC;border-left:3px solid #2F5D3A;color:#1F4029;}
+  .status.error{display:block;background:#F6E9E4;border-left:3px solid var(--rust);color:var(--rust);}
+
+  .note{
+    margin-top:28px;font-size:12px;color:var(--ink-soft);line-height:1.6;
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-title">The India Directory</div>
+    <a class="back-link" href="index.html">&larr; Back to directory</a>
+  </div>
+</div>
+
+<div class="wrap">
+  <p class="eyebrow">Get in touch</p>
+  <h1>Contact us</h1>
+  <p class="intro">Spotted a wrong name, an out-of-date portfolio, or a district we should add next? Let us know below — messages go straight to the person maintaining this site.</p>
+
+  <form id="contact-form" action="https://formspree.io/f/mjybnkly" method="POST">
+    <div class="field">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required>
+    </div>
+    <div class="field">
+      <label for="email">Your email</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+    <div class="field">
+      <label for="topic">What's this about</label>
+      <select id="topic" name="topic">
+        <option>Correction to existing data</option>
+        <option>Suggest a state to add next</option>
+        <option>Something's broken on the site</option>
+        <option>General question</option>
+        <option>Other</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="message">Message</label>
+      <textarea id="message" name="message" required placeholder="e.g. 'Constituency X in State Y now has a different MLA — source: ...'"></textarea>
+    </div>
+    <input type="hidden" name="_subject" value="India Directory — contact form">
+    <button type="submit" id="submit-btn">Send message</button>
+    <div class="status success" id="status-success">Thanks — your message has been sent.</div>
+    <div class="status error" id="status-error">Something went wrong sending that. You can also email directly at <strong>jitendar.reddy@gmail.com</strong>.</div>
+  </form>
+
+  <p class="note">
+    Messages sent through this form go directly to the site maintainer. You can also reach out directly at jitendar.reddy@gmail.com.
+  </p>
+</div>
+
+<script>
+const form = document.getElementById('contact-form');
+const btn = document.getElementById('submit-btn');
+const successEl = document.getElementById('status-success');
+const errorEl = document.getElementById('status-error');
+
+form.addEventListener('submit', async function(e){
+  e.preventDefault();
+  successEl.style.display = 'none';
+  errorEl.style.display = 'none';
+  btn.disabled = true;
+  btn.textContent = 'Sending…';
+
+  try {
+    const res = await fetch(form.action, {
+      method: 'POST',
+      body: new FormData(form),
+      headers: { 'Accept': 'application/json' }
+    });
+    if (res.ok) {
+      successEl.style.display = 'block';
+      form.reset();
+    } else {
+      errorEl.style.display = 'block';
+    }
+  } catch (err) {
+    errorEl.style.display = 'block';
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Send message';
+  }
+});
+</script>
+
+</body>
+</html>

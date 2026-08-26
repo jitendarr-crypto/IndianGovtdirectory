@@ -1,0 +1,46 @@
+{
+  "level": "state",
+  "state": "Odisha",
+  "chief": {
+    "role": "Chief Minister of Odisha",
+    "name": "Mohan Charan Majhi",
+    "note": "Bharatiya Janata Party; Keonjhar constituency; sworn in 12 June 2024, ending Naveen Patnaik's 24-year tenure and becoming Odisha's first BJP Chief Minister; also holds Home, General Administration & Public Grievance, Finance, Information & Public Relations, Water Resources, and Planning & Coordination",
+    "source_url": "https://en.wikipedia.org/wiki/17th_Odisha_Legislative_Assembly",
+    "last_checked": "2026-08-24",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Kanak Vardhan Singh Deo",
+      "portfolio": "Deputy Chief Minister",
+      "seat": "Patnagarh",
+      "source_url": "https://www.myneta.info/Odisha2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Pravati Parida",
+      "portfolio": "Deputy Chief Minister; Women & Child Development, Mission Shakti, Tourism",
+      "seat": "Nimapara",
+      "source_url": "https://www.myneta.info/Odisha2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Surama Padhy",
+      "portfolio": "Speaker of the Assembly",
+      "seat": "Ranpur",
+      "source_url": "https://www.myneta.info/Odisha2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Bhabani Shankar Bhoi",
+      "portfolio": "Deputy Speaker of the Assembly",
+      "seat": "Talsara",
+      "source_url": "https://www.myneta.info/Odisha2024/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    }
+  ]
+}

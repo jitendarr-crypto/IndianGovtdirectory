@@ -1,0 +1,102 @@
+{
+  "level": "state",
+  "state": "Kerala",
+  "chief": {
+    "role": "Chief Minister of Kerala",
+    "name": "V. D. Satheesan",
+    "note": "Indian National Congress; Paravur constituency; UDF ended LDF's 10-year rule winning 102 of 140 seats in the 2026 election (declared 4 May 2026); Satheesan was confirmed as CM on 18 May 2026 after an internal Congress leadership contest. Pinarayi Vijayan (CPI(M)), the outgoing CM, is now Leader of the Opposition.",
+    "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+    "last_checked": "2026-08-24",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Ramesh Chennithala",
+      "portfolio": "Home, Vigilance & Coir",
+      "seat": "Haripad",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "K. Muraleedharan",
+      "portfolio": "Health & Devaswoms",
+      "seat": "Vattiyoorkavu",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Roji M. John",
+      "portfolio": "Higher Education",
+      "seat": "Angamaly",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "P. K. Kunhalikutty",
+      "portfolio": "Industries & Information Technology",
+      "seat": "Malappuram",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "K. M. Shaji",
+      "portfolio": "Local Self Governments",
+      "seat": "Vengara",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "P. K. Basheer",
+      "portfolio": "Public Works Department",
+      "seat": "Eranad",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "A. P. Anilkumar",
+      "portfolio": "Revenue",
+      "seat": "Wandoor",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "T. Siddique",
+      "portfolio": "Agriculture",
+      "seat": "Kalpetta",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "C. P. John",
+      "portfolio": "Transport",
+      "seat": "Thiruvananthapuram",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "V. E. Abdul Gafoor",
+      "portfolio": "Fisheries, Social Justice & Harbour Engineering",
+      "seat": "Kalamassery",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Apu John Joseph",
+      "portfolio": "Government Chief Whip",
+      "seat": "Thodupuzha",
+      "source_url": "https://www.keralaballot.in/elections/kerala-2026",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    }
+  ]
+}

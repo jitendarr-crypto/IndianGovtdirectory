@@ -41,6 +41,10 @@ LEADERSHIP_FILES = [
     "bihar-leadership.json",
     "tamil_nadu-leadership.json",
     "madhya_pradesh-leadership.json",
+    "kerala-leadership.json",
+    "rajasthan-leadership.json",
+    "gujarat-leadership.json",
+    "odisha-leadership.json",
 ]
 MLA_FILES = [
     "telangana-mlas.json",
@@ -51,6 +55,10 @@ MLA_FILES = [
     "bihar-mlas.json",
     "tamil_nadu-mlas.json",
     "madhya_pradesh-mlas.json",
+    "kerala-mlas.json",
+    "rajasthan-mlas.json",
+    "gujarat-mlas.json",
+    "odisha-mlas.json",
 ]
 MP_FILES = [
     "mps-uttar_pradesh.json",

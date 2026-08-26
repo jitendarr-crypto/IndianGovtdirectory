@@ -1,0 +1,102 @@
+{
+  "level": "state",
+  "state": "Rajasthan",
+  "chief": {
+    "role": "Chief Minister of Rajasthan",
+    "name": "Bhajan Lal Sharma",
+    "note": "Bharatiya Janata Party; Sanganer constituency; sworn in 15 December 2023",
+    "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+    "last_checked": "2026-08-24",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Diya Kumari",
+      "portfolio": "Deputy Chief Minister; Finance, Tourism, Public Works, Women & Child Development",
+      "seat": "Vidhyadhar Nagar",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Prem Chand Bairwa",
+      "portfolio": "Deputy Chief Minister",
+      "seat": "Dudu",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "high"
+    },
+    {
+      "name": "Rajyavardhan Singh Rathore",
+      "portfolio": "Cabinet Minister",
+      "seat": "Jhotwara",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Kirodi Lal Meena",
+      "portfolio": "Cabinet Minister",
+      "seat": "Sawai Madhopur",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Madan Dilawar",
+      "portfolio": "Cabinet Minister",
+      "seat": "Ramganj Mandi",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Avinash Gehlot",
+      "portfolio": "Cabinet Minister",
+      "seat": "Jaitaran",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Suresh Singh Rawat",
+      "portfolio": "Cabinet Minister",
+      "seat": "Pushkar",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Joraram Kumawat",
+      "portfolio": "Cabinet Minister",
+      "seat": "Sumerpur",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Gajendra Singh Khimsar",
+      "portfolio": "Cabinet Minister",
+      "seat": "Lohawat",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Jogaram Patel",
+      "portfolio": "Cabinet Minister",
+      "seat": "Luni",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    },
+    {
+      "name": "Sumit Godara",
+      "portfolio": "Cabinet Minister",
+      "seat": "Lunkaransar",
+      "source_url": "https://en.wikipedia.org/wiki/Rajasthan_Legislative_Assembly",
+      "last_checked": "2026-08-24",
+      "confidence": "medium"
+    }
+  ]
+}

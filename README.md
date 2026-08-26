@@ -109,8 +109,12 @@ no reliable bulk pull here — each state needs individual verification.
 | Bihar | 243 | findeasy.in, cross-checked against MyNeta/ADR + 1 live 2026 by-election |
 | Tamil Nadu | 234 | findeasy.in + tnmla.in, cross-checked against Wikipedia's by-election tracker |
 | Madhya Pradesh | 230 | 16th Madhya Pradesh Assembly (Wikipedia), with 2 confirmed by-elections |
+| Kerala | 140 | keralaballot.in (sourced from results.eci.gov.in) — every seat cross-validated against the official party tally (12 parties, exact match) |
+| Rajasthan | 200 | Rajasthan Legislative Assembly (Wikipedia), with 9 confirmed by-elections |
+| Gujarat | 182 | Gujarat Legislative Assembly (Wikipedia), with 8 confirmed by-elections |
+| Odisha | 147 | myneta.info + 16 individually-confirmed Wikipedia constituency pages |
 
-**1,916 MLAs total, 11 vacant seats tracked** (Karnataka's Hiriyur, 3 in
+**2,585 MLAs total, 11 vacant seats tracked** (Karnataka's Hiriyur, 3 in
 UP, 7 in Tamil Nadu — all following confirmed deaths or resignations,
 never guessed).
 
@@ -118,10 +122,65 @@ Tamil Nadu was the biggest political story of the batch: actor-turned
 politician C. Joseph Vijay's brand-new party TVK won 108 of 234 seats in
 its first-ever election (May 2026), ending 59 years of DMK/AIADMK
 dominance and forming a coalition government — the state's first hung
-assembly. Madhya Pradesh, by contrast, was a clean and stable case (last
-election Nov 2023) — a good contrast after three states in a row that
-each had breaking-news complications. West Bengal (294 seats) remains
-skipped — see the note above.
+assembly. Kerala had its own scare: an early search result claimed the
+incumbent LDF won a third term, which was simply wrong — three
+independent sources confirmed UDF actually won 102/140 seats, ending
+LDF's 10-year run. Kerala's Wikipedia assembly table also uses merged/
+rowspan cells for party, which would have silently misattributed several
+seats via naive forward-fill; switching to an ECI-sourced dashboard with
+an explicit party per row (and a state-wide tally that matched exactly)
+avoided that. Madhya Pradesh, by contrast, was clean and stable (last
+election Nov 2023) — no fresh-election chaos to untangle. Rajasthan was
+similarly stable (last election Nov 2023) — 9 by-elections tracked,
+including one seat (Anta) vacated by a disqualification rather than a
+death or resignation, and one where I caught a wrong assumption before
+it shipped: Dausa's 2024 by-election was won by Congress, not BJP, even
+though 5 of the other 6 seats in that same round went to BJP — worth
+checking each one rather than assuming a sweep was total. Gujarat added a
+distinctive pattern: 5 of its 2024 by-elections were "resign and
+rejoin BJP" cases — the same MLA who quit Congress (or, in one case,
+independent status) to defect was then re-elected on a BJP ticket in
+the resulting by-election for their own seat, confirmed against multiple
+news sources rather than assumed from the pattern. Odisha ended a
+historic 24-year Biju Janata Dal (BJD) run — Mohan Charan Majhi is the
+state's first BJP Chief Minister — and hit the same MyNeta gap pattern
+as Maharashtra/Bihar (16 of 147 seats missing), each confirmed
+individually against a dedicated Wikipedia constituency page rather
+than left blank or guessed; one of those 16 (Nuapada) also needed a
+2025 by-election update after the sitting MLA died in office. West
+Bengal (294 seats) remains skipped — see the note above.
+
+## Constituency detail pages
+
+Every constituency name in the MLA/MP tables links to `constituency.html`,
+which shows a map of India with that constituency's state highlighted (plus
+a pin at the state's centroid) and a detail card with the sitting
+representative, party, and source.
+
+**What this is, and isn't:** the map highlights the *state*, not the exact
+constituency boundary — real constituency-level GIS boundary data (precise
+polygon shapes for 2,000+ seats) isn't something reliably sourceable the
+way the name/party data is, so this was scoped down deliberately rather
+than faked. The map data itself is a real, modern state-boundary GeoJSON
+(`data/india-states.geojson`, ~1.7MB, includes Telangana/Ladakh-era
+boundaries) rendered client-side with D3 — nothing is pre-rendered or
+hardcoded per state.
+
+Links use `constituency.html?type=mla&state=<slug>&no=<seat_no>` (or
+`type=mp` for the Lok Sabha table). Historical MLA data ("last 5 MLAs")
+was scoped out for now — flagged as a separate future research project,
+similar in size to the current-MLA rollout itself, since constituency
+boundaries also changed in the 2008 delimitation.
+
+## Contact page
+
+`contact.html` is a form (name, email, topic, message) that emails
+submissions to the site maintainer via Formspree. It was set up through
+Formspree's agent-integration flow (`formspree.io/ai`) — a claim link was
+generated, the site owner claimed it in their browser, and the resulting
+endpoint (`https://formspree.io/f/mjybnkly`) was wired into the form's
+`action`. No credentials were ever shared to set this up. Linked from the
+main directory's footer.
 
 ## One-time setup
 
