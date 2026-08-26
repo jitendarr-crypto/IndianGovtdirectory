@@ -96,9 +96,10 @@
   }
   .tier-nav{
     max-width:1180px;margin:0 auto;
-    display:flex;gap:2px;
-    padding-top:0;
+    display:flex;gap:2px;align-items:center;justify-content:space-between;
+    padding-top:0;flex-wrap:wrap;
   }
+  .tier-nav-left{display:flex;gap:2px;align-items:center;}
   .tier-btn{
     font-family:'IBM Plex Mono',monospace;
     font-size:12px;letter-spacing:.06em;text-transform:uppercase;
@@ -111,6 +112,30 @@
   }
   .tier-btn:hover{color:#EFEDE3;}
   .tier-btn.active{color:#EFEDE3;border-bottom-color:var(--gold);}
+
+  .state-select-wrap{
+    position:relative;padding:9px 0 9px;
+  }
+  .state-select-wrap::after{
+    content:"▾";
+    position:absolute;right:12px;top:50%;transform:translateY(-50%);
+    color:var(--gold-soft);font-size:10px;pointer-events:none;
+  }
+  #state-select{
+    appearance:none;-webkit-appearance:none;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;letter-spacing:.05em;text-transform:uppercase;
+    background:rgba(201,167,92,.08);
+    border:1px solid rgba(201,167,92,.35);
+    color:#EFEDE3;
+    padding:9px 32px 9px 14px;
+    cursor:pointer;
+    border-radius:1px;
+    min-width:180px;
+  }
+  #state-select:hover{border-color:var(--gold-soft);}
+  #state-select:focus{outline:none;border-color:var(--gold);}
+  #state-select option{background:var(--navy-deep);color:#EFEDE3;}
 
   /* ---------- LAYOUT ---------- */
   .wrap{max-width:1180px;margin:0 auto;padding:0 24px;}
@@ -342,10 +367,17 @@
   </div>
   <hr class="masthead-rule">
   <nav class="tier-nav">
-    <button class="tier-btn active" data-tier="union">Union Government</button>
-    <button class="tier-btn" data-tier="telangana">Telangana</button>
-    <button class="tier-btn" data-tier="andhra">Andhra Pradesh</button>
-    <button class="tier-btn" data-tier="karnataka">Karnataka</button>
+    <div class="tier-nav-left">
+      <button class="tier-btn active" data-tier="union">Union Government</button>
+      <button class="tier-btn" data-tier="telangana">Telangana</button>
+      <button class="tier-btn" data-tier="andhra">Andhra Pradesh</button>
+      <button class="tier-btn" data-tier="karnataka">Karnataka</button>
+    </div>
+    <div class="state-select-wrap">
+      <select id="state-select">
+        <option value="" disabled selected>More states…</option>
+      </select>
+    </div>
   </nav>
 </div>
 
@@ -583,16 +615,9 @@
   <div class="extend">
     <div>
       <h3>Built to grow, state by state</h3>
-      <p id="extend-copy">This directory covers the Union Government, Telangana, Andhra Pradesh, Karnataka, and Uttar Pradesh so far. The same structure — Chief Minister, key ministers, every sitting MLA — extends cleanly to every other state and union territory.</p>
+      <p id="extend-copy">Loading…</p>
     </div>
-    <div class="state-pills" id="extend-pills">
-      <span class="pill next">Maharashtra — next</span>
-      <span class="pill">West Bengal</span>
-      <span class="pill">Bihar</span>
-      <span class="pill">Tamil Nadu</span>
-      <span class="pill">Madhya Pradesh</span>
-      <span class="pill">+ 21 more</span>
-    </div>
+    <div class="state-pills" id="extend-pills"></div>
   </div>
 </div>
 
@@ -694,27 +719,101 @@ function renderMlas(containerPrefix, stateData, filter=""){
 
 // ---------------- DYNAMIC STATES (added after the first 3 hand-built states) ----------------
 // To add a new state: 1) add data/<key>-leadership.json + data/<key>-mlas.json,
-// 2) add one entry here. Everything else (nav button, section markup, rendering,
-// search) is generated automatically.
+// 2) add one entry here. pinned:true gets its own nav button; pinned:false
+// (or omitted) goes in the "More states" dropdown instead. Everything else
+// (button/dropdown entry, section markup, rendering, search) is automatic.
 const DYNAMIC_STATES = [
-  {key:"uttar_pradesh", label:"Uttar Pradesh"},
-  {key:"maharashtra", label:"Maharashtra"},
+  {key:"uttar_pradesh", label:"Uttar Pradesh", pinned:true},
+  {key:"maharashtra", label:"Maharashtra", pinned:true},
+  {key:"tamil_nadu", label:"Tamil Nadu", pinned:true},
+  {key:"kerala", label:"Kerala", pinned:true},
   {key:"bihar", label:"Bihar"},
-  {key:"tamil_nadu", label:"Tamil Nadu"},
   {key:"madhya_pradesh", label:"Madhya Pradesh"},
-  {key:"kerala", label:"Kerala"},
   {key:"rajasthan", label:"Rajasthan"},
   {key:"gujarat", label:"Gujarat"},
   {key:"odisha", label:"Odisha"},
 ];
 
+// The 3 states built directly into the HTML (before this pattern existed) -- all pinned.
+const STATIC_STATES = [
+  {key:"telangana", label:"Telangana"},
+  {key:"andhra", label:"Andhra Pradesh"},
+  {key:"karnataka", label:"Karnataka"},
+];
+
+function populateStateDropdown(){
+  const select = document.getElementById("state-select");
+  const dropdownStates = DYNAMIC_STATES
+    .filter(s => !s.pinned)
+    .slice()
+    .sort((a,b) => a.label.localeCompare(b.label));
+  for(const s of dropdownStates){
+    const opt = document.createElement("option");
+    opt.value = s.key;
+    opt.textContent = s.label;
+    select.appendChild(opt);
+  }
+}
+
+// All 28 states + the 3 union territories with their own legislative
+// assembly (Delhi, J&K, Puducherry) = 31 total. Ordered roughly by
+// assembly size (with Assam bumped to the front as the actual next
+// pick) so the "next up" pills stay meaningful as more states are added.
+// This list plus DYNAMIC_STATES/STATIC_STATES is the only thing that
+// needs updating -- the "Built to grow" section below computes itself.
+const ALL_INDIA_ENTITIES = [
+  "Uttar Pradesh","Maharashtra","Bihar","Tamil Nadu","Madhya Pradesh",
+  "Karnataka","Rajasthan","Gujarat","Andhra Pradesh","Odisha","Kerala",
+  "Telangana","Assam","West Bengal","Punjab","Chhattisgarh","Haryana",
+  "Jharkhand","Jammu and Kashmir","Uttarakhand","Himachal Pradesh",
+  "Delhi","Tripura","Meghalaya","Manipur","Nagaland","Goa",
+  "Arunachal Pradesh","Puducherry","Mizoram","Sikkim",
+];
+
+function renderBuiltToGrow(){
+  const doneLabels = new Set([...STATIC_STATES, ...DYNAMIC_STATES].map(s => s.label));
+  const remaining = ALL_INDIA_ENTITIES.filter(name => !doneLabels.has(name));
+
+  const copy = document.getElementById("extend-copy");
+  if(copy){
+    copy.textContent = `This directory covers the Union Government and ${doneLabels.size} states so far. The same structure — Chief Minister, key ministers, every sitting MLA — extends cleanly to every other state and union territory.`;
+  }
+
+  const pillsEl = document.getElementById("extend-pills");
+  if(pillsEl){
+    const shown = remaining.slice(0, 5);
+    const restCount = remaining.length - shown.length;
+    let html = shown.map((name, i) => `<span class="pill${i===0 ? ' next' : ''}">${name}${i===0 ? ' — next' : ''}</span>`).join("");
+    if(restCount > 0) html += `<span class="pill">+ ${restCount} more</span>`;
+    pillsEl.innerHTML = html;
+  }
+}
+
+function switchTier(tierKey){
+  document.querySelectorAll(".tier-btn").forEach(b=>b.classList.remove("active"));
+  document.querySelectorAll("section.tier").forEach(s=>s.classList.remove("active"));
+  const section = document.getElementById(tierKey);
+  if(section) section.classList.add("active");
+
+  const btn = document.querySelector(`.tier-btn[data-tier="${tierKey}"]`);
+  const select = document.getElementById("state-select");
+  if(btn){
+    btn.classList.add("active");
+    select.selectedIndex = 0; // reset dropdown to placeholder
+  } else {
+    select.value = tierKey; // came from the dropdown
+  }
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
 function buildStateSection(cfg){
-  const nav = document.querySelector(".tier-nav");
-  const btn = document.createElement("button");
-  btn.className = "tier-btn";
-  btn.dataset.tier = cfg.key;
-  btn.textContent = cfg.label;
-  nav.appendChild(btn);
+  if(cfg.pinned){
+    const btn = document.createElement("button");
+    btn.className = "tier-btn";
+    btn.dataset.tier = cfg.key;
+    btn.textContent = cfg.label;
+    document.querySelector(".tier-nav-left").appendChild(btn);
+  }
 
   const section = document.createElement("section");
   section.className = "tier";
@@ -844,17 +943,19 @@ async function boot(){
   }
 }
 
+populateStateDropdown();
+renderBuiltToGrow();
 boot();
 
-// ---------------- TABS (event delegation so dynamically-added tabs work too) ----------------
+// ---------------- TABS: Union button + state dropdown ----------------
 document.querySelector(".tier-nav").addEventListener("click", (e)=>{
   const btn = e.target.closest(".tier-btn");
   if(!btn) return;
-  document.querySelectorAll(".tier-btn").forEach(b=>b.classList.remove("active"));
-  document.querySelectorAll("section.tier").forEach(s=>s.classList.remove("active"));
-  btn.classList.add("active");
-  document.getElementById(btn.dataset.tier).classList.add("active");
-  window.scrollTo({top:0, behavior:"smooth"});
+  switchTier(btn.dataset.tier);
+});
+
+document.getElementById("state-select").addEventListener("change", (e)=>{
+  if(e.target.value) switchTier(e.target.value);
 });
 </script>
 
