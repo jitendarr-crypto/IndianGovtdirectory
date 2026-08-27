@@ -138,8 +138,8 @@
     </div>
     <input type="hidden" name="_subject" value="India Directory — contact form">
     <button type="submit" id="submit-btn">Send message</button>
-    <div class="status success" id="status-success">Thanks — your message has been sent.</div>
-    <div class="status error" id="status-error">Something went wrong sending that — please try again in a moment.</div>
+    <div class="status" id="status-success">Thanks — your message has been sent.</div>
+    <div class="status" id="status-error">Something went wrong sending that — please try again in a moment.</div>
   </form>
 
   <p class="note">
@@ -155,8 +155,8 @@ const errorEl = document.getElementById('status-error');
 
 form.addEventListener('submit', async function(e){
   e.preventDefault();
-  successEl.style.display = 'none';
-  errorEl.style.display = 'none';
+  successEl.classList.remove('success');
+  errorEl.classList.remove('error');
   btn.disabled = true;
   btn.textContent = 'Sending…';
 
@@ -167,13 +167,13 @@ form.addEventListener('submit', async function(e){
       headers: { 'Accept': 'application/json' }
     });
     if (res.ok) {
-      successEl.style.display = 'block';
+      successEl.classList.add('success');
       form.reset();
     } else {
-      errorEl.style.display = 'block';
+      errorEl.classList.add('error');
     }
   } catch (err) {
-    errorEl.style.display = 'block';
+    errorEl.classList.add('error');
   } finally {
     btn.disabled = false;
     btn.textContent = 'Send message';
