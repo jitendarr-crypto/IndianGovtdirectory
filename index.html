@@ -348,6 +348,12 @@
     table.districts thead th:nth-child(5), table.districts td:nth-child(5){display:none;}
     .table-scroll{max-height:420px;}
     .search-box{min-width:0;flex:1;}
+    /* On mobile, only the Union button stays pinned -- every state (including
+       the ones that have their own tab on desktop) moves into the dropdown,
+       which is fully populated with all states for exactly this reason. */
+    .tier-btn:not([data-tier="union"]){display:none;}
+    .state-select-wrap{flex:1;}
+    #state-select{width:100%;min-width:0;}
   }
 </style>
 </head>
@@ -765,11 +771,13 @@ const STATIC_STATES = [
 
 function populateStateDropdown(){
   const select = document.getElementById("state-select");
-  const dropdownStates = DYNAMIC_STATES
-    .filter(s => !s.pinned)
+  // Include every state here, not just the non-pinned ones -- on mobile,
+  // the pinned tab buttons are hidden (see the max-width:640px media query)
+  // and the dropdown becomes the only way to reach any state, pinned or not.
+  const allStates = [...STATIC_STATES, ...DYNAMIC_STATES]
     .slice()
     .sort((a,b) => a.label.localeCompare(b.label));
-  for(const s of dropdownStates){
+  for(const s of allStates){
     const opt = document.createElement("option");
     opt.value = s.key;
     opt.textContent = s.label;
@@ -819,11 +827,16 @@ function switchTier(tierKey){
 
   const btn = document.querySelector(`.tier-btn[data-tier="${tierKey}"]`);
   const select = document.getElementById("state-select");
-  if(btn){
-    btn.classList.add("active");
-    select.selectedIndex = 0; // reset dropdown to placeholder
+  if(btn) btn.classList.add("active");
+
+  // The dropdown always mirrors the current selection (except for Union,
+  // which has no dropdown entry) -- this matters most on mobile, where the
+  // pinned buttons are hidden by CSS and the dropdown is the only visible
+  // indicator of which state is showing.
+  if(tierKey === "union"){
+    select.selectedIndex = 0;
   } else {
-    select.value = tierKey; // came from the dropdown
+    select.value = tierKey;
   }
   window.scrollTo({top:0, behavior:"smooth"});
 }
