@@ -24,12 +24,15 @@
   }
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
+  html{overflow-x:hidden;}
   body{
     margin:0;
     background:var(--paper);
     color:var(--ink);
     font-family:'IBM Plex Sans',sans-serif;
     -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
+    max-width:100vw;
   }
   a{color:inherit;}
   ::selection{background:var(--gold-soft);color:var(--navy-deep);}
@@ -255,7 +258,16 @@
   table.districts{
     width:100%;border-collapse:collapse;
     background:var(--paper-raised);
+  }
+  .table-scroll{
+    max-height:640px;
+    overflow-y:auto;
+    overflow-x:auto;
     border:1px solid var(--line);
+    -webkit-overflow-scrolling:touch;
+  }
+  .table-scroll thead th{
+    position:sticky;top:0;z-index:1;
   }
   table.districts thead th{
     text-align:left;
@@ -334,6 +346,8 @@
     .chief-strip{flex-wrap:wrap;}
     table.districts{font-size:12px;}
     table.districts thead th:nth-child(5), table.districts td:nth-child(5){display:none;}
+    .table-scroll{max-height:420px;}
+    .search-box{min-width:0;flex:1;}
   }
 </style>
 </head>
@@ -424,6 +438,7 @@
       <div class="count-tag" id="mp-count">loading…</div>
     </div>
 
+    <div class="table-scroll">
     <table class="districts">
       <thead>
         <tr>
@@ -435,6 +450,7 @@
       </thead>
       <tbody id="mps-body"></tbody>
     </table>
+    </div>
 
     <div class="caveat">
       <strong>128 of 543 seats covered so far</strong> — Uttar Pradesh (80) and Maharashtra (48), both sourced from Wikipedia's official 2024 election-results tables and cross-checked against vote margins. The remaining 415 seats across 34 states and union territories are queued in <code>data/mps-pending.json</code> with a source link for each — every large-scale MP data source turned out to have its own quirks (broken pagination, blocked robots.txt, inconsistent table markup), so each state needs individual verification rather than one bulk pull. See the README for how this gets extended.
@@ -479,6 +495,7 @@
       <div class="count-tag" id="mla-count-telangana">119 constituencies</div>
     </div>
 
+    <div class="table-scroll">
     <table class="districts">
       <thead>
         <tr>
@@ -491,6 +508,7 @@
       </thead>
       <tbody id="mlas-body-telangana"></tbody>
     </table>
+    </div>
 
     <div class="caveat">
       Source: <a class="verify-link" href="https://en.wikipedia.org/wiki/3rd_Telangana_Assembly" target="_blank" rel="noopener">3rd Telangana Assembly</a> — includes by-election winners and party defections recorded since the 2023 election. MLAs are elected for a five-year term, so this list is far more stable than an appointed-official roster, but always worth a quick check on anything election- or defection-sensitive.
@@ -535,6 +553,7 @@
       <div class="count-tag" id="mla-count-andhra">175 constituencies</div>
     </div>
 
+    <div class="table-scroll">
     <table class="districts">
       <thead>
         <tr>
@@ -547,6 +566,7 @@
       </thead>
       <tbody id="mlas-body-andhra"></tbody>
     </table>
+    </div>
 
     <div class="caveat">
       Source: <a class="verify-link" href="https://en.wikipedia.org/wiki/16th_Andhra_Pradesh_Assembly" target="_blank" rel="noopener">16th Andhra Pradesh Assembly</a> — TDP holds a majority (135 seats) with NDA allies JSP and BJP; rows without an explicit party tag in the source table are TDP. MLAs serve five-year terms, so this is far more stable than an appointed-official roster, but still worth a quick check on anything election-sensitive.
@@ -591,6 +611,7 @@
       <div class="count-tag" id="mla-count-karnataka">224 constituencies</div>
     </div>
 
+    <div class="table-scroll">
     <table class="districts">
       <thead>
         <tr>
@@ -603,6 +624,7 @@
       </thead>
       <tbody id="mlas-body-karnataka"></tbody>
     </table>
+    </div>
 
     <div class="caveat">
       Source: <a class="verify-link" href="https://en.wikipedia.org/wiki/16th_Karnataka_Assembly" target="_blank" rel="noopener">16th Karnataka Assembly</a> — includes by-election winners, deaths in office, and party switches recorded since the 2023 election, including Hiriyur, currently vacant after D. Sudhakar's death in May 2026. MLAs serve five-year terms, so this is far more stable than an appointed-official roster, but still worth a quick check on anything election-sensitive.
@@ -847,12 +869,14 @@ function buildStateSection(cfg){
       </div>
       <div class="count-tag" id="mla-count-${cfg.key}">loading…</div>
     </div>
+    <div class="table-scroll">
     <table class="districts">
       <thead>
         <tr><th>No.</th><th>Constituency</th><th>MLA</th><th>Party</th><th>Notes</th></tr>
       </thead>
       <tbody id="mlas-body-${cfg.key}"></tbody>
     </table>
+    </div>
     <div class="caveat" id="${cfg.key}-mla-caveat"></div>
   `;
   document.getElementById("dynamic-states").appendChild(section);
