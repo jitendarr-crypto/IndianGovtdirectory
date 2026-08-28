@@ -142,7 +142,7 @@
 <div class="masthead">
   <div class="masthead-inner">
     <div class="masthead-title">The India Directory</div>
-    <a class="back-link" href="index.html">&larr; Back to full directory</a>
+    <a class="back-link" id="back-link" href="index.html">&larr; Back to full directory</a>
   </div>
 </div>
 
@@ -167,6 +167,8 @@ const STATE_GEO_NAME = {
   rajasthan: "Rajasthan",
   gujarat: "Gujarat",
   odisha: "Odisha",
+  assam: "Assam",
+  punjab: "Punjab",
 };
 
 const STATE_LABEL = {
@@ -174,6 +176,7 @@ const STATE_LABEL = {
   karnataka: "Karnataka", uttar_pradesh: "Uttar Pradesh", maharashtra: "Maharashtra",
   bihar: "Bihar", tamil_nadu: "Tamil Nadu", madhya_pradesh: "Madhya Pradesh",
   kerala: "Kerala", rajasthan: "Rajasthan", gujarat: "Gujarat", odisha: "Odisha",
+  assam: "Assam", punjab: "Punjab",
 };
 
 function qs(name){
@@ -225,6 +228,15 @@ async function boot(){
   const stateKey = qs("state");
   const seatNo = qs("no");
   const app = document.getElementById("app");
+
+  // Send "back to directory" to the specific state page rather than always
+  // index.html, since the state is already known from the URL. Both MLA and
+  // MP state keys (e.g. "telangana", "uttar_pradesh") match that state's
+  // page filename directly.
+  if(stateKey){
+    const backLink = document.getElementById("back-link");
+    if(backLink) backLink.href = `${stateKey}.html`;
+  }
 
   if(!stateKey || !seatNo){
     app.innerHTML = `<div class="error-state">Missing constituency reference. Go back to the <a href="index.html">directory</a> and click a constituency link.</div>`;
