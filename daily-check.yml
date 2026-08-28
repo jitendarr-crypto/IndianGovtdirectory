@@ -1,0 +1,98 @@
+name: Daily Government Directory Check
+
+on:
+  schedule:
+    # 03:00 UTC ~ 08:30 IST, daily. Leadership checks run every day this
+    # fires; the MLA/MP check only actually runs on Sundays (see FORCE_MLA_CHECK
+    # below and the day-of-week gate inside scripts/update.py) -- MLA rosters
+    # change rarely enough that a full nightly scan of 400+ constituencies
+    # with web search enabled isn't worth the cost. See README for the numbers.
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      force_mla_check:
+        description: 'Run the full MLA/MP check now, even if today is not Sunday'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run the daily checker
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE_MLA_CHECK: ${{ github.event.inputs.force_mla_check }}
+        run: python scripts/update.py
+
+      - name: Configure git identity
+        run: |
+          git config user.name "india-directory-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      # --- Leadership changes (CM/PM/ministers): low volatility, commit directly ---
+      # Every state's leadership file, not just the original 4 -- this list
+      # needs a new line each time a state is added, same as LEADERSHIP_FILES
+      # in scripts/update.py.
+      - name: Commit leadership updates directly to main
+        run: |
+          LEADERSHIP_FILES="data/union-leadership.json data/telangana-leadership.json \
+            data/andhra-leadership.json data/karnataka-leadership.json \
+            data/uttar_pradesh-leadership.json data/maharashtra-leadership.json \
+            data/bihar-leadership.json data/tamil_nadu-leadership.json \
+            data/madhya_pradesh-leadership.json data/kerala-leadership.json \
+            data/rajasthan-leadership.json data/gujarat-leadership.json \
+            data/odisha-leadership.json data/last-run-summary.md"
+          git add $LEADERSHIP_FILES
+          if ! git diff --cached --quiet -- $LEADERSHIP_FILES; then
+            git commit -m "chore: daily leadership check ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No leadership changes today."
+            git reset
+          fi
+
+      # --- MLA changes (by-elections/deaths/defections): still human-reviewed via PR ---
+      # Only actually produces a diff on Sundays (or a manually-forced run) --
+      # peter-evans/create-pull-request is a no-op and opens nothing when
+      # there's nothing to commit, so this step is safe to leave in every run.
+      - name: Open a PR for MLA updates
+        uses: peter-evans/create-pull-request@v6
+        with:
+          add-paths: |
+            data/telangana-mlas.json
+            data/andhra-mlas.json
+            data/karnataka-mlas.json
+            data/uttar_pradesh-mlas.json
+            data/maharashtra-mlas.json
+            data/bihar-mlas.json
+            data/tamil_nadu-mlas.json
+            data/madhya_pradesh-mlas.json
+            data/kerala-mlas.json
+            data/rajasthan-mlas.json
+            data/gujarat-mlas.json
+            data/odisha-mlas.json
+            data/mps-uttar_pradesh.json
+            data/mps-maharashtra.json
+            data/last-run-summary.md
+          commit-message: "chore: weekly MLA check (needs review)"
+          branch: auto/mla-updates
+          delete-branch: true
+          title: "MLA updates -- ${{ github.run_id }}"
+          body-path: data/last-run-summary.md
+          labels: automated,needs-review
