@@ -1,0 +1,86 @@
+{
+  "level": "state",
+  "state": "Assam",
+  "chief": {
+    "role": "Chief Minister of Assam",
+    "name": "Himanta Biswa Sarma",
+    "note": "Bharatiya Janata Party; Jalukbari constituency; NDA won a landslide 75 of 126 seats in the April 2026 election, the worst-ever defeat for INC in the state; Second Sarma ministry formed 12 May 2026",
+    "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+    "last_checked": "2026-08-27",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Jayanta Malla Baruah",
+      "portfolio": "Finance",
+      "seat": "Nalbari",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Ranoj Pegu",
+      "portfolio": "School Education, Higher Education, Tribal Affairs (Plains), Information Technology",
+      "seat": "Dhemaji",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Ashok Singhal",
+      "portfolio": "Health & Family Welfare, Medical Education & Research",
+      "seat": "Dhekiajuli",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Pijush Hazarika",
+      "portfolio": "Cabinet Minister",
+      "seat": "Jagiroad",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Keshab Mahanta",
+      "portfolio": "Cabinet Minister",
+      "seat": "Kaliabor",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Chandra Mohan Patowary",
+      "portfolio": "Cabinet Minister",
+      "seat": "Tihu",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Bhabesh Kalita",
+      "portfolio": "General Administration, Tourism",
+      "seat": "Rangiya",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Rihon Daimary",
+      "portfolio": "Cabinet Minister",
+      "seat": "Udalguri",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Ranjeet Kumar Dass",
+      "portfolio": "Speaker of the Assembly",
+      "seat": "Bhowanipur-Sorbhog",
+      "source_url": "https://en.wikipedia.org/wiki/16th_Assam_Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    }
+  ]
+}

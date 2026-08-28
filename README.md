@@ -113,10 +113,34 @@ no reliable bulk pull here — each state needs individual verification.
 | Rajasthan | 200 | Rajasthan Legislative Assembly (Wikipedia), with 9 confirmed by-elections |
 | Gujarat | 182 | Gujarat Legislative Assembly (Wikipedia), with 8 confirmed by-elections |
 | Odisha | 147 | myneta.info + 16 individually-confirmed Wikipedia constituency pages |
+| Assam | 126 | Wikipedia + myneta.info cross-referenced, 9 remaining gaps individually confirmed |
+| Punjab | 117 | myneta.info + individually-confirmed Wikipedia constituency pages, 1 seat left unconfirmed rather than guessed |
 
-**2,585 MLAs total, 11 vacant seats tracked** (Karnataka's Hiriyur, 3 in
-UP, 7 in Tamil Nadu — all following confirmed deaths or resignations,
-never guessed).
+**2,828 MLAs total, 12 vacant/unconfirmed seats tracked** (Karnataka's
+Hiriyur, 3 in UP, 7 in Tamil Nadu, 1 in Punjab — deaths and resignations
+shown honestly, one seat left unconfirmed rather than guessed).
+
+Assam capped off a run of four fresh 2026 elections (with West Bengal,
+Tamil Nadu, and Kerala) — NDA won a landslide 82 BJP + 10 AGP + 10 BPF
+seats, the worst-ever defeat for INC in the state. It had the same
+merged-cell risk as Kerala (Wikipedia's party column was blank for
+roughly half the rows) *and* the same MyNeta gap pattern as Maharashtra/
+Odisha (13 more rows missing) — so both sources were cross-referenced
+against each other first, which resolved most of it, and the 9 seats
+still unconfirmed after that were checked individually. The final party
+breakdown (82/10/10/19/2/2/1) was cross-validated against an independent
+news headline's seat count before being trusted — an exact match.
+
+Punjab closed out the day with a genuinely new failure mode: its MyNeta
+list was truncated at the *end* of the alphabet (a seat starting with
+"Z" — Zira — simply never showed up, since the page cuts off after
+"Urmar"), on top of the usual mid-list gaps. 7 by-elections were folded
+in from a separate MyNeta table, including one where a suspended MLA
+(Abohar's Sandeep Jakhar) keeps his seat despite losing his party
+membership, since suspension doesn't vacate a seat the way resignation
+or death does. One seat (Moonak) couldn't be confirmed after several
+searches and is shown as unconfirmed rather than guessed — the only
+seat across all 14 states handled this way.
 
 Tamil Nadu was the biggest political story of the batch: actor-turned
 politician C. Joseph Vijay's brand-new party TVK won 108 of 234 seats in
@@ -149,6 +173,72 @@ individually against a dedicated Wikipedia constituency page rather
 than left blank or guessed; one of those 16 (Nuapada) also needed a
 2025 by-election update after the sitting MLA died in office. West
 Bengal (294 seats) remains skipped — see the note above.
+
+## Mobile navigation: dropdown becomes the only nav on small screens
+
+On mobile, the 8 pinned tabs didn't all fit on one row. Fix: below
+640px width, every tab button except "Union Government" is hidden via
+CSS (`.tier-btn:not([data-tier="union"]){display:none;}`), and the
+dropdown — which now always lists **all** states, not just the
+non-pinned ones — becomes the only way to reach a state on mobile.
+Desktop is unaffected: pinned tabs still show normally there, and the
+dropdown still works as a secondary path to any state (including the
+pinned ones) if you'd rather use it. `switchTier()` keeps the dropdown
+in sync with whatever's currently showing, however you got there.
+
+## Site architecture: one page per state
+
+The site used to be a single `index.html` with every state's data loaded
+on every visit (fine at 4 states, wasteful at 14 and worse as more are
+added). It's now:
+
+- **`index.html`** — Union Government + the "Built to grow" section. Only
+  loads Union/MP data.
+- **`<state>.html`** for each state (`telangana.html`, `punjab.html`, etc.)
+  — one file per state, each loading only its own two JSON files.
+- **`shared.css`** / **`shared.js`** — the design system and all rendering
+  logic (office cards, MLA tables, nav, "Built to grow"), loaded by every
+  page instead of duplicated into each one.
+- **`generate_pages.py`** — regenerates every page from `shared.js`'s
+  `ALL_STATES` list. **Run this after adding a new state** (see below) —
+  every page shares the same nav, so every page needs regenerating when
+  a state is added, and this does that in one shot.
+
+The nav (pinned tabs + "More states" dropdown) is real `<a>` links now,
+not JS tab-switching — clicking a state is a real page navigation, but
+each page is far lighter than the old single-page version. `constituency.html`'s
+"back to directory" link also now goes to the specific state page you
+came from, not always `index.html`.
+
+Three states (Telangana, Andhra Pradesh, Karnataka) have richer,
+hand-written caveat text preserved verbatim from before this refactor —
+stored in `CUSTOM_COPY` in `generate_pages.py`. Every other state's
+caveat text is auto-generated from the data itself at load time (same
+behavior as before, just now consistent across all non-custom states).
+
+## Mobile layout + scrollable tables
+
+Two fixes applied together: (1) `html`/`body` now have `overflow-x:hidden`
+as a safety net, and every MLA/MP table is wrapped in a `.table-scroll`
+container (`overflow-x:auto`) — previously, long unwrapped table content
+(especially the Notes column) could force the table wider than the
+viewport with nothing containing it, which is what caused the "page too
+wide" issue on mobile. (2) Each `.table-scroll` also caps at
+`max-height:640px` (420px on mobile) with `overflow-y:auto` and a sticky
+header, so a 403-seat table doesn't turn the page into an endless scroll
+— it becomes a compact, independently-scrollable box instead.
+
+## Navigation: pinned tabs + "more states" dropdown
+
+With 12 states live, a horizontal row of tabs stopped fitting the page.
+The nav is now a hybrid: 8 pinned tabs (Union Government, Telangana,
+Andhra Pradesh, Karnataka, Uttar Pradesh, Maharashtra, Tamil Nadu,
+Kerala) stay as buttons, and the remaining states (currently Bihar,
+Madhya Pradesh, Rajasthan, Gujarat, Odisha) live in a "More states…"
+dropdown at the right edge. Each entry in `DYNAMIC_STATES` in
+`index.html`'s `<script>` block takes a `pinned:true` flag to get its
+own button instead of going in the dropdown — nothing else to wire up
+either way.
 
 ## Constituency detail pages
 
@@ -237,24 +327,64 @@ again on the next run.
 1. Add `data/<state>-leadership.json` and `data/<state>-mlas.json`
    following the shape of the existing files.
 2. Add the filenames to `LEADERSHIP_FILES` / `MLA_FILES` in
-   `scripts/update.py`.
-3. Add one entry to `DYNAMIC_STATES` in `index.html`'s `<script>` block
-   (e.g. `{key:"maharashtra", label:"Maharashtra"}`) — the nav button,
-   section markup, and search box are all generated automatically. No
-   HTML to hand-write.
-4. Add a `supabase/migrations/00XX_seed_states_<state>.sql`,
+   `scripts/update.py`, **and** to the `LEADERSHIP_FILES` list inside
+   `.github/workflows/daily-check.yml`'s commit step (these are
+   separate lists that both need the new state).
+3. Add one entry to `ALL_STATES` in `shared.js` (e.g.
+   `{key:"chhattisgarh", label:"Chhattisgarh"}`, add `pinned:true` if it
+   should get its own tab instead of going in the dropdown) **and** to
+   `STATES` in `generate_pages.py` (same key/label, must match exactly).
+4. Run `python3 generate_pages.py` — this regenerates every page (not
+   just the new one), since every page's nav needs to know about the
+   new state.
+5. Add a `supabase/migrations/00XX_seed_states_<state>.sql`,
    `00XX_seed_officials_<state>.sql`, and `00XX_seed_mlas_<state>.sql`
    (or write directly to Supabase).
 
 ## Known limitations
 
 - MLA and leadership data both rely on Wikipedia's assembly pages and
-  news reporting rather than a structured government API, so even daily
-  automated checks are really "daily search-and-read," and will
-  occasionally miss a change or need a human's judgment call in the PR.
-- The checker calls the Anthropic API with web search once per state per
-  category (≈7 calls/day total) — cheap, but keep an eye on usage if you
-  extend to many more states.
+  news reporting rather than a structured government API, so even
+  automated checks are really "search-and-read," and will occasionally
+  miss a change or need a human's judgment call in the PR.
 - `index.html` must be served over HTTP (GitHub Pages, or
   `python -m http.server` locally) — opening the file directly
   (`file://...`) will fail `fetch()` due to browser CORS rules.
+
+## Analytics
+
+Cloudflare Web Analytics is wired into all three pages (`index.html`,
+`constituency.html`, `contact.html`) via a small beacon script right
+before `</body>`. It's cookie-free and privacy-first (no consent banner
+needed), and works independently of hosting — the site doesn't need to
+be proxied through Cloudflare's network for this to function, it's just
+a script tag. View traffic at the Cloudflare dashboard under Web
+Analytics.
+
+## Cost and cadence
+
+The pipeline makes 27 API calls per full run (13 leadership + 12 MLA +
+2 MP), each with web search enabled. At current Sonnet 5 pricing
+($2/$10 per million input/output tokens, plus $10 per 1,000 web
+searches — the dominant cost), a full run costs roughly **$2-4**,
+mostly driven by search volume on the larger MLA files (some scan 400+
+constituencies).
+
+Since MLA/MP rosters change rarely — elections happen once every 5
+years; the only triggers in between are by-elections, deaths, or
+defections — running the full MLA/MP scan **every night is overkill**
+for how infrequently it finds anything. The schedule is split:
+
+- **Leadership checks (CM/PM/ministers) run daily** — cheap (~13 small
+  calls/day) and cabinet reshuffles are comparatively time-sensitive.
+- **MLA/MP checks run weekly, on Sundays (UTC)** — the expensive part,
+  gated by a day-of-week check inside `scripts/update.py`.
+
+Rough monthly cost at this cadence: **~$15-20** (30 daily leadership
+runs + ~4 weekly MLA runs), down from an estimated **~$40-130/month**
+if the full scan ran nightly.
+
+To run the full MLA/MP check on demand (e.g. right after adding a new
+state, without waiting for Sunday): go to the Actions tab → "Daily
+Government Directory Check" → "Run workflow" → check the "Run the
+full MLA/MP check now" box before starting it.

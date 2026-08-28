@@ -1,0 +1,94 @@
+{
+  "level": "state",
+  "state": "Punjab",
+  "chief": {
+    "role": "Chief Minister of Punjab",
+    "name": "Bhagwant Mann",
+    "note": "Aam Aadmi Party; Dhuri constituency; sworn in 16 March 2022 at Khatkar Kalan (Bhagat Singh's ancestral village); AAP holds 94 of 117 seats after by-elections",
+    "source_url": "https://en.wikipedia.org/wiki/Sixteenth_Punjab_Legislative_Assembly",
+    "last_checked": "2026-08-27",
+    "confidence": "high"
+  },
+  "ministers": [
+    {
+      "name": "Harpal Singh Cheema",
+      "portfolio": "Finance; Deputy Leader of the House",
+      "seat": "Dirba",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Kultar Singh Sandhwan",
+      "portfolio": "Speaker of the Assembly",
+      "seat": "Kotkapura",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Jai Krishan Singh (Rouri)",
+      "portfolio": "Deputy Speaker of the Assembly",
+      "seat": "Garhshankar",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Ravjot Singh",
+      "portfolio": "Legislative Affairs",
+      "seat": "Sham Chaurasi",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Anmol Gagan Maan",
+      "portfolio": "Cabinet Minister",
+      "seat": "Kharar",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Baljit Kaur",
+      "portfolio": "Cabinet Minister",
+      "seat": "Malout",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Aman Arora",
+      "portfolio": "Cabinet Minister",
+      "seat": "Sunam",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Laljit Singh Bhullar",
+      "portfolio": "Cabinet Minister",
+      "seat": "Patti",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "medium"
+    },
+    {
+      "name": "Partap Singh Bajwa",
+      "portfolio": "Leader of the Opposition",
+      "seat": "Qadian",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "name": "Aruna Chaudhary",
+      "portfolio": "Deputy Leader of the Opposition",
+      "seat": "Dina Nagar",
+      "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    }
+  ]
+}

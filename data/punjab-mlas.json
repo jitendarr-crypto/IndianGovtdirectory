@@ -1,0 +1,1179 @@
+{
+  "level": "mlas",
+  "state": "Punjab",
+  "assembly": "16th Punjab Legislative Assembly (2022–2027)",
+  "role_title": "MLA",
+  "source_url": "https://myneta.info/punjab2022/index.php?action=show_winners&sort=default",
+  "items": [
+    {
+      "no": 1,
+      "constituency": "Abohar",
+      "reservation": null,
+      "name": "Sandeep Jakhar",
+      "party": "INC",
+      "note": "Suspended from INC 10 Jul 2024 for anti-party activities; retains seat",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 2,
+      "constituency": "Adampur",
+      "reservation": "SC",
+      "name": "Sukhwinder Singh Kotli",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 3,
+      "constituency": "Ajnala",
+      "reservation": null,
+      "name": "Kuldeep Singh Dhaliwal",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 4,
+      "constituency": "Amargarh",
+      "reservation": null,
+      "name": "Jaswant Singh Gajjan Majra",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 5,
+      "constituency": "Amloh",
+      "reservation": null,
+      "name": "Gurinder Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 6,
+      "constituency": "Amritsar Central",
+      "reservation": null,
+      "name": "Ajay Gupta",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 7,
+      "constituency": "Amritsar East",
+      "reservation": null,
+      "name": "Jeevan Jyot Kaur",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 8,
+      "constituency": "Amritsar North",
+      "reservation": null,
+      "name": "Kunwar Vijay Pratap Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 9,
+      "constituency": "Amritsar South",
+      "reservation": null,
+      "name": "Inderbir Singh Nijjar",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 10,
+      "constituency": "Amritsar West",
+      "reservation": "SC",
+      "name": "Jasbir Singh Sandhu",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 11,
+      "constituency": "Anandpur Sahib",
+      "reservation": null,
+      "name": "Harjot Singh Bains",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 12,
+      "constituency": "Atam Nagar",
+      "reservation": null,
+      "name": "Kulwant Singh Sidhu",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 13,
+      "constituency": "Attari",
+      "reservation": "SC",
+      "name": "Jaswinder Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 14,
+      "constituency": "Baba Bakala",
+      "reservation": "SC",
+      "name": "Dalbir Singh Tong",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 15,
+      "constituency": "Bagha Purana",
+      "reservation": null,
+      "name": "Amritpal Singh Sukhanand",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 16,
+      "constituency": "Balachaur",
+      "reservation": null,
+      "name": "Santosh Kumari Katariaa",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 17,
+      "constituency": "Balluana",
+      "reservation": "SC",
+      "name": "Amandeep Singh Musafir",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 18,
+      "constituency": "Banga",
+      "reservation": null,
+      "name": "Sukhwinder Singh Sukhi",
+      "party": "SAD",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 19,
+      "constituency": "Barnala",
+      "reservation": null,
+      "name": "Kuldeep Singh Dhillon (Kala Dhillon)",
+      "party": "INC",
+      "note": "Won bypoll 13 Nov 2024; prev. Gurmeet Singh Meet Hayer (AAP)",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 20,
+      "constituency": "Bassi Pathana",
+      "reservation": "SC",
+      "name": "Rupinder Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 21,
+      "constituency": "Batala",
+      "reservation": null,
+      "name": "Amansher Singh (Shery Kalsi)",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 22,
+      "constituency": "Bathinda Rural",
+      "reservation": "SC",
+      "name": "Amit Rattan",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 23,
+      "constituency": "Bathinda Urban",
+      "reservation": null,
+      "name": "Jagroop Singh Gill",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 24,
+      "constituency": "Bhadaur",
+      "reservation": "SC",
+      "name": "Labh Singh Ugoke",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 25,
+      "constituency": "Bhoa",
+      "reservation": "SC",
+      "name": "Lal Chand",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 26,
+      "constituency": "Bholath",
+      "reservation": null,
+      "name": "Sukhpal Singh Khaira",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 27,
+      "constituency": "Bhucho Mandi",
+      "reservation": "SC",
+      "name": "Master Jagsir Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 28,
+      "constituency": "Budhlada",
+      "reservation": "SC",
+      "name": "Budh Ram",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 29,
+      "constituency": "Chabbewal",
+      "reservation": "SC",
+      "name": "Dr. Ishank Kumar",
+      "party": "AAP",
+      "note": "Won bypoll 13 Nov 2024; prev. Dr. Raj Kumar (INC) resigned",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 30,
+      "constituency": "Chamkaur Sahib",
+      "reservation": "SC",
+      "name": "Charanjit Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 31,
+      "constituency": "Dakha",
+      "reservation": null,
+      "name": "Manpreet Singh Ayali",
+      "party": "SAD",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 32,
+      "constituency": "Dasuya",
+      "reservation": null,
+      "name": "Karambir Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 33,
+      "constituency": "Dera Baba Nanak",
+      "reservation": null,
+      "name": "Gurdeep Singh Randhawa",
+      "party": "AAP",
+      "note": "Won bypoll 13 Nov 2024; prev. Sukhjinder Singh Randhawa (INC) resigned",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 34,
+      "constituency": "Dera Bassi",
+      "reservation": null,
+      "name": "Kuljit Singh Randhawa",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 35,
+      "constituency": "Dharamkot",
+      "reservation": null,
+      "name": "Devinderjeet Singh (Laddi Dhose)",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 36,
+      "constituency": "Dhuri",
+      "reservation": null,
+      "name": "Bhagwant Mann",
+      "party": "AAP",
+      "note": "Chief Minister",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 37,
+      "constituency": "Dina Nagar",
+      "reservation": "SC",
+      "name": "Aruna Chaudhary",
+      "party": "INC",
+      "note": "Deputy Leader of the Opposition",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 38,
+      "constituency": "Dirba",
+      "reservation": "SC",
+      "name": "Harpal Singh Cheema",
+      "party": "AAP",
+      "note": "Cabinet Minister; Finance",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 39,
+      "constituency": "Faridkot",
+      "reservation": null,
+      "name": "Gurdit Singh Sekhon",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 40,
+      "constituency": "Fatehgarh Churian",
+      "reservation": null,
+      "name": "Tripat Rajinder Singh Bajwa",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 41,
+      "constituency": "Fatehgarh Sahib",
+      "reservation": null,
+      "name": "Lakhbir Singh Rai",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 42,
+      "constituency": "Fazilka",
+      "reservation": null,
+      "name": "Narinder Pal Singh Sawna",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 43,
+      "constituency": "Firozpur City",
+      "reservation": null,
+      "name": "Ranbir Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 44,
+      "constituency": "Firozpur Rural",
+      "reservation": "SC",
+      "name": "Rajneesh Kumar Dahiya",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 45,
+      "constituency": "Garhshankar",
+      "reservation": null,
+      "name": "Jai Krishan Singh (Rouri)",
+      "party": "AAP",
+      "note": "Deputy Speaker of the Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 46,
+      "constituency": "Ghanaur",
+      "reservation": null,
+      "name": "Gurlal Ghanaur",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 47,
+      "constituency": "Gidderbaha",
+      "reservation": null,
+      "name": "Hardeep Singh Dimpy Dhillon",
+      "party": "AAP",
+      "note": "Won bypoll 13 Nov 2024; prev. Amrinder Singh Raja Warring (INC) resigned",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 48,
+      "constituency": "Gill",
+      "reservation": "SC",
+      "name": "Jiwan Singh Sangowal",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 49,
+      "constituency": "Gurdaspur",
+      "reservation": null,
+      "name": "Barindermeet Singh Pahra",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 50,
+      "constituency": "Guru Har Sahai",
+      "reservation": null,
+      "name": "Fauja Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 51,
+      "constituency": "Hoshiarpur",
+      "reservation": null,
+      "name": "Bram Shanker (Jimpa)",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 52,
+      "constituency": "Jagraon",
+      "reservation": "SC",
+      "name": "Sarvjit Kaur Manuke",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 53,
+      "constituency": "Jaitu",
+      "reservation": "SC",
+      "name": "Amolak Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 54,
+      "constituency": "Jalalabad",
+      "reservation": null,
+      "name": "Jagdeep Kamboj Goldy",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 55,
+      "constituency": "Jalandhar Cantt",
+      "reservation": null,
+      "name": "Pargat Singh Powar",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 56,
+      "constituency": "Jalandhar Central",
+      "reservation": null,
+      "name": "Raman Arora",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 57,
+      "constituency": "Jalandhar North",
+      "reservation": null,
+      "name": "Avtar Singh Junior",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 58,
+      "constituency": "Jalandhar West",
+      "reservation": "SC",
+      "name": "Mohinder Bhagat",
+      "party": "AAP",
+      "note": "Won bypoll 10 Jul 2024; prev. Sheetal Angural (AAP) resigned",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 59,
+      "constituency": "Jandiala",
+      "reservation": "SC",
+      "name": "Harbhajan Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 60,
+      "constituency": "Kapurthala",
+      "reservation": null,
+      "name": "Rana Gurjeet Singh",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 61,
+      "constituency": "Kartarpur",
+      "reservation": "SC",
+      "name": "Balkar Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 62,
+      "constituency": "Khadoor Sahib",
+      "reservation": null,
+      "name": "Manjinder Singh Lalpura",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 63,
+      "constituency": "Khanna",
+      "reservation": null,
+      "name": "Tarunpreet Singh Sond",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 64,
+      "constituency": "Kharar",
+      "reservation": null,
+      "name": "Anmol Gagan Maan",
+      "party": "AAP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 65,
+      "constituency": "Khem Karan",
+      "reservation": null,
+      "name": "Sarvan Singh Dhun",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 66,
+      "constituency": "Kotkapura",
+      "reservation": null,
+      "name": "Kultar Singh Sandhwan",
+      "party": "AAP",
+      "note": "Speaker of the Assembly",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 67,
+      "constituency": "Lambi",
+      "reservation": null,
+      "name": "Gurmeet Singh Khudian",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 68,
+      "constituency": "Lehra",
+      "reservation": null,
+      "name": "Barinder Kumar Goyal",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 69,
+      "constituency": "Ludhiana Central",
+      "reservation": null,
+      "name": "Ashok Parashar (Pappi)",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 70,
+      "constituency": "Ludhiana East",
+      "reservation": null,
+      "name": "Daljit Singh Grewal",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 71,
+      "constituency": "Ludhiana North",
+      "reservation": null,
+      "name": "Madan Lal Bagga",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 72,
+      "constituency": "Ludhiana South",
+      "reservation": null,
+      "name": "Rajinder Pal Kaur (Chhina)",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 73,
+      "constituency": "Ludhiana West",
+      "reservation": null,
+      "name": "Sanjeev Arora",
+      "party": "AAP",
+      "note": "Won bypoll 19 Jun 2025; prev. Gurpreet Bassi Gogi (AAP) died 11 Jan 2025",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 74,
+      "constituency": "Majitha",
+      "reservation": null,
+      "name": "Ganieve Kaur Majithia",
+      "party": "SAD",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 75,
+      "constituency": "Malerkotla",
+      "reservation": null,
+      "name": "Mohammad Jamil Ur Rehman",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 76,
+      "constituency": "Malout",
+      "reservation": "SC",
+      "name": "Dr. Baljit Kaur",
+      "party": "AAP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 77,
+      "constituency": "Mansa",
+      "reservation": null,
+      "name": "Vijay Singla",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 78,
+      "constituency": "Maur",
+      "reservation": null,
+      "name": "Sukhveer Singh Maiserkhana",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 79,
+      "constituency": "Mehal Kalan",
+      "reservation": "SC",
+      "name": "Kulwant Singh Pandori",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 80,
+      "constituency": "Moga",
+      "reservation": null,
+      "name": "Dr. Amandeep Kaur Arora",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 81,
+      "constituency": "Moonak",
+      "reservation": "SC",
+      "name": "Not confidently confirmed",
+      "party": null,
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "unconfirmed"
+    },
+    {
+      "no": 82,
+      "constituency": "Muktsar",
+      "reservation": null,
+      "name": "Jagdeep Singh (Kaka Brar)",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 83,
+      "constituency": "Nabha",
+      "reservation": "SC",
+      "name": "Gurdev Singh Dev Maan",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 84,
+      "constituency": "Nakodar",
+      "reservation": null,
+      "name": "Inderjit Kaur Mann",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 85,
+      "constituency": "Nawan Shahr",
+      "reservation": null,
+      "name": "Nachhatar Pal",
+      "party": "BSP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 86,
+      "constituency": "Nihal Singh Wala",
+      "reservation": "SC",
+      "name": "Manjit Singh Bilaspur",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 87,
+      "constituency": "Pathankot",
+      "reservation": null,
+      "name": "Ashwani Kumar Sharma",
+      "party": "BJP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 88,
+      "constituency": "Patiala",
+      "reservation": null,
+      "name": "Ajit Pal Singh Kohli",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 89,
+      "constituency": "Patiala Rural",
+      "reservation": null,
+      "name": "Balbir Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 90,
+      "constituency": "Patti",
+      "reservation": null,
+      "name": "Laljit Singh Bhullar",
+      "party": "AAP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 91,
+      "constituency": "Payal",
+      "reservation": "SC",
+      "name": "Manwinder Singh Giaspura",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 92,
+      "constituency": "Phagwara",
+      "reservation": "SC",
+      "name": "Balwinder Singh Dhaliwal",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 93,
+      "constituency": "Phillaur",
+      "reservation": "SC",
+      "name": "Vikramjit Singh Chaudhary",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 94,
+      "constituency": "Qadian",
+      "reservation": null,
+      "name": "Partap Singh Bajwa",
+      "party": "INC",
+      "note": "Leader of the Opposition",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 95,
+      "constituency": "Raikot",
+      "reservation": "SC",
+      "name": "Hakam Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 96,
+      "constituency": "Raja Sansi",
+      "reservation": null,
+      "name": "Sukhbinder Singh Sarkaria",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 97,
+      "constituency": "Rajpura",
+      "reservation": null,
+      "name": "Neena Mittal",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 98,
+      "constituency": "Rampura Phul",
+      "reservation": null,
+      "name": "Balkar Singh Sidhu",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 99,
+      "constituency": "Rupnagar",
+      "reservation": null,
+      "name": "Dinesh Chadha",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 100,
+      "constituency": "S.A.S. Nagar",
+      "reservation": null,
+      "name": "Kulwant Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 101,
+      "constituency": "Sahnewal",
+      "reservation": null,
+      "name": "Hardeep Singh Mundian",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 102,
+      "constituency": "Samana",
+      "reservation": null,
+      "name": "Chetan Singh Jouramajra",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 103,
+      "constituency": "Samrala",
+      "reservation": null,
+      "name": "Jagtar Singh (Diyalpura)",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 104,
+      "constituency": "Sangrur",
+      "reservation": null,
+      "name": "Narinder Kaur Bharaj",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 105,
+      "constituency": "Sanour",
+      "reservation": null,
+      "name": "Harmit Singh Pathanmajra",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 106,
+      "constituency": "Sardulgarh",
+      "reservation": null,
+      "name": "Gurpreet Singh Banawali",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 107,
+      "constituency": "Shahkot",
+      "reservation": null,
+      "name": "Hardev Singh Laddi",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 108,
+      "constituency": "Sham Chaurasi",
+      "reservation": null,
+      "name": "Dr. Ravjot Singh",
+      "party": "AAP",
+      "note": "Cabinet Minister; Legislative Affairs",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 109,
+      "constituency": "Shutrana",
+      "reservation": "SC",
+      "name": "Kulwant Singh Bazigar",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 110,
+      "constituency": "Sri Hargobindpur",
+      "reservation": "SC",
+      "name": "Amarpal Singh",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 111,
+      "constituency": "Sujanpur",
+      "reservation": null,
+      "name": "Naresh Puri",
+      "party": "INC",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 112,
+      "constituency": "Sultanpur Lodhi",
+      "reservation": null,
+      "name": "Rana Inder Partap Singh",
+      "party": "IND",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 113,
+      "constituency": "Sunam",
+      "reservation": null,
+      "name": "Aman Arora",
+      "party": "AAP",
+      "note": "Cabinet Minister",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 114,
+      "constituency": "Talwandi Sabo",
+      "reservation": null,
+      "name": "Baljinder Kaur",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 115,
+      "constituency": "Tarn Taran",
+      "reservation": null,
+      "name": "Harmeet Singh Sandhu",
+      "party": "AAP",
+      "note": "Won bypoll 11 Nov 2025; prev. Dr. Kashmir Singh Sohal (AAP) died",
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 116,
+      "constituency": "Urmar",
+      "reservation": null,
+      "name": "Jasvir Singh Raja Gill",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    },
+    {
+      "no": 117,
+      "constituency": "Zira",
+      "reservation": null,
+      "name": "Naresh Kataria",
+      "party": "AAP",
+      "note": null,
+      "last_checked": "2026-08-27",
+      "confidence": "high"
+    }
+  ]
+}

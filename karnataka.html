@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Karnataka — The India Directory</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="brand">
+      <div class="seal">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#C9A75C" stroke-width="1.2">
+          <circle cx="12" cy="12" r="9"/>
+          <g>
+            <line x1="12" y1="3" x2="12" y2="21"/>
+            <line x1="3" y1="12" x2="21" y2="12"/>
+            <line x1="5.5" y1="5.5" x2="18.5" y2="18.5"/>
+            <line x1="18.5" y1="5.5" x2="5.5" y2="18.5"/>
+          </g>
+          <circle cx="12" cy="12" r="2" fill="#C9A75C" stroke="none"/>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <p class="eyebrow">A civic reference, gazette style</p>
+        <h1>The India Directory</h1>
+      </div>
+    </div>
+    <div class="masthead-meta">
+      VOL. I · UNION &amp; STATE EDITION<br>
+      <span id="last-verified-badge">LOADING LIVE DATA…</span><br>
+      NEXT IN QUEUE: FULL STATE ROLLOUT
+    </div>
+  </div>
+  <hr class="masthead-rule">
+  <nav class="tier-nav" id="nav-placeholder"></nav>
+</div>
+
+<div class="wrap">
+  <section class="tier active" id="karnataka">
+    <div class="tier-head">
+      <div>
+        <h2>Government of Karnataka</h2>
+        <p>Chief Minister, key cabinet portfolios, and every MLA in Karnataka's 224-seat Legislative Assembly.</p>
+      </div>
+      <div class="as-of">AS REPORTED · AUG 2026</div>
+    </div>
+    <hr class="gazette">
+
+    <div class="chief-strip">
+      <div class="chief-photo-seal" id="karnataka-photo">--</div>
+      <div class="chief-info">
+        <div class="role">Chief Minister of Karnataka</div>
+        <h3 id="karnataka-chief-name">…</h3>
+        <div class="sub" id="karnataka-chief-note"></div>
+      </div>
+    </div>
+
+    <h3 style="font-family:'Fraunces',serif;font-size:20px;color:var(--navy-deep);margin:0 0 16px;">Council of Ministers — key portfolios</h3>
+    <div class="office-grid" id="karnataka-grid"></div>
+
+    <div class="caveat" id="karnataka-leadership-caveat" style="margin-bottom:44px;">Source: portfolio allocations reported June–August 2026 (Business Today, Deccan Herald, Wikipedia's Shivakumar ministry page). The cabinet was initially sworn in with 14 members on 3 June 2026 and expanded on 3 August 2026; some portfolios were revised again on 12 August 2026.</div>
+
+    <h3 style="font-family:'Fraunces',serif;font-size:20px;color:var(--navy-deep);margin:0 0 6px;">Constituencies &amp; MLAs</h3>
+    <p style="color:var(--ink-soft);font-size:13.5px;margin:0 0 20px;max-width:640px;" id="karnataka-mla-desc">All 224 constituencies of the 16th Karnataka Legislative Assembly (2023–2028), with their sitting MLA and party.</p>
+
+    <div class="districts-toolbar">
+      <div class="search-box">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="mla-search-karnataka" placeholder="Search a constituency or MLA…">
+      </div>
+      <div class="count-tag" id="mla-count-karnataka">loading…</div>
+    </div>
+
+    <div class="table-scroll">
+    <table class="districts">
+      <thead>
+        <tr>
+          <th>No.</th>
+          <th>Constituency</th>
+          <th>MLA</th>
+          <th>Party</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody id="mlas-body-karnataka"></tbody>
+    </table>
+    </div>
+
+    <div class="caveat" id="karnataka-mla-caveat">Source: <a class="verify-link" href="https://en.wikipedia.org/wiki/16th_Karnataka_Assembly" target="_blank" rel="noopener">16th Karnataka Assembly</a> — includes by-election winners, deaths in office, and party switches recorded since the 2023 election, including Hiriyur, currently vacant after D. Sudhakar's death in May 2026. MLAs serve five-year terms, so this is far more stable than an appointed-official roster, but still worth a quick check on anything election-sensitive.</div>
+  </section>
+</div>
+
+<footer>
+  THE INDIA DIRECTORY — an unofficial civic reference. Not affiliated with the Government of India or any state government. Verify anything election‑ or appointment‑sensitive against the official source linked inline before relying on it.
+  <br><br>
+  Found an error, or want to suggest a state? <a href="contact.html" style="color:var(--gold-soft);border-bottom:1px solid rgba(201,167,92,.4);text-decoration:none;">Contact us</a>.
+</footer>
+
+<!-- Cloudflare Web Analytics -->
+<script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d601291611ac48d78a86afa57a8ce8e2"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body>
+</html>
+<script src="shared.js"></script>
+<script>
+buildNav("karnataka");
+bootStatePage("karnataka", "Karnataka");
+</script>
+</body>
+</html>
