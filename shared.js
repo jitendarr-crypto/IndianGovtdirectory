@@ -113,6 +113,7 @@ const ALL_STATES = [
   {key:"odisha", label:"Odisha"},
   {key:"assam", label:"Assam"},
   {key:"punjab", label:"Punjab"},
+  {key:"chhattisgarh", label:"Chhattisgarh"},
 ];
 
 // All 28 states + the 3 union territories with their own legislative
@@ -133,7 +134,13 @@ const ALL_INDIA_ENTITIES = [
 // ---------------- NAV (renders into #nav-placeholder on every page) ----------------
 function buildNav(currentKey){
   const pinned = ALL_STATES.filter(s => s.pinned);
-  const dropdown = ALL_STATES.filter(s => !s.pinned).slice().sort((a,b) => a.label.localeCompare(b.label));
+  // The dropdown always lists EVERY state, not just the non-pinned ones.
+  // On mobile, CSS hides all pinned tab buttons except Union (see the
+  // max-width:640px rule in shared.css) -- if the dropdown only had the
+  // non-pinned states, the pinned ones would be completely unreachable
+  // on mobile. This bit it once before in the single-page version; don't
+  // reintroduce it here.
+  const dropdown = ALL_STATES.slice().sort((a,b) => a.label.localeCompare(b.label));
 
   const unionActive = currentKey === "union" ? " active" : "";
   const unionLink = `<a class="tier-btn${unionActive}" href="index.html">Union Government</a>`;
