@@ -1,3 +1,3 @@
-# India Directory -- daily check, 2026-09-13T08:07:07.532653+00:00Z
+# India Directory -- daily check, 2026-09-14T08:41:40.001279+00:00Z
 
-No changes found today.
+- MLA/MP check skipped today (runs weekly, on Sundays UTC). Set FORCE_MLA_CHECK=true to run it on demand.
